@@ -1,0 +1,5046 @@
+{ 
+    "_id" : ObjectId("591c8077ab62b43ba87f6e7a"), 
+    "tel" : " 15851048975 ", 
+    "name" : "千微盐城分公司", 
+    "address" : "盐城亭湖国际创投中心"
+}
+{ 
+    "_id" : ObjectId("591c8078ab62b43ba87f6e7b"), 
+    "tel" : " 18205119779 ", 
+    "name" : "邦泰投诚理财", 
+    "address" : "盐城亭湖盐都中心"
+}
+{ 
+    "_id" : ObjectId("591c8079ab62b43ba87f6e7c"), 
+    "tel" : " 13338937157 ", 
+    "name" : "盐城市金时利信息咨询服务有限公司", 
+    "address" : "盐城亭湖钱江财富广场"
+}
+{ 
+    "_id" : ObjectId("591c807cab62b43ba87f6e7e"), 
+    "tel" : " 18961980061 ", 
+    "name" : "乾瑞资产盐城站", 
+    "address" : "盐城亭湖区宝龙公寓2号楼804室"
+}
+{ 
+    "_id" : ObjectId("591c807dab62b43ba87f6e7f"), 
+    "tel" : " 18252227891 ", 
+    "name" : "皇家投资理财", 
+    "address" : "盐城市亭湖区亭湖"
+}
+{ 
+    "_id" : ObjectId("591c807fab62b43ba87f6e80"), 
+    "tel" : " 17712508333 ", 
+    "name" : "盐城市华一信息咨询有限公司", 
+    "address" : "盐城亭湖区开发区"
+}
+{ 
+    "_id" : ObjectId("591c8080ab62b43ba87f6e81"), 
+    "tel" : " 13222398188 ", 
+    "name" : "永亨投资管理", 
+    "address" : "盐城市亭湖区汇金大厦"
+}
+{ 
+    "_id" : ObjectId("591c8082ab62b43ba87f6e82"), 
+    "tel" : " 15295330000 ", 
+    "name" : "莎洼迪投资管理", 
+    "address" : "盐城市华邦国际西厦B区1208室"
+}
+{ 
+    "_id" : ObjectId("591c8082ab62b43ba87f6e83"), 
+    "tel" : " 18005107009 ", 
+    "name" : "盐城玖隆投资有限公司", 
+    "address" : "盐城市大庆中路76号"
+}
+{ 
+    "_id" : ObjectId("591c8083ab62b43ba87f6e84"), 
+    "tel" : " 13921819882 ", 
+    "name" : "普惠投资", 
+    "address" : "新都路神州路交界紫金大厦405室"
+}
+{ 
+    "_id" : ObjectId("591c8085ab62b43ba87f6e85"), 
+    "tel" : " 18014652839 ", 
+    "name" : "聚益投资", 
+    "address" : "盐城阜宁香港路505号"
+}
+{ 
+    "_id" : ObjectId("591c8086ab62b43ba87f6e86"), 
+    "tel" : " 15295333907 ", 
+    "name" : "中睿国盛担保公司", 
+    "address" : "盐城亭湖盐都城南新区周边县城"
+}
+{ 
+    "_id" : ObjectId("591c80b7ab62b43ba87f6e87"), 
+    "tel" : " 15366581269 ", 
+    "name" : "江苏隆易贷投资管理有限公司", 
+    "address" : "国际创投中心北楼6005室"
+}
+{ 
+    "_id" : ObjectId("591c80f7ab62b43ba87f6e88"), 
+    "tel" : " 15705103399 ", 
+    "name" : "盐城泰鑫商务信息咨询有限公司", 
+    "address" : "盐城华邦国际西厦1306B"
+}
+{ 
+    "_id" : ObjectId("591c811aab62b43ba87f6e89"), 
+    "tel" : " 15705103399 ", 
+    "name" : "盐城泰鑫商务信息咨询有限公司", 
+    "address" : "盐城亭湖华邦国际西厦1306B"
+}
+{ 
+    "_id" : ObjectId("591c8133ab62b43ba87f6e8a"), 
+    "tel" : " 15861936053 ", 
+    "name" : "盐城雅鼎经济公司", 
+    "address" : "盐城亭湖五洲国际路东4楼"
+}
+{ 
+    "_id" : ObjectId("591c8176ab62b43ba87f6e8b"), 
+    "tel" : " 18361091007 ", 
+    "name" : "盐城雅鼎经济信息咨询有限公司", 
+    "address" : "盐城亭湖迎宾南路29号4楼"
+}
+{ 
+    "_id" : ObjectId("591c81b4ab62b43ba87f6e8c"), 
+    "tel" : " 18012500573 ", 
+    "name" : "盐城奥鼎圣网络有限公司", 
+    "address" : "盐城盐都区西环路"
+}
+{ 
+    "_id" : ObjectId("591c81efab62b43ba87f6e8d"), 
+    "tel" : " 18914674800 ", 
+    "name" : "盐城金国易通", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c81feab62b43ba87f6e8e"), 
+    "tel" : " 18761841148 ", 
+    "name" : "南京国平投资管理有限公司", 
+    "address" : "全南京栖霞迈皋桥"
+}
+{ 
+    "_id" : ObjectId("591c8203ab62b43ba87f6e8f"), 
+    "tel" : " 18862092899 ", 
+    "name" : "盐城汇融投资服务有限公司", 
+    "address" : "盐城市城南新区金融城3号楼903室"
+}
+{ 
+    "_id" : ObjectId("591c8209ab62b43ba87f6e90"), 
+    "tel" : " 13814547383 ", 
+    "name" : "中科智担保公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c822eab62b43ba87f6e91"), 
+    "tel" : " 13757017329 ", 
+    "name" : "太力健联赢投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c822fab62b43ba87f6e92"), 
+    "tel" : " 15366581269 ", 
+    "name" : "隆易贷", 
+    "address" : "盐城盐都区国际创投中心北楼6005室"
+}
+{ 
+    "_id" : ObjectId("591c8232ab62b43ba87f6e93"), 
+    "tel" : " 18205196201 ", 
+    "name" : "南京恒远投资管理有限公司", 
+    "address" : "江苏省南京市玄武区新街口街道北门桥路8号"
+}
+{ 
+    "_id" : ObjectId("591c824aab62b43ba87f6e94"), 
+    "tel" : " 15396882878 ", 
+    "name" : "江苏鑫誉投资管理有限公司", 
+    "address" : "常州武进世贸中心A座2007"
+}
+{ 
+    "_id" : ObjectId("591c824dab62b43ba87f6e95"), 
+    "tel" : " 15251091111 ", 
+    "name" : "盐城市汇富信息咨询有限公司", 
+    "address" : "盐城亭湖人民中路"
+}
+{ 
+    "_id" : ObjectId("591c8257ab62b43ba87f6e97"), 
+    "tel" : " 15605169600 ", 
+    "name" : "南京铭昊投资管理有限公司", 
+    "address" : "江苏南京周边地区"
+}
+{ 
+    "_id" : ObjectId("591c8261ab62b43ba87f6e98"), 
+    "tel" : " 15725830723 ", 
+    "name" : "锐拓（杭州）互联网金融信息服务有限公司泰安分公司", 
+    "address" : "泰安泰山区虎山路146号"
+}
+{ 
+    "_id" : ObjectId("591c8269ab62b43ba87f6e9a"), 
+    "tel" : " 13605101777 ", 
+    "name" : "盐城市盐都区申通寄售行", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c827aab62b43ba87f6e9b"), 
+    "tel" : " 15605169600 ", 
+    "name" : "中利保投资管理有限公司", 
+    "address" : "香格里拉大酒店"
+}
+{ 
+    "_id" : ObjectId("591c827bab62b43ba87f6e9c"), 
+    "tel" : " 18551521606 ", 
+    "name" : "宜信普惠信息咨询（北京）有限公司盐城分公司", 
+    "address" : "盐城亭湖区青年中路钱江财富广场"
+}
+{ 
+    "_id" : ObjectId("591c827dab62b43ba87f6e9d"), 
+    "tel" : " 18662082253 ", 
+    "name" : "江苏易通创业投资有限公司", 
+    "address" : "盐城亭湖华邦国际"
+}
+{ 
+    "_id" : ObjectId("591c827eab62b43ba87f6e9e"), 
+    "tel" : " 18662082253 ", 
+    "name" : "易通投资", 
+    "address" : "盐城亭湖区华邦国际东厦A区1401"
+}
+{ 
+    "_id" : ObjectId("591c8280ab62b43ba87f6e9f"), 
+    "tel" : " 18361076129 ", 
+    "name" : "盐城市华一信息咨询有限公司", 
+    "address" : "盐城亭湖经济开发区"
+}
+{ 
+    "_id" : ObjectId("591c829cab62b43ba87f6ea1"), 
+    "tel" : " 15221750857 ", 
+    "name" : "汇盈丰小额贷款", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c829cab62b43ba87f6ea2"), 
+    "tel" : " 18961980784 ", 
+    "name" : "福元运通", 
+    "address" : "盐城亭湖区华邦国际"
+}
+{ 
+    "_id" : ObjectId("591c829eab62b43ba87f6ea3"), 
+    "tel" : " 18221506358 ", 
+    "name" : "甘肃宝源恒达投资咨询有限公司", 
+    "address" : "中医院斜对面农业银行旁边"
+}
+{ 
+    "_id" : ObjectId("591c82a1ab62b43ba87f6ea4"), 
+    "tel" : " 15005118060 ", 
+    "name" : "江苏嘉享德投资管理有限公司盐城分公司", 
+    "address" : "建军东路景福大厦"
+}
+{ 
+    "_id" : ObjectId("591c82a3ab62b43ba87f6ea6"), 
+    "tel" : " 13961991172 ", 
+    "name" : "冠鲜楼野生馆", 
+    "address" : "东进路与迎宾路交界处宝龙广场西侧"
+}
+{ 
+    "_id" : ObjectId("591c82a5ab62b43ba87f6ea7"), 
+    "tel" : " 13961997679 ", 
+    "name" : "盛付通金融", 
+    "address" : "盐城亭湖区鹿鸣路与盐马路交接口"
+}
+{ 
+    "_id" : ObjectId("591c82a7ab62b43ba87f6ea8"), 
+    "tel" : " 18914674900 ", 
+    "name" : "金国易通", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82a8ab62b43ba87f6ea9"), 
+    "tel" : " 15026618103 ", 
+    "name" : "杭州轻罗服饰有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82b1ab62b43ba87f6ead"), 
+    "tel" : " 13675834491 ", 
+    "name" : "义乌市臻品服饰", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82b3ab62b43ba87f6eae"), 
+    "tel" : " 15576274680 ", 
+    "name" : "弘禄安投资管理", 
+    "address" : "长沙雨花金领家族749"
+}
+{ 
+    "_id" : ObjectId("591c82b4ab62b43ba87f6eaf"), 
+    "tel" : " 13182172927 ", 
+    "name" : "福州优正电子有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82b5ab62b43ba87f6eb0"), 
+    "tel" : " 13152351591 ", 
+    "name" : "福州米伦贸易有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82baab62b43ba87f6eb2"), 
+    "tel" : " 13092278799 ", 
+    "name" : "上海成家实业有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82bdab62b43ba87f6eb3"), 
+    "tel" : " 18362644200 ", 
+    "name" : "米利投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82c2ab62b43ba87f6eb4"), 
+    "tel" : " 江苏省-苏州 ", 
+    "name" : "温州嘉华环保设备有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82cdab62b43ba87f6eb6"), 
+    "tel" : " 15605169600 ", 
+    "name" : "红兴星投资发展有限公司", 
+    "address" : "中央路323号利奥大厦"
+}
+{ 
+    "_id" : ObjectId("591c82d5ab62b43ba87f6eb7"), 
+    "tel" : " 17096205786 ", 
+    "name" : "小额贷款有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82d6ab62b43ba87f6eb8"), 
+    "tel" : " 15366914760 ", 
+    "name" : "邗江区江雨投资理财咨询服务中心", 
+    "address" : "江苏省扬州市商城国际大厦"
+}
+{ 
+    "_id" : ObjectId("591c82d7ab62b43ba87f6eb9"), 
+    "tel" : " 15180703762 ", 
+    "name" : "上海骏然投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82d8ab62b43ba87f6eba"), 
+    "tel" : " 18261901685 ", 
+    "name" : "五千文化传播公司", 
+    "address" : "盐城亭湖东升新村"
+}
+{ 
+    "_id" : ObjectId("591c82d9ab62b43ba87f6ebb"), 
+    "tel" : " 13044110730 ", 
+    "name" : "杭州悦阔投资管理有限公司", 
+    "address" : "市区悦阔投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591c82dcab62b43ba87f6ebd"), 
+    "tel" : " 15000259208 ", 
+    "name" : "振华投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82deab62b43ba87f6ebe"), 
+    "tel" : " 15003512049 ", 
+    "name" : "深圳市珂尼蒂思投资发展有公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82dfab62b43ba87f6ebf"), 
+    "tel" : " 15221826857 ", 
+    "name" : "瑞通投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82e0ab62b43ba87f6ec0"), 
+    "tel" : " 13814375333 ", 
+    "name" : "盐城乐居房产经纪有限公司", 
+    "address" : "大星菜场门市"
+}
+{ 
+    "_id" : ObjectId("591c82e2ab62b43ba87f6ec1"), 
+    "tel" : " 18158757961 ", 
+    "name" : "泰泽资产", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82e3ab62b43ba87f6ec2"), 
+    "tel" : " 18012507373 ", 
+    "name" : "融亿汽车销售", 
+    "address" : "盐城盐都区紫金大厦6楼605室"
+}
+{ 
+    "_id" : ObjectId("591c82e4ab62b43ba87f6ec3"), 
+    "tel" : " 18691031909 ", 
+    "name" : "广聚财投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82e5ab62b43ba87f6ec4"), 
+    "tel" : " 18853816890 ", 
+    "name" : "志远文化传媒", 
+    "address" : "泰安市泰山区迎胜路1号"
+}
+{ 
+    "_id" : ObjectId("591c82e7ab62b43ba87f6ec5"), 
+    "tel" : " 15210966396 ", 
+    "name" : "米利投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82e8ab62b43ba87f6ec6"), 
+    "tel" : " 15262645465 ", 
+    "name" : "裕久鼎投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82ebab62b43ba87f6ec7"), 
+    "tel" : " 15920126706 ", 
+    "name" : "台州市日昊投资顾问有限公司", 
+    "address" : "日昊投资顾问有限公司"
+}
+{ 
+    "_id" : ObjectId("591c82edab62b43ba87f6ec8"), 
+    "tel" : " 13046528505 ", 
+    "name" : "广州市爱唯伊投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82efab62b43ba87f6ec9"), 
+    "tel" : " 13589110912 ", 
+    "name" : "汇豪投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82f0ab62b43ba87f6eca"), 
+    "tel" : " 18721261978 ", 
+    "name" : "玖富时代投资顾问", 
+    "address" : "玖富时代小额贷款有限公司"
+}
+{ 
+    "_id" : ObjectId("591c82f2ab62b43ba87f6ecb"), 
+    "tel" : " 18217113978 ", 
+    "name" : "振华投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82f3ab62b43ba87f6ecc"), 
+    "tel" : " 15721495019 ", 
+    "name" : "右择投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82f6ab62b43ba87f6ecd"), 
+    "tel" : " 15000757815 ", 
+    "name" : "瑞通投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82f8ab62b43ba87f6ece"), 
+    "tel" : " 15221001718 ", 
+    "name" : "四联投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82f8ab62b43ba87f6ecf"), 
+    "tel" : " 18221205298 ", 
+    "name" : "四联担保投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82fcab62b43ba87f6ed0"), 
+    "tel" : " 15888567730 ", 
+    "name" : "山东易得财富投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82fdab62b43ba87f6ed1"), 
+    "tel" : " 15764774881 ", 
+    "name" : "润泽小额贷款", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c82ffab62b43ba87f6ed2"), 
+    "tel" : " 15861995765 ", 
+    "name" : "恒泰金融", 
+    "address" : "盐城亭湖区开放大道十号"
+}
+{ 
+    "_id" : ObjectId("591c8300ab62b43ba87f6ed3"), 
+    "tel" : " 15210933736 ", 
+    "name" : "闽乡物资贸易有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8301ab62b43ba87f6ed4"), 
+    "tel" : " 18921877708 ", 
+    "name" : "恒昌惠城信息咨询有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8303ab62b43ba87f6ed5"), 
+    "tel" : " 18261655576 ", 
+    "name" : "润泽小额贷款股份有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8306ab62b43ba87f6ed6"), 
+    "tel" : " 15814481737 ", 
+    "name" : "深圳市晟达财富管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8307ab62b43ba87f6ed7"), 
+    "tel" : " 15221707668 ", 
+    "name" : "振华投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8308ab62b43ba87f6ed8"), 
+    "tel" : " 15721494997 ", 
+    "name" : "右择投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8309ab62b43ba87f6ed9"), 
+    "tel" : " 13261991292 ", 
+    "name" : "奥尔森商贸", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c830bab62b43ba87f6eda"), 
+    "tel" : " 17889922562 ", 
+    "name" : "深圳市誉田科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c830cab62b43ba87f6edb"), 
+    "tel" : " 13583161719 ", 
+    "name" : "莱芜舜诚投资咨询有限公司", 
+    "address" : "舜诚投资咨询有限公司"
+}
+{ 
+    "_id" : ObjectId("591c830dab62b43ba87f6edc"), 
+    "tel" : " 15221829173 ", 
+    "name" : "瑞通投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c830eab62b43ba87f6edd"), 
+    "tel" : " 17095757416 ", 
+    "name" : "杭州飘馨服饰有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c830fab62b43ba87f6ede"), 
+    "tel" : " 18317121258 ", 
+    "name" : "投资理财", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8310ab62b43ba87f6edf"), 
+    "tel" : " 15730088509 ", 
+    "name" : "深圳徐工投资发展有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8312ab62b43ba87f6ee0"), 
+    "tel" : " 18358984521 ", 
+    "name" : "宁波合众芸创财富投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8313ab62b43ba87f6ee1"), 
+    "tel" : " 13770076365 ", 
+    "name" : "一起好金融信息公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8314ab62b43ba87f6ee2"), 
+    "tel" : " 18321202208 ", 
+    "name" : "苏州裕久鼎投资管理有限公司", 
+    "address" : "苏州裕久鼎投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591c8315ab62b43ba87f6ee3"), 
+    "tel" : " 15026966575 ", 
+    "name" : "亚联财小额贷款公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8316ab62b43ba87f6ee4"), 
+    "tel" : " 15365773031 ", 
+    "name" : "盐城沃华财务咨询有限公司", 
+    "address" : "盐城亭湖人民南路119号综合楼1幢402室"
+}
+{ 
+    "_id" : ObjectId("591c8319ab62b43ba87f6ee5"), 
+    "tel" : " 15264150370 ", 
+    "name" : "成都兴锐投资管理有限公司", 
+    "address" : "成都兴锐投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591c831aab62b43ba87f6ee6"), 
+    "tel" : " 17079052008 ", 
+    "name" : "广州市罗莎皮具有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c831dab62b43ba87f6ee8"), 
+    "tel" : " 18351279625 ", 
+    "name" : "三汇融资租赁", 
+    "address" : "江苏省盐城市亭湖区金融城"
+}
+{ 
+    "_id" : ObjectId("591c831fab62b43ba87f6ee9"), 
+    "tel" : " 18068896389 ", 
+    "name" : "广聚地产", 
+    "address" : "盐城亭湖区新锦苑8号楼D幢1楼18号"
+}
+{ 
+    "_id" : ObjectId("591c8320ab62b43ba87f6eea"), 
+    "tel" : " 17082178879 ", 
+    "name" : "北京益阅图书有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8321ab62b43ba87f6eeb"), 
+    "tel" : " 13559113496 ", 
+    "name" : "东莞市丰典实业投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8323ab62b43ba87f6eec"), 
+    "tel" : " 13012840870 ", 
+    "name" : "弈信邦投资管理", 
+    "address" : "弈信邦投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591c8324ab62b43ba87f6eed"), 
+    "tel" : " 17072594902 ", 
+    "name" : "南京昆敖智能科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8325ab62b43ba87f6eee"), 
+    "tel" : " 13670265248 ", 
+    "name" : "明海亨业投资担保", 
+    "address" : "明海亨业投资担保有限公司"
+}
+{ 
+    "_id" : ObjectId("591c8326ab62b43ba87f6eef"), 
+    "tel" : " 13528426020 ", 
+    "name" : "富元投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8329ab62b43ba87f6ef0"), 
+    "tel" : " 15652103960 ", 
+    "name" : "玖富时代投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c832cab62b43ba87f6ef1"), 
+    "tel" : " 18280489612 ", 
+    "name" : "深圳兰淇六六科技", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c832dab62b43ba87f6ef2"), 
+    "tel" : " 15168268266 ", 
+    "name" : "新兴建筑公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c832eab62b43ba87f6ef3"), 
+    "tel" : " 15703791742 ", 
+    "name" : "硕宝经济咨询", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c832fab62b43ba87f6ef4"), 
+    "tel" : " 18288665955 ", 
+    "name" : "河南恒大投资担保有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8331ab62b43ba87f6ef5"), 
+    "tel" : " 15051341349 ", 
+    "name" : "福元信息咨询有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8332ab62b43ba87f6ef6"), 
+    "tel" : " 13259657411 ", 
+    "name" : "宁波恒德利投资咨询有限公司", 
+    "address" : "恒德利投资咨询有限公司"
+}
+{ 
+    "_id" : ObjectId("591c8333ab62b43ba87f6ef7"), 
+    "tel" : " 13771164862 ", 
+    "name" : "杭州市尊信服饰公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8336ab62b43ba87f6ef8"), 
+    "tel" : " 15982271052 ", 
+    "name" : "黑龙江真美广播通讯器材有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8337ab62b43ba87f6ef9"), 
+    "tel" : " 17070986639 ", 
+    "name" : "江门市江海区飞腾科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8338ab62b43ba87f6efa"), 
+    "tel" : " 15167159665 ", 
+    "name" : "正信投资担保有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8339ab62b43ba87f6efb"), 
+    "tel" : " 13522144381 ", 
+    "name" : "国宝投资公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c833bab62b43ba87f6efc"), 
+    "tel" : " 15366557977 ", 
+    "name" : "金链子金融信息服务", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c833eab62b43ba87f6efe"), 
+    "tel" : " 13671985889 ", 
+    "name" : "南方融资性担保有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8341ab62b43ba87f6eff"), 
+    "tel" : " 15289687169 ", 
+    "name" : "深圳市金斯妮贸易有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8342ab62b43ba87f6f00"), 
+    "tel" : " 15555249525 ", 
+    "name" : "风行天下有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8344ab62b43ba87f6f01"), 
+    "tel" : " 15210981019 ", 
+    "name" : "弘禄安投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8345ab62b43ba87f6f02"), 
+    "tel" : " 13793138505 ", 
+    "name" : "富元投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8346ab62b43ba87f6f03"), 
+    "tel" : " 15078833152 ", 
+    "name" : "通辽市华数科技", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8348ab62b43ba87f6f04"), 
+    "tel" : " 18321895118 ", 
+    "name" : "兴泰融资担保有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c834cab62b43ba87f6f05"), 
+    "tel" : " 13405845618 ", 
+    "name" : "乾鼎信用担保有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c834dab62b43ba87f6f06"), 
+    "tel" : " 15712336998 ", 
+    "name" : "深圳欧斯恩科技公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c834eab62b43ba87f6f07"), 
+    "tel" : " 18321283278 ", 
+    "name" : "广东安盾实业投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c834fab62b43ba87f6f08"), 
+    "tel" : " 15851077362 ", 
+    "name" : "盐城学军豪华丰田考斯特租赁", 
+    "address" : "盐城开发区聚亨路8号"
+}
+{ 
+    "_id" : ObjectId("591c8350ab62b43ba87f6f09"), 
+    "tel" : " 15038113009 ", 
+    "name" : "深圳市钻悦商贸公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8352ab62b43ba87f6f0a"), 
+    "tel" : " 15366557977 ", 
+    "name" : "盐城携手企业注册代理有限公司", 
+    "address" : "盐城亭湖飞驰国际"
+}
+{ 
+    "_id" : ObjectId("591c8355ab62b43ba87f6f0b"), 
+    "tel" : " 13262221151 ", 
+    "name" : "竹亿投资咨询", 
+    "address" : "竹亿投资咨询有限公司"
+}
+{ 
+    "_id" : ObjectId("591c8356ab62b43ba87f6f0c"), 
+    "tel" : " 15921921514 ", 
+    "name" : "深圳市闪王科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8358ab62b43ba87f6f0d"), 
+    "tel" : " 13365186523 ", 
+    "name" : "盐城众筹股权投资基金管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8359ab62b43ba87f6f0e"), 
+    "tel" : " 15961853714 ", 
+    "name" : "深圳思萨投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c835aab62b43ba87f6f0f"), 
+    "tel" : " 15962590781 ", 
+    "name" : "苏金所投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8360ab62b43ba87f6f13"), 
+    "tel" : " 15035530477 ", 
+    "name" : "奥马斯科技", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8361ab62b43ba87f6f14"), 
+    "tel" : " 18575357469 ", 
+    "name" : "广州速炫科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8362ab62b43ba87f6f15"), 
+    "tel" : " 18770039458 ", 
+    "name" : "东莞市维格实业投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8364ab62b43ba87f6f16"), 
+    "tel" : " 17096509881 ", 
+    "name" : "北京暖之龙科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8367ab62b43ba87f6f17"), 
+    "tel" : " 15198165205 ", 
+    "name" : "深圳市龙泰投资发展有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8368ab62b43ba87f6f18"), 
+    "tel" : " 15136235927 ", 
+    "name" : "福州绿元素贸易有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c836bab62b43ba87f6f1a"), 
+    "tel" : " 18346217809 ", 
+    "name" : "深圳市阿达普特科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c836bab62b43ba87f6f1b"), 
+    "tel" : " 13121012533 ", 
+    "name" : "义乌汇豪投资管理有限公司", 
+    "address" : "汇豪投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591c836cab62b43ba87f6f1c"), 
+    "tel" : " 15847659694 ", 
+    "name" : "青羊汇盈丰贷款公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8370ab62b43ba87f6f1e"), 
+    "tel" : " 15169027980 ", 
+    "name" : "青岛太力健联赢投资管理有限公司", 
+    "address" : "太力健联赢投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591c8372ab62b43ba87f6f1f"), 
+    "tel" : " 15169028379 ", 
+    "name" : "高通盛融（北京）投资基金管理有限公司", 
+    "address" : "高通盛融投资有限公司"
+}
+{ 
+    "_id" : ObjectId("591c8373ab62b43ba87f6f20"), 
+    "tel" : " 13162777797 ", 
+    "name" : "上海芷橙实业有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8374ab62b43ba87f6f21"), 
+    "tel" : " 13261221488 ", 
+    "name" : "东莞市汇尔固实业投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8376ab62b43ba87f6f22"), 
+    "tel" : " 15067014688 ", 
+    "name" : "开封市嘉鸿投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8377ab62b43ba87f6f23"), 
+    "tel" : " 13770678873 ", 
+    "name" : "恒瑞丰投资管理有限公司", 
+    "address" : "江苏省南京市建邺区宏普捷座"
+}
+{ 
+    "_id" : ObjectId("591c8379ab62b43ba87f6f24"), 
+    "tel" : " 18865923537 ", 
+    "name" : "深圳市赛腾投资发展有限公司", 
+    "address" : "市赛腾投资发展有限公司"
+}
+{ 
+    "_id" : ObjectId("591c837fab62b43ba87f6f26"), 
+    "tel" : " 18322593001 ", 
+    "name" : "辉耀投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8381ab62b43ba87f6f27"), 
+    "tel" : " 13092276766 ", 
+    "name" : "东莞市屹琳实业投资有限公司", 
+    "address" : "屹琳实业投资有限公司"
+}
+{ 
+    "_id" : ObjectId("591c8382ab62b43ba87f6f28"), 
+    "tel" : " 13179612823 ", 
+    "name" : "郑州鼎正电子科技有限公司", 
+    "address" : "石牌桥1号"
+}
+{ 
+    "_id" : ObjectId("591c8383ab62b43ba87f6f29"), 
+    "tel" : " 15161995151 ", 
+    "name" : "盐城市亭湖区还金玉化妆品经营部", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8384ab62b43ba87f6f2a"), 
+    "tel" : " 15021519264 ", 
+    "name" : "德信永泰投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8388ab62b43ba87f6f2c"), 
+    "tel" : " 18566513673 ", 
+    "name" : "安徽省汇亿投资管理有限公司", 
+    "address" : "汇亿投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591c838dab62b43ba87f6f2d"), 
+    "tel" : " 13913975172 ", 
+    "name" : "润海投资管理有限公司", 
+    "address" : "中山南路315号瑞华大厦2208"
+}
+{ 
+    "_id" : ObjectId("591c8391ab62b43ba87f6f2e"), 
+    "tel" : " 18311597446 ", 
+    "name" : "悦阔投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8393ab62b43ba87f6f2f"), 
+    "tel" : " 13011235929 ", 
+    "name" : "深圳市香草园投资发展有限公司", 
+    "address" : "香草园投资发展有限公司"
+}
+{ 
+    "_id" : ObjectId("591c8394ab62b43ba87f6f30"), 
+    "tel" : " 13636328718 ", 
+    "name" : "四联投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8396ab62b43ba87f6f31"), 
+    "tel" : " 13260769005 ", 
+    "name" : "青岛必伟金融信息服务有限公司", 
+    "address" : "青岛市南武昌路1号"
+}
+{ 
+    "_id" : ObjectId("591c8397ab62b43ba87f6f32"), 
+    "tel" : " 13730807056 ", 
+    "name" : "徽商期货", 
+    "address" : "四川省成都市一环路一段"
+}
+{ 
+    "_id" : ObjectId("591c8398ab62b43ba87f6f33"), 
+    "tel" : " 17070929921 ", 
+    "name" : "金正泰贷款公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c8399ab62b43ba87f6f34"), 
+    "tel" : " 18382448919 ", 
+    "name" : "右择股权投资基金管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c839bab62b43ba87f6f35"), 
+    "tel" : " 15251803063 ", 
+    "name" : "南京佳友投资有限公司", 
+    "address" : "建邺兴隆大街地铁站"
+}
+{ 
+    "_id" : ObjectId("591c839cab62b43ba87f6f36"), 
+    "tel" : " 13114351778 ", 
+    "name" : "深圳市德班投资公司", 
+    "address" : "德班投资发展有限公司"
+}
+{ 
+    "_id" : ObjectId("591c839dab62b43ba87f6f37"), 
+    "tel" : " 18687850790 ", 
+    "name" : "宏瑞翔劳务有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c839eab62b43ba87f6f38"), 
+    "tel" : " 15275188735 ", 
+    "name" : "深圳大盛青牛投资公司", 
+    "address" : "大盛青牛投资有限公司"
+}
+{ 
+    "_id" : ObjectId("591c83a0ab62b43ba87f6f39"), 
+    "tel" : " 18613167087 ", 
+    "name" : "阜阳市福利元投资咨询有限公司", 
+    "address" : "福利元投资咨询有限公司"
+}
+{ 
+    "_id" : ObjectId("591c83a1ab62b43ba87f6f3a"), 
+    "tel" : " 18118553079 ", 
+    "name" : "南京福锦居置业顾问有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c83a3ab62b43ba87f6f3b"), 
+    "tel" : " 13152841012 ", 
+    "name" : "朗铎投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c83a4ab62b43ba87f6f3c"), 
+    "tel" : " 13002529502 ", 
+    "name" : "雄瀚投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c83a5ab62b43ba87f6f3d"), 
+    "tel" : " 15260347877 ", 
+    "name" : "四联投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c83a6ab62b43ba87f6f3e"), 
+    "tel" : " 18352401673 ", 
+    "name" : "北京雄富丽贸易有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c83a9ab62b43ba87f6f3f"), 
+    "tel" : " 13186065371 ", 
+    "name" : "德豪昌投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c83aeab62b43ba87f6f40"), 
+    "tel" : " 15751612882 ", 
+    "name" : "阜宁县宏军电脑科技", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c83afab62b43ba87f6f41"), 
+    "tel" : " 13218001951 ", 
+    "name" : "阜阳市福利元投资咨询有限公司", 
+    "address" : "福利元投资咨询有限公司"
+}
+{ 
+    "_id" : ObjectId("591c83b0ab62b43ba87f6f42"), 
+    "tel" : " 18605158683 ", 
+    "name" : "聚恒企业管理咨询", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591c83b2ab62b43ba87f6f43"), 
+    "tel" : " 13073505112 ", 
+    "name" : "深圳潢河投资发展有限公司", 
+    "address" : "潢河投资发展有限公司"
+}
+{ 
+    "_id" : ObjectId("591c83b3ab62b43ba87f6f44"), 
+    "tel" : " 13179613592 ", 
+    "name" : "河北信投融资担保有限公司", 
+    "address" : "石家庄新华联盟路699号"
+}
+{ 
+    "_id" : ObjectId("591c83b6ab62b43ba87f6f46"), 
+    "tel" : " 18860823052 ", 
+    "name" : "北京恒昌惠诚信息咨询有限公司", 
+    "address" : "盐城市亭湖区青年路59号钱江财富广场"
+}
+{ 
+    "_id" : ObjectId("591c83d2ab62b43ba87f6f47"), 
+    "tel" : " 15358253540 ", 
+    "name" : "恒昌惠诚", 
+    "address" : "盐城亭湖区解放路开元路"
+}
+{ 
+    "_id" : ObjectId("591c841cab62b43ba87f6f4a"), 
+    "tel" : " 18112854655 ", 
+    "name" : "博凯融资", 
+    "address" : "盐城亭湖金鹰天地广场1幢305解放南路与新都路交叉口"
+}
+{ 
+    "_id" : ObjectId("591c8423ab62b43ba87f6f4b"), 
+    "tel" : " 13805122431 ", 
+    "name" : "爱满园婚庆", 
+    "address" : "江苏省连云港市灌云县伊山南路"
+}
+{ 
+    "_id" : ObjectId("591c842dab62b43ba87f6f4c"), 
+    "tel" : " 15380648777 ", 
+    "name" : "宜信普惠盐城分公司", 
+    "address" : "盐城亭湖钱江财富广场"
+}
+{ 
+    "_id" : ObjectId("591c8433ab62b43ba87f6f4d"), 
+    "tel" : " 17788303333 ", 
+    "name" : "胜冠泰资产", 
+    "address" : "盐城亭湖田家炳小学东门对面"
+}
+{ 
+    "_id" : ObjectId("591c843eab62b43ba87f6f4e"), 
+    "tel" : " 13805112594 ", 
+    "name" : "南通客安投资有限公司", 
+    "address" : "盐城盐都紫金大厦501"
+}
+{ 
+    "_id" : ObjectId("591c8443ab62b43ba87f6f4f"), 
+    "tel" : " 15305104399 ", 
+    "name" : "上海券奕投资管理有限公司", 
+    "address" : "盐城亭湖区人民路"
+}
+{ 
+    "_id" : ObjectId("591c8445ab62b43ba87f6f50"), 
+    "tel" : " 18351725967 ", 
+    "name" : "南京金浪池投资", 
+    "address" : "建邺区兴隆大街宏谱捷座"
+}
+{ 
+    "_id" : ObjectId("591ccf87ab62b43ba87f6f52"), 
+    "tel" : " 13851040770 ", 
+    "name" : "千微科技盐城分公司", 
+    "address" : "盐城亭湖国际创投中心"
+}
+{ 
+    "_id" : ObjectId("591ccf89ab62b43ba87f6f53"), 
+    "tel" : " 18205116925 ", 
+    "name" : "恒泰资产", 
+    "address" : "盐城亭湖华邦国际东厦b区908"
+}
+{ 
+    "_id" : ObjectId("591ccf8fab62b43ba87f6f54"), 
+    "tel" : " 18662082213 ", 
+    "name" : "易通投资", 
+    "address" : "盐城亭湖华邦国际"
+}
+{ 
+    "_id" : ObjectId("591ccf90ab62b43ba87f6f55"), 
+    "tel" : " 18112859166 ", 
+    "name" : "盐城市星云企业管理咨询有限公司", 
+    "address" : "盐城亭湖钱江财富广场b楼2006室"
+}
+{ 
+    "_id" : ObjectId("591ccf92ab62b43ba87f6f56"), 
+    "tel" : " 15851077362 ", 
+    "name" : "鹏盛网络公司", 
+    "address" : "盐城市亭湖区国际创投中心北楼11楼1111室"
+}
+{ 
+    "_id" : ObjectId("591ccf93ab62b43ba87f6f57"), 
+    "tel" : " 15850807110 ", 
+    "name" : "盐城金财", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ccf95ab62b43ba87f6f58"), 
+    "tel" : " 13626207166 ", 
+    "name" : "鸿信永盛投资", 
+    "address" : "盐城市大庆中路76杠5号"
+}
+{ 
+    "_id" : ObjectId("591ccf98ab62b43ba87f6f59"), 
+    "tel" : " 13382642686 ", 
+    "name" : "华一信息咨询", 
+    "address" : "盐城亭湖开发区商业街"
+}
+{ 
+    "_id" : ObjectId("591ccf9aab62b43ba87f6f5a"), 
+    "tel" : " 18061864880 ", 
+    "name" : "紫金普惠金融信息咨询江苏有限公司盐城分公司", 
+    "address" : "解放南路中建大厦"
+}
+{ 
+    "_id" : ObjectId("591ccf9cab62b43ba87f6f5b"), 
+    "tel" : " 18252200111 ", 
+    "name" : "永亨投资", 
+    "address" : "文港路与跃进路交界处小拇指向西20米"
+}
+{ 
+    "_id" : ObjectId("591ccf9dab62b43ba87f6f5c"), 
+    "tel" : " 15995191351 ", 
+    "name" : "盐城市亭湖区惠百信息咨询服务部", 
+    "address" : "江苏省盐城市亭湖区大庆中路16号"
+}
+{ 
+    "_id" : ObjectId("591ccf9eab62b43ba87f6f5d"), 
+    "tel" : " 15365772222 ", 
+    "name" : "中银金融", 
+    "address" : "盐城市盐马路118号瑞都国际财富大厦"
+}
+{ 
+    "_id" : ObjectId("591ccfa0ab62b43ba87f6f5e"), 
+    "tel" : " 13770033257 ", 
+    "name" : "盐城市华一信息咨询有限公司", 
+    "address" : "盐城亭湖区开发区"
+}
+{ 
+    "_id" : ObjectId("591ccfa1ab62b43ba87f6f5f"), 
+    "tel" : " 15895145925 ", 
+    "name" : "千微（杭州）科技有限公司盐城分公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ccfa2ab62b43ba87f6f60"), 
+    "tel" : " 13814377652 ", 
+    "name" : "盐城市伟通汽车销售有限公司", 
+    "address" : "盐城城南新区金鹰天地广场"
+}
+{ 
+    "_id" : ObjectId("591ccfa3ab62b43ba87f6f61"), 
+    "tel" : " 13815202220 ", 
+    "name" : "南通客安投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ccfa4ab62b43ba87f6f62"), 
+    "tel" : " 18362469666 ", 
+    "name" : "盐城诚冠汽车", 
+    "address" : "盐城城南新区大数据产业园C座3楼"
+}
+{ 
+    "_id" : ObjectId("591ccfa6ab62b43ba87f6f63"), 
+    "tel" : " 15651515380 ", 
+    "name" : "胜冠泰资产有限公司", 
+    "address" : "盐城亭湖金鹰天地广场"
+}
+{ 
+    "_id" : ObjectId("591ccfaaab62b43ba87f6f64"), 
+    "tel" : " 13770058199 ", 
+    "name" : "轩养资产", 
+    "address" : "盐城市亭湖开发区"
+}
+{ 
+    "_id" : ObjectId("591ccfabab62b43ba87f6f65"), 
+    "tel" : " 18101414444 ", 
+    "name" : "江苏坤鼎投资管理有限公司", 
+    "address" : "东进路与盐马路交叉口向西200米路北"
+}
+{ 
+    "_id" : ObjectId("591ccfafab62b43ba87f6f66"), 
+    "tel" : " 15380648777 ", 
+    "name" : "宜信普惠盐城分公司", 
+    "address" : "盐城亭湖钱江财富广场"
+}
+{ 
+    "_id" : ObjectId("591ccfb1ab62b43ba87f6f67"), 
+    "tel" : " 13770052662 ", 
+    "name" : "盐城天优云瑞信息咨询有限公司", 
+    "address" : "盐城亭湖亭湖亭湖"
+}
+{ 
+    "_id" : ObjectId("591ccfb7ab62b43ba87f6f68"), 
+    "tel" : " 13390719071 ", 
+    "name" : "盐城市传奇金融信息服务有限公司", 
+    "address" : "盐城亭湖华邦东厦13楼传奇金融"
+}
+{ 
+    "_id" : ObjectId("591ccfbaab62b43ba87f6f69"), 
+    "tel" : " 18551507543 ", 
+    "name" : "上海寅尚投资", 
+    "address" : "盐城亭湖华邦东厦"
+}
+{ 
+    "_id" : ObjectId("591ccfc3ab62b43ba87f6f6a"), 
+    "tel" : " 18921818833 ", 
+    "name" : "厚泽财富（北京）投资管理有限公司", 
+    "address" : "盐城亭湖盐都开发区"
+}
+{ 
+    "_id" : ObjectId("591ccfc8ab62b43ba87f6f6b"), 
+    "tel" : " 13056197777 ", 
+    "name" : "银洲金融", 
+    "address" : "盐城建湖汇文路与建宝路交界处"
+}
+{ 
+    "_id" : ObjectId("591ccfcbab62b43ba87f6f6c"), 
+    "tel" : " 15724849003 ", 
+    "name" : "千微（杭州）科技有限公司盐城分公司", 
+    "address" : "盐城亭湖国际创投中心"
+}
+{ 
+    "_id" : ObjectId("591cd00aab62b43ba87f6f6d"), 
+    "tel" : " 15962088055 ", 
+    "name" : "金国易通信息咨询有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd00cab62b43ba87f6f6e"), 
+    "tel" : " 18268028149 ", 
+    "name" : "中辰恒基创业", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd00eab62b43ba87f6f6f"), 
+    "tel" : " 13259491327 ", 
+    "name" : "新昌投资咨询有限公司", 
+    "address" : "凭身份证凭个人办理贷款"
+}
+{ 
+    "_id" : ObjectId("591cd013ab62b43ba87f6f72"), 
+    "tel" : " 18974918883 ", 
+    "name" : "长沙市泰浩投资管理咨询有限公司", 
+    "address" : "长沙市天心区芙蓉中路144号城市之心0918"
+}
+{ 
+    "_id" : ObjectId("591cd013ab62b43ba87f6f73"), 
+    "tel" : " 18961857302 ", 
+    "name" : "聚升金融", 
+    "address" : "盐城亭湖人民南路华邦国际东厦A区606"
+}
+{ 
+    "_id" : ObjectId("591cd015ab62b43ba87f6f74"), 
+    "tel" : " 13816947713 ", 
+    "name" : "中信建投期货有限公司上海世纪大道营业部", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd017ab62b43ba87f6f76"), 
+    "tel" : " 15028188511 ", 
+    "name" : "加焕投资咨询有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd019ab62b43ba87f6f78"), 
+    "tel" : " 13073385999 ", 
+    "name" : "苏州同心缘婚庆礼仪有限公司", 
+    "address" : "苏州市沧浪区十全街8号"
+}
+{ 
+    "_id" : ObjectId("591cd01cab62b43ba87f6f79"), 
+    "tel" : " 18068892771 ", 
+    "name" : "深圳市菲士能净化科技有限公司成都分公司", 
+    "address" : "河南省郑州市二七区淮河东路36号"
+}
+{ 
+    "_id" : ObjectId("591cd01fab62b43ba87f6f7a"), 
+    "tel" : " 18662092890 ", 
+    "name" : "江苏银行股份有限公司盐城黄海支行", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd022ab62b43ba87f6f7b"), 
+    "tel" : " 13160060800 ", 
+    "name" : "世纪源金融服务有限公司", 
+    "address" : "江苏省南京市建邺区宏普捷座"
+}
+{ 
+    "_id" : ObjectId("591cd024ab62b43ba87f6f7c"), 
+    "tel" : " 15365652822 ", 
+    "name" : "金国易通", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd026ab62b43ba87f6f7d"), 
+    "tel" : " 13152840359 ", 
+    "name" : "珠江实业投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd029ab62b43ba87f6f7e"), 
+    "tel" : " 13186099872 ", 
+    "name" : "朗铎投资控股有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd02aab62b43ba87f6f7f"), 
+    "tel" : " 13611961098 ", 
+    "name" : "四联投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd02cab62b43ba87f6f80"), 
+    "tel" : " 15821515702 ", 
+    "name" : "珠江实业投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd02dab62b43ba87f6f81"), 
+    "tel" : " 15205168853 ", 
+    "name" : "南京福锦居置业顾问有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd030ab62b43ba87f6f83"), 
+    "tel" : " 17302533777 ", 
+    "name" : "南京市栖霞区徐家万装饰材料经营部", 
+    "address" : "黄埔路2号黄埔大厦24楼"
+}
+{ 
+    "_id" : ObjectId("591cd032ab62b43ba87f6f85"), 
+    "tel" : " 18667416271 ", 
+    "name" : "杭州锐拓科技有限公司宁波北仑分公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd035ab62b43ba87f6f87"), 
+    "tel" : " 13616908036 ", 
+    "name" : "龙岩市晨兴投资管理有限公司", 
+    "address" : "龙岩新罗西陂街道"
+}
+{ 
+    "_id" : ObjectId("591cd036ab62b43ba87f6f88"), 
+    "tel" : " 13752791539 ", 
+    "name" : "泰浩投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd039ab62b43ba87f6f8a"), 
+    "tel" : " 15950211314 ", 
+    "name" : "盐城市亭湖区南京吴良材眼镜盐马路加盟店", 
+    "address" : "解放南路196号八菱花园东门"
+}
+{ 
+    "_id" : ObjectId("591cd03aab62b43ba87f6f8b"), 
+    "tel" : " 18068836785 ", 
+    "name" : "江苏小耳朵金融信息服务有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd03cab62b43ba87f6f8c"), 
+    "tel" : " 15221731697 ", 
+    "name" : "振华投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd03dab62b43ba87f6f8d"), 
+    "tel" : " 13691656262 ", 
+    "name" : "淼宝食品", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd03eab62b43ba87f6f8e"), 
+    "tel" : " 15000508382 ", 
+    "name" : "珠江实业投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd040ab62b43ba87f6f8f"), 
+    "tel" : " 18310710996 ", 
+    "name" : "北京融大卓越财富投资管理有限公司", 
+    "address" : "国贸大厦周边地区"
+}
+{ 
+    "_id" : ObjectId("591cd041ab62b43ba87f6f90"), 
+    "tel" : " 15715109777 ", 
+    "name" : "海德房产", 
+    "address" : "盐城市亭湖区开放大道39号"
+}
+{ 
+    "_id" : ObjectId("591cd043ab62b43ba87f6f91"), 
+    "tel" : " 18311052596 ", 
+    "name" : "亿信（北京）金融信息服务有限公司", 
+    "address" : "国贸大厦周边地区"
+}
+{ 
+    "_id" : ObjectId("591cd047ab62b43ba87f6f92"), 
+    "tel" : " 15722925897 ", 
+    "name" : "南京市栖霞区徐家万装饰材料经营部", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd048ab62b43ba87f6f93"), 
+    "tel" : " 15801597623 ", 
+    "name" : "南京美华投资咨询有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd049ab62b43ba87f6f94"), 
+    "tel" : " 18388444046 ", 
+    "name" : "山西华辰投资咨询管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd04bab62b43ba87f6f95"), 
+    "tel" : " 15396727563 ", 
+    "name" : "江苏恒丰农产品交易所", 
+    "address" : "江苏盐城希望大道29号"
+}
+{ 
+    "_id" : ObjectId("591cd04cab62b43ba87f6f96"), 
+    "tel" : " 13938275478 ", 
+    "name" : "富元投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd04dab62b43ba87f6f97"), 
+    "tel" : " 13626207166 ", 
+    "name" : "盐城金易贷信息咨询有限公司", 
+    "address" : "盐城亭湖大庆路与解放路交叉口路东"
+}
+{ 
+    "_id" : ObjectId("591cd050ab62b43ba87f6f99"), 
+    "tel" : " 15312161915 ", 
+    "name" : "昆山仁凡信息科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd051ab62b43ba87f6f9a"), 
+    "tel" : " 18552781695 ", 
+    "name" : "深圳市德冠嘉投资管理有限公司", 
+    "address" : "本提供优质的服务47号5楼"
+}
+{ 
+    "_id" : ObjectId("591cd052ab62b43ba87f6f9b"), 
+    "tel" : " 17721537773 ", 
+    "name" : "南京财源投资咨询有限公司", 
+    "address" : "全国各个区域均有公司"
+}
+{ 
+    "_id" : ObjectId("591cd053ab62b43ba87f6f9c"), 
+    "tel" : " 15651963266 ", 
+    "name" : "广州淑莎服饰有限公司", 
+    "address" : "咏猎区谧拿星路514号"
+}
+{ 
+    "_id" : ObjectId("591cd054ab62b43ba87f6f9d"), 
+    "tel" : " 18764048578 ", 
+    "name" : "常州博泰铝制品有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd055ab62b43ba87f6f9e"), 
+    "tel" : " 13203209271 ", 
+    "name" : "翔羽劳务", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd058ab62b43ba87f6f9f"), 
+    "tel" : " 18932271888 ", 
+    "name" : "苏州新利源", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd05dab62b43ba87f6fa1"), 
+    "tel" : " 13270816787 ", 
+    "name" : "天津方品宜佳商贸有限公司", 
+    "address" : "浙江省金华市义乌市稠城街道化工路222号"
+}
+{ 
+    "_id" : ObjectId("591cd05eab62b43ba87f6fa2"), 
+    "tel" : " 18801440217 ", 
+    "name" : "深圳市泰戈投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd062ab62b43ba87f6fa4"), 
+    "tel" : " 13451916383 ", 
+    "name" : "临沂经济技术开发区蓝旭手机大卖场", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd063ab62b43ba87f6fa5"), 
+    "tel" : " 13616908036 ", 
+    "name" : "龙岩市晨兴投资管理有限公司", 
+    "address" : "龙岩新罗西陂街道龙岩大道383号"
+}
+{ 
+    "_id" : ObjectId("591cd067ab62b43ba87f6fa7"), 
+    "tel" : " 18512549049 ", 
+    "name" : "长沙开心贷金融信息服务有限公司", 
+    "address" : "玉笑天大厦83号V座789室"
+}
+{ 
+    "_id" : ObjectId("591cd069ab62b43ba87f6fa8"), 
+    "tel" : " 15651862121 ", 
+    "name" : "广州市伊其贸易有限公司", 
+    "address" : "磕压区破馁推路761号"
+}
+{ 
+    "_id" : ObjectId("591cd06cab62b43ba87f6faa"), 
+    "tel" : " 13218027313 ", 
+    "name" : "瑞通投资管理咨询有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd06dab62b43ba87f6fab"), 
+    "tel" : " 15077865975 ", 
+    "name" : "昆云投资管理有限公司", 
+    "address" : "凭身份证就可办理无抵押贷款"
+}
+{ 
+    "_id" : ObjectId("591cd06fab62b43ba87f6fac"), 
+    "tel" : " 13218060511 ", 
+    "name" : "武汉钱贷子金融信息服务有限公司", 
+    "address" : "徽蹲区恍莆懒路034号"
+}
+{ 
+    "_id" : ObjectId("591cd06fab62b43ba87f6fad"), 
+    "tel" : " 13160061070 ", 
+    "name" : "哈尔滨东西科技开发有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd070ab62b43ba87f6fae"), 
+    "tel" : " 13057507636 ", 
+    "name" : "金华瑞涛投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd072ab62b43ba87f6faf"), 
+    "tel" : " 18782910093 ", 
+    "name" : "电子招聘有限公司", 
+    "address" : "拿赵区拿赵村669号"
+}
+{ 
+    "_id" : ObjectId("591cd074ab62b43ba87f6fb0"), 
+    "tel" : " 13151537027 ", 
+    "name" : "黑龙江华汇财富投资管理有限公司", 
+    "address" : "劳忠区辆练胰路385号"
+}
+{ 
+    "_id" : ObjectId("591cd075ab62b43ba87f6fb1"), 
+    "tel" : " 13160060935 ", 
+    "name" : "上海钡思那电子科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd076ab62b43ba87f6fb2"), 
+    "tel" : " 13201212852 ", 
+    "name" : "湖北程力置业投资有限公司", 
+    "address" : "程力置业投资有限公司"
+}
+{ 
+    "_id" : ObjectId("591cd078ab62b43ba87f6fb3"), 
+    "tel" : " 15687838519 ", 
+    "name" : "云南明诚投资管理有限公司", 
+    "address" : "明诚投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591cd079ab62b43ba87f6fb4"), 
+    "tel" : " 13057652721 ", 
+    "name" : "宁波京浙盛投资管理有限公司", 
+    "address" : "鄂修真中心886号S座142室"
+}
+{ 
+    "_id" : ObjectId("591cd07dab62b43ba87f6fb5"), 
+    "tel" : " 13160063951 ", 
+    "name" : "上海为顾投资管理有限公司", 
+    "address" : "妥方区劝捶辰路365号"
+}
+{ 
+    "_id" : ObjectId("591cd07fab62b43ba87f6fb6"), 
+    "tel" : " 18071657777 ", 
+    "name" : "环洋电子商务", 
+    "address" : "盐城亭湖南京环洋电子商务有限公司盐城分公司"
+}
+{ 
+    "_id" : ObjectId("591cd081ab62b43ba87f6fb7"), 
+    "tel" : " 13026107632 ", 
+    "name" : "深圳世俊投资发展公司", 
+    "address" : "世俊投资发展有限公司"
+}
+{ 
+    "_id" : ObjectId("591cd082ab62b43ba87f6fb8"), 
+    "tel" : " 13185900225 ", 
+    "name" : "日融财富投资管理", 
+    "address" : "日融财富投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591cd087ab62b43ba87f6fbb"), 
+    "tel" : " 13182985356 ", 
+    "name" : "大庆众之鑫投资管理有限公司", 
+    "address" : "蛋叹区蛋叹村177号"
+}
+{ 
+    "_id" : ObjectId("591cd089ab62b43ba87f6fbc"), 
+    "tel" : " 15686787429 ", 
+    "name" : "银盛亿达金融服务有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd08aab62b43ba87f6fbd"), 
+    "tel" : " 15895195259 ", 
+    "name" : "北京恒昌惠诚信息咨询有限公司淮安第一分公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd08cab62b43ba87f6fbe"), 
+    "tel" : " 13405845618 ", 
+    "name" : "恒大投资担保有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd08dab62b43ba87f6fbf"), 
+    "tel" : " 15261497372 ", 
+    "name" : "乾鼎信用担保有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd08fab62b43ba87f6fc1"), 
+    "tel" : " 15106254844 ", 
+    "name" : "痔靥港澳之音KTV商务会所", 
+    "address" : "鼓轮区鼓轮村715号"
+}
+{ 
+    "_id" : ObjectId("591cd092ab62b43ba87f6fc3"), 
+    "tel" : " 13521844723 ", 
+    "name" : "澳地有限责任公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd093ab62b43ba87f6fc4"), 
+    "tel" : " 15249181826 ", 
+    "name" : "龙江广告策划有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd094ab62b43ba87f6fc5"), 
+    "tel" : " 18269185332 ", 
+    "name" : "泰浩投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd096ab62b43ba87f6fc7"), 
+    "tel" : " 15268851295 ", 
+    "name" : "风行天下有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd098ab62b43ba87f6fc8"), 
+    "tel" : " 18575791464 ", 
+    "name" : "风行天下有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd099ab62b43ba87f6fc9"), 
+    "tel" : " 13062690469 ", 
+    "name" : "龙江广告策划有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd09cab62b43ba87f6fcb"), 
+    "tel" : " 18801440137 ", 
+    "name" : "山东四联担保投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd09eab62b43ba87f6fcc"), 
+    "tel" : " 15810520276 ", 
+    "name" : "常州信辉创业投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd09fab62b43ba87f6fcd"), 
+    "tel" : " 13026533999 ", 
+    "name" : "弘霖投资", 
+    "address" : "青岛市李沧区李村"
+}
+{ 
+    "_id" : ObjectId("591cd0a2ab62b43ba87f6fce"), 
+    "tel" : " 15527275973 ", 
+    "name" : "宁波合众芸创财富投资管理有限公司", 
+    "address" : "合众财富投资有限公司"
+}
+{ 
+    "_id" : ObjectId("591cd0a3ab62b43ba87f6fcf"), 
+    "tel" : " 17715226639 ", 
+    "name" : "江苏隆震融资担保有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd0a9ab62b43ba87f6fd1"), 
+    "tel" : " 15167159665 ", 
+    "name" : "浙商投资担保有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd0acab62b43ba87f6fd3"), 
+    "tel" : " 13001447993 ", 
+    "name" : "深圳赛腾投资有限公司", 
+    "address" : "赛腾投资发展有限公司"
+}
+{ 
+    "_id" : ObjectId("591cd0b0ab62b43ba87f6fd5"), 
+    "tel" : " 13557316771 ", 
+    "name" : "译汇投资管理", 
+    "address" : "译汇投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591cd0b3ab62b43ba87f6fd6"), 
+    "tel" : " 17098033662 ", 
+    "name" : "盛宝行投资担保有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd0b7ab62b43ba87f6fd8"), 
+    "tel" : " 18651919539 ", 
+    "name" : "盐城众筹股权投资基金管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd0b8ab62b43ba87f6fd9"), 
+    "tel" : " 15961992595 ", 
+    "name" : "中宇信息咨询", 
+    "address" : "盐城市亭湖区鲁艺路8号"
+}
+{ 
+    "_id" : ObjectId("591cd0baab62b43ba87f6fda"), 
+    "tel" : " 17305152345 ", 
+    "name" : "盐城欧陆信息", 
+    "address" : "盐城亭湖开放大道北路51号瀛洲宾馆对面"
+}
+{ 
+    "_id" : ObjectId("591cd0bbab62b43ba87f6fdb"), 
+    "tel" : " 15205119229 ", 
+    "name" : "盐城轩养资产管理有限公司", 
+    "address" : "盐城市亭湖区华邦国际东厦"
+}
+{ 
+    "_id" : ObjectId("591cd0bcab62b43ba87f6fdc"), 
+    "tel" : " 18962003350 ", 
+    "name" : "盐城轩养资产管理", 
+    "address" : "盐城市亭湖区华邦国际五楼"
+}
+{ 
+    "_id" : ObjectId("591cd0bdab62b43ba87f6fdd"), 
+    "tel" : " 13305107888 ", 
+    "name" : "果投投资", 
+    "address" : "盐马路与大庆路交界处移动大楼向北100米4510号"
+}
+{ 
+    "_id" : ObjectId("591cd0c4ab62b43ba87f6fde"), 
+    "tel" : " 13961994277 ", 
+    "name" : "易通投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd0c8ab62b43ba87f6fe1"), 
+    "tel" : " 18857433381 ", 
+    "name" : "大连龙翔贸易有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd0cbab62b43ba87f6fe3"), 
+    "tel" : " 13596058125 ", 
+    "name" : "豪业通商贸有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd0ceab62b43ba87f6fe4"), 
+    "tel" : " 13160063951 ", 
+    "name" : "北京瑞鸿天宇投资咨询有限公司", 
+    "address" : "圃图区圃图路882号"
+}
+{ 
+    "_id" : ObjectId("591cd0ceab62b43ba87f6fe5"), 
+    "tel" : " 18052937777 ", 
+    "name" : "鼎鑫融易贷", 
+    "address" : "盐城建湖县阳光水城东门123幢北侧23号"
+}
+{ 
+    "_id" : ObjectId("591cd0d0ab62b43ba87f6fe6"), 
+    "tel" : " 15924344978 ", 
+    "name" : "杭州锐拓科技有限公司宁波北仑分公司", 
+    "address" : "宁波北仑明周西路"
+}
+{ 
+    "_id" : ObjectId("591cd0d2ab62b43ba87f6fe7"), 
+    "tel" : " 13072555371 ", 
+    "name" : "安信卓越投资管理（北京）有限公司大庆分公司", 
+    "address" : "耗胤区耗胤村967号"
+}
+{ 
+    "_id" : ObjectId("591cd0d3ab62b43ba87f6fe8"), 
+    "tel" : " 15895188886 ", 
+    "name" : "盐城灵悦企业策划服务有限公司", 
+    "address" : "盐城市城南新区凤凰汇商办2号楼101"
+}
+{ 
+    "_id" : ObjectId("591cd0d6ab62b43ba87f6fe9"), 
+    "tel" : " 18352401673 ", 
+    "name" : "北京中科三精科技发展有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd0d7ab62b43ba87f6fea"), 
+    "tel" : " 13218501618 ", 
+    "name" : "国珍陶瓷门市部", 
+    "address" : "盐城亭湖青年路102"
+}
+{ 
+    "_id" : ObjectId("591cd0d8ab62b43ba87f6feb"), 
+    "tel" : " 18695266716 ", 
+    "name" : "汇豪投资管理有限公司", 
+    "address" : "汇豪投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591cd0dbab62b43ba87f6fec"), 
+    "tel" : " 18301446162 ", 
+    "name" : "上海基创体育投资管理有限公司", 
+    "address" : "陌壤市陌壤区131号"
+}
+{ 
+    "_id" : ObjectId("591cd0dcab62b43ba87f6fed"), 
+    "tel" : " 13249345540 ", 
+    "name" : "浙江竹亿投资咨询有限公司", 
+    "address" : "竹亿投资咨询有限公司"
+}
+{ 
+    "_id" : ObjectId("591cd0dfab62b43ba87f6fee"), 
+    "tel" : " 15715194065 ", 
+    "name" : "南京耀郝迪贸易有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd0e0ab62b43ba87f6fef"), 
+    "tel" : " 14747722669 ", 
+    "name" : "迪彩投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd0e3ab62b43ba87f6ff1"), 
+    "tel" : " 18357114542 ", 
+    "name" : "辉耀投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd0e5ab62b43ba87f6ff2"), 
+    "tel" : " 13601410203 ", 
+    "name" : "盐城聚仁房地产经纪有限公司", 
+    "address" : "盐城亭湖开放大道店"
+}
+{ 
+    "_id" : ObjectId("591cd0e6ab62b43ba87f6ff3"), 
+    "tel" : " 13121334946 ", 
+    "name" : "兴源投资担保", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd0e9ab62b43ba87f6ff4"), 
+    "tel" : " 18305151677 ", 
+    "name" : "众隆在线投资管理有限公司", 
+    "address" : "镇江京口中山东路98号"
+}
+{ 
+    "_id" : ObjectId("591cd0ebab62b43ba87f6ff5"), 
+    "tel" : " 13186086381 ", 
+    "name" : "朗铎投资控股有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd0ecab62b43ba87f6ff6"), 
+    "tel" : " 18551550689 ", 
+    "name" : "苏州天臣公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd0edab62b43ba87f6ff7"), 
+    "tel" : " 18608923613 ", 
+    "name" : "长沙天和钻具机械有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd0efab62b43ba87f6ff8"), 
+    "tel" : " 15061661601 ", 
+    "name" : "盐城猛金财工贸有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd0f1ab62b43ba87f6ff9"), 
+    "tel" : " 15797821237 ", 
+    "name" : "南昌市双盛投资咨询有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd0f3ab62b43ba87f6ffa"), 
+    "tel" : " 13671534068 ", 
+    "name" : "海南紫颐世纪投资发展有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd0f5ab62b43ba87f6ffb"), 
+    "tel" : " 15851077362 ", 
+    "name" : "今朝广告有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd0f7ab62b43ba87f6ffc"), 
+    "tel" : " 18684999420 ", 
+    "name" : "云南晨升投资", 
+    "address" : "国际家居广场739"
+}
+{ 
+    "_id" : ObjectId("591cd0f9ab62b43ba87f6ffd"), 
+    "tel" : " 15562038603 ", 
+    "name" : "弈信邦投资管理", 
+    "address" : "弈信邦投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591cd0fbab62b43ba87f6ffe"), 
+    "tel" : " 15851065321 ", 
+    "name" : "李梅家电", 
+    "address" : "盐城亭湖区双元西路万方名城悦心园3幢101"
+}
+{ 
+    "_id" : ObjectId("591cd0fcab62b43ba87f6fff"), 
+    "tel" : " 15150121125 ", 
+    "name" : "深圳市知友电子有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd0feab62b43ba87f7001"), 
+    "tel" : " 18489966626 ", 
+    "name" : "汇商投资按揭有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd100ab62b43ba87f7002"), 
+    "tel" : " 15103643094 ", 
+    "name" : "四联担保投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd103ab62b43ba87f7004"), 
+    "tel" : " 15191847928 ", 
+    "name" : "禅城集成小额贷款公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd103ab62b43ba87f7005"), 
+    "tel" : " 13260773576 ", 
+    "name" : "上海琴采贸易有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cd105ab62b43ba87f7006"), 
+    "tel" : " 15210099361 ", 
+    "name" : "汇投财志投资管理（北京）有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("59217e66ab62b42a106a7891"), 
+    "tel" : "18921818833", 
+    "name" : "北京恒昌惠诚信息咨询有限公司盐城分公司", 
+    "address" : "盐城- 解放路中建大厦602室"
+}
+{ 
+    "_id" : ObjectId("59217e67ab62b42a106a7892"), 
+    "tel" : "18921818833", 
+    "name" : "北京恒昌惠诚信息咨询有限公司盐城分公司", 
+    "address" : "盐城- 解放路10号"
+}
+{ 
+    "_id" : ObjectId("59217e69ab62b42a106a7893"), 
+    "tel" : "18921818833", 
+    "name" : "紫金普惠金融信息咨询江苏有限公司盐城分公司", 
+    "address" : "盐城- 中建大厦"
+}
+{ 
+    "_id" : ObjectId("59217e6bab62b42a106a7894"), 
+    "tel" : "18921818833", 
+    "name" : "紫金普惠金融信息咨询江苏有限公司盐城分公司", 
+    "address" : "盐城- 中建大厦"
+}
+{ 
+    "_id" : ObjectId("59217e6cab62b42a106a7895"), 
+    "tel" : "18921818833", 
+    "name" : "盐城市鼎鑫投资管理有限公司", 
+    "address" : "盐城- 总店滨河路49号阳光水城东大门向北第八间"
+}
+{ 
+    "_id" : ObjectId("59217e6dab62b42a106a7896"), 
+    "tel" : "18921818833", 
+    "name" : "盐城市鼎鑫投资管理有限公司", 
+    "address" : "盐城- 总店滨河路49号阳光水城东大门向北第八间"
+}
+{ 
+    "_id" : ObjectId("59217e6eab62b42a106a7897"), 
+    "tel" : "18921818833", 
+    "name" : "盐城市汇元企业管理服务有限公司", 
+    "address" : "盐城- 建湖县冠华路东方御花园西门往东500米"
+}
+{ 
+    "_id" : ObjectId("59217e70ab62b42a106a7898"), 
+    "tel" : "18921818833", 
+    "name" : "盐城市汇元企业管理服务有限公司", 
+    "address" : "盐城- 建湖县东方御花园西门向东500米"
+}
+{ 
+    "_id" : ObjectId("59217e71ab62b42a106a7899"), 
+    "tel" : "18921818833", 
+    "name" : "北京恒昌惠诚信息咨询有限公司盐城分公司", 
+    "address" : "盐城- 盐马路106号"
+}
+{ 
+    "_id" : ObjectId("59217e72ab62b42a106a789a"), 
+    "tel" : "18921818833", 
+    "name" : "北京恒昌惠诚信息咨询有限公司盐城分公司", 
+    "address" : "盐城- 盐马路106号"
+}
+{ 
+    "_id" : ObjectId("59217e74ab62b42a106a789b"), 
+    "tel" : "18921818833", 
+    "name" : "盐城玖隆投资有限公司", 
+    "address" : "盐城- 盐城市大庆中路76号-6（解放南路与大庆路农行向东100米）"
+}
+{ 
+    "_id" : ObjectId("59217e75ab62b42a106a789c"), 
+    "tel" : "18921818833", 
+    "name" : "盐城玖隆投资有限公司", 
+    "address" : "盐城- 盐城市大庆中路76号-6（解放南路与大庆路农行向东100米）"
+}
+{ 
+    "_id" : ObjectId("59217e78ab62b42a106a789d"), 
+    "tel" : "18921818833", 
+    "name" : "江苏易通创业投资有限公司", 
+    "address" : "盐城- 华邦国际"
+}
+{ 
+    "_id" : ObjectId("59217e7aab62b42a106a789e"), 
+    "tel" : "13243832021", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("59217e7bab62b42a106a789f"), 
+    "tel" : "18688431487", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("59217e7cab62b42a106a78a0"), 
+    "tel" : "18240063295", 
+    "name" : "汇丰金融贷款投资公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59217e80ab62b42a106a78a1"), 
+    "tel" : "13260645536", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("59217e81ab62b42a106a78a2"), 
+    "tel" : "13521987759", 
+    "name" : "淅川县农汇食品销售有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59217e82ab62b42a106a78a3"), 
+    "tel" : "15700012504", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 电话： 15700012504"
+}
+{ 
+    "_id" : ObjectId("59217e84ab62b42a106a78a4"), 
+    "tel" : "15215700031", 
+    "name" : "河南国贸投资担保有限公司", 
+    "address" : "盐城- 15215700031"
+}
+{ 
+    "_id" : ObjectId("59217e85ab62b42a106a78a5"), 
+    "tel" : "15106952518", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 请联系15106952518"
+}
+{ 
+    "_id" : ObjectId("59217e87ab62b42a106a78a6"), 
+    "tel" : "18457050951", 
+    "name" : "六安市金正泰抵押贷款代理有限公司", 
+    "address" : "盐城- 1784"
+}
+{ 
+    "_id" : ObjectId("59217e89ab62b42a106a78a7"), 
+    "tel" : "18457050792", 
+    "name" : "六安市金正泰抵押贷款代理有限公司", 
+    "address" : "盐城- 财政局附近"
+}
+{ 
+    "_id" : ObjectId("59217e89ab62b42a106a78a8"), 
+    "tel" : "15105704543", 
+    "name" : "南昌中财担保有限公司", 
+    "address" : "盐城- 186号"
+}
+{ 
+    "_id" : ObjectId("59217e8cab62b42a106a78a9"), 
+    "tel" : "13249895471", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("59217e8eab62b42a106a78aa"), 
+    "tel" : "15828371541", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公", 
+    "address" : "盐城- 金鼎大楼B座"
+}
+{ 
+    "_id" : ObjectId("59217e8fab62b42a106a78ab"), 
+    "tel" : "18339921405", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 建设中路"
+}
+{ 
+    "_id" : ObjectId("59217e90ab62b42a106a78ac"), 
+    "tel" : "15000770159", 
+    "name" : "汇丰金融贷款投资公司", 
+    "address" : "盐城- 投资金融大厦18楼"
+}
+{ 
+    "_id" : ObjectId("59217e92ab62b42a106a78ad"), 
+    "tel" : "13242935892", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 妇幼保健院对面54"
+}
+{ 
+    "_id" : ObjectId("59217e93ab62b42a106a78ae"), 
+    "tel" : "18620477452", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("59217e95ab62b42a106a78af"), 
+    "tel" : "15262433436", 
+    "name" : "汇丰金融贷款投资公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59217e9aab62b42a106a78b0"), 
+    "tel" : "18793116163", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("59217e9dab62b42a106a78b1"), 
+    "tel" : "13541323733", 
+    "name" : "太平洋信贷金融投资有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59217e9eab62b42a106a78b2"), 
+    "tel" : "15221862018", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59217e9fab62b42a106a78b3"), 
+    "tel" : "13106869112", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("59217ea0ab62b42a106a78b4"), 
+    "tel" : "15026735080", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "盐城- 人民医院旁"
+}
+{ 
+    "_id" : ObjectId("59217ea2ab62b42a106a78b5"), 
+    "tel" : "15921762447", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59217ea4ab62b42a106a78b6"), 
+    "tel" : "15521164536", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 市---内"
+}
+{ 
+    "_id" : ObjectId("59217ea9ab62b42a106a78b7"), 
+    "tel" : "13120536978", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 汇丰金融大厦"
+}
+{ 
+    "_id" : ObjectId("59217eaaab62b42a106a78b8"), 
+    "tel" : "13671809118", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 建设中路"
+}
+{ 
+    "_id" : ObjectId("59217eb2ab62b42a106a78b9"), 
+    "tel" : "13120536958", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59217eb3ab62b42a106a78ba"), 
+    "tel" : "18302861479", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 农业银行旁边"
+}
+{ 
+    "_id" : ObjectId("59217ebeab62b42a106a78bb"), 
+    "tel" : "13834682707", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 建设中路"
+}
+{ 
+    "_id" : ObjectId("59217ec1ab62b42a106a78bc"), 
+    "tel" : "18201763638", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 汇丰金融大厦"
+}
+{ 
+    "_id" : ObjectId("59217ec4ab62b42a106a78bd"), 
+    "tel" : "13122092612", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 汇丰金融大厦"
+}
+{ 
+    "_id" : ObjectId("59217ec5ab62b42a106a78be"), 
+    "tel" : "13122092553", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 汇丰金融大厦"
+}
+{ 
+    "_id" : ObjectId("59217ec6ab62b42a106a78bf"), 
+    "tel" : "13106763879", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("59217ec8ab62b42a106a78c0"), 
+    "tel" : "13639021923", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 建设中路"
+}
+{ 
+    "_id" : ObjectId("59217ecdab62b42a106a78c1"), 
+    "tel" : "15858458187", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 金鼎大楼B座"
+}
+{ 
+    "_id" : ObjectId("59217eceab62b42a106a78c2"), 
+    "tel" : "18268120321", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 金鼎大楼B座"
+}
+{ 
+    "_id" : ObjectId("59217ecfab62b42a106a78c3"), 
+    "tel" : "18802047271", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 金鼎大楼B座"
+}
+{ 
+    "_id" : ObjectId("59217ed1ab62b42a106a78c4"), 
+    "tel" : "18781923425", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 金鼎大楼B座"
+}
+{ 
+    "_id" : ObjectId("59217ed3ab62b42a106a78c5"), 
+    "tel" : "15087020289", 
+    "name" : "兰州市西固区康顺小额贷款有限公司", 
+    "address" : "盐城- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("59217eddab62b42a106a78c6"), 
+    "tel" : "18300706545", 
+    "name" : "汇丰金融贷款投资公司", 
+    "address" : "盐城- 汇丰大厦A座602—606"
+}
+{ 
+    "_id" : ObjectId("59217ee7ab62b42a106a78c7"), 
+    "tel" : "18205114440", 
+    "name" : "北京恒昌惠城信息咨询有限公司盐城分公司", 
+    "address" : "盐城- 钱江财富广场B座"
+}
+{ 
+    "_id" : ObjectId("59217ee9ab62b42a106a78c8"), 
+    "tel" : "18205114440", 
+    "name" : "北京恒昌惠诚信息咨询有限公司盐城分公司", 
+    "address" : "盐城- 钱江财富广场B座"
+}
+{ 
+    "_id" : ObjectId("59217ef0ab62b42a106a78c9"), 
+    "tel" : "13784028806", 
+    "name" : "汇丰金融贷款投资公司", 
+    "address" : "盐城- 市国税局附近"
+}
+{ 
+    "_id" : ObjectId("59217f07ab62b42a106a78ca"), 
+    "tel" : "13365197888", 
+    "name" : "江苏盐城华祥投资担保有限公司", 
+    "address" : "盐城- 解放南路158号"
+}
+{ 
+    "_id" : ObjectId("59217f0fab62b42a106a78cb"), 
+    "tel" : "13700856426", 
+    "name" : "汇丰金融投资投资公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59217f10ab62b42a106a78cc"), 
+    "tel" : "15638245570", 
+    "name" : "汇丰金融投资投资公司", 
+    "address" : "盐城- 汇丰大厦A座602—606"
+}
+{ 
+    "_id" : ObjectId("59217f11ab62b42a106a78cd"), 
+    "tel" : "13143574746", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("59217f12ab62b42a106a78ce"), 
+    "tel" : "15638242505", 
+    "name" : "汇丰金融贷款投资公司", 
+    "address" : "盐城- 汇丰大厦A座602—606"
+}
+{ 
+    "_id" : ObjectId("59217f1aab62b42a106a78cf"), 
+    "tel" : "15380552256", 
+    "name" : "北京恒昌惠诚信息咨询有限公司盐城分公司", 
+    "address" : "盐城- 钱江财富广场b座22楼"
+}
+{ 
+    "_id" : ObjectId("59217f23ab62b42a106a78d0"), 
+    "tel" : "13042112588", 
+    "name" : "金鼎信贷投资有限公司", 
+    "address" : "盐城- 市财政局旁"
+}
+{ 
+    "_id" : ObjectId("59217f2cab62b42a106a78d1"), 
+    "tel" : "18802072143", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59217f2eab62b42a106a78d2"), 
+    "tel" : "18482281025", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("59217f2fab62b42a106a78d3"), 
+    "tel" : "18217108959", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("59217f30ab62b42a106a78d4"), 
+    "tel" : "15180427271", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("59217f31ab62b42a106a78d5"), 
+    "tel" : "15026827158", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("59217f34ab62b42a106a78d6"), 
+    "tel" : "18218465855", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("59217f35ab62b42a106a78d7"), 
+    "tel" : "15026829518", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("59217f60ab62b42a106a78d8"), 
+    "tel" : "15811589469", 
+    "name" : "淅川县农汇食品销售有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59217f6cab62b42a106a78d9"), 
+    "tel" : "18223383359", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 1256"
+}
+{ 
+    "_id" : ObjectId("59217f79ab62b42a106a78da"), 
+    "tel" : "13162156521", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 财政局旁"
+}
+{ 
+    "_id" : ObjectId("59217f85ab62b42a106a78db"), 
+    "tel" : "13129331870", 
+    "name" : "汇丰金融投资投资公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59217f86ab62b42a106a78dc"), 
+    "tel" : "18652753162", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("59217f87ab62b42a106a78dd"), 
+    "tel" : "13247397982", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("59217f8aab62b42a106a78de"), 
+    "tel" : "17816859163", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59217f90ab62b42a106a78df"), 
+    "tel" : "15501733125", 
+    "name" : "上海鲁阜投资管理有限公司", 
+    "address" : "盐城- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("59217f91ab62b42a106a78e0"), 
+    "tel" : "18620767974", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("59217f92ab62b42a106a78e1"), 
+    "tel" : "18617384245", 
+    "name" : "上海鲁阜投资管理有限公司", 
+    "address" : "盐城- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("59217f95ab62b42a106a78e2"), 
+    "tel" : "15202485242", 
+    "name" : "上海鲁阜投资管理有限公司", 
+    "address" : "盐城- 财政局附近"
+}
+{ 
+    "_id" : ObjectId("59217f96ab62b42a106a78e3"), 
+    "tel" : "18676844769", 
+    "name" : "铜陵苏信投资管理有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59217f9cab62b42a106a78e4"), 
+    "tel" : "18575357460", 
+    "name" : "上海嘉定祥融小额贷款有限公司", 
+    "address" : "盐城- 国土局旁"
+}
+{ 
+    "_id" : ObjectId("59217fa4ab62b42a106a78e5"), 
+    "tel" : "18676285238", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("59217fa8ab62b42a106a78e6"), 
+    "tel" : "18660085662", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59217fb3ab62b42a106a78e7"), 
+    "tel" : "15201438986", 
+    "name" : "兰州市西固区康顺小额贷款有限公司", 
+    "address" : "盐城- 国税局旁"
+}
+{ 
+    "_id" : ObjectId("59217fb6ab62b42a106a78e8"), 
+    "tel" : "15230169185", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "盐城- 市人民政府附近"
+}
+{ 
+    "_id" : ObjectId("59217fb8ab62b42a106a78e9"), 
+    "tel" : "17092575131", 
+    "name" : "江苏富强投资管理有限公司", 
+    "address" : "盐城- 阳光大厦"
+}
+{ 
+    "_id" : ObjectId("59217fb9ab62b42a106a78ea"), 
+    "tel" : "18710559134", 
+    "name" : "六安市金正泰抵押贷款代理有限公司", 
+    "address" : "盐城- 1308"
+}
+{ 
+    "_id" : ObjectId("59217fc9ab62b42a106a78eb"), 
+    "tel" : "18625176585", 
+    "name" : "百耀投资担保有限公司", 
+    "address" : "盐城- 解放中路8号邮政大厦"
+}
+{ 
+    "_id" : ObjectId("59217fcaab62b42a106a78ec"), 
+    "tel" : "18932282317", 
+    "name" : "江苏艾丽丝信息咨询有限公司", 
+    "address" : "盐城- 世纪大道浩通二手车市场"
+}
+{ 
+    "_id" : ObjectId("59217fcbab62b42a106a78ed"), 
+    "tel" : "13182983310", 
+    "name" : "友谊国际投资咨询有限公司", 
+    "address" : "盐城- 建军东路"
+}
+{ 
+    "_id" : ObjectId("59217fe0ab62b42a106a78ee"), 
+    "tel" : "18798161685", 
+    "name" : "哈尔滨盛世嘉吉融资担保有限公司", 
+    "address" : "盐城- 18798161685"
+}
+{ 
+    "_id" : ObjectId("59217fe1ab62b42a106a78ef"), 
+    "tel" : "13484541816", 
+    "name" : "河南国贸投资担保有限公司", 
+    "address" : "盐城- 请联系13484541816"
+}
+{ 
+    "_id" : ObjectId("59217fe2ab62b42a106a78f0"), 
+    "tel" : "18831768720", 
+    "name" : "深圳银慧小额信贷有限公司", 
+    "address" : "盐城- 请联系18831768720"
+}
+{ 
+    "_id" : ObjectId("59217fe5ab62b42a106a78f1"), 
+    "tel" : "15621468298", 
+    "name" : "北京富安小额贷款有限公司", 
+    "address" : "盐城- 请联系15621468298 "
+}
+{ 
+    "_id" : ObjectId("59217fe7ab62b42a106a78f2"), 
+    "tel" : "13296396110", 
+    "name" : "吉林省中远担保有限公司", 
+    "address" : "盐城- 请联系13296396110"
+}
+{ 
+    "_id" : ObjectId("59217fe8ab62b42a106a78f3"), 
+    "tel" : "15202119818", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 15202119818"
+}
+{ 
+    "_id" : ObjectId("59217ffdab62b42a106a78f4"), 
+    "tel" : "18361976869", 
+    "name" : "太平洋信贷金融投资有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218007ab62b42a106a78f5"), 
+    "tel" : "15858419739", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 太平洋金融大厦A座"
+}
+{ 
+    "_id" : ObjectId("59218008ab62b42a106a78f6"), 
+    "tel" : "15230829250", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 太平洋金融大厦A座"
+}
+{ 
+    "_id" : ObjectId("5921800aab62b42a106a78f7"), 
+    "tel" : "15262433406", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 汇丰金融大厦A座"
+}
+{ 
+    "_id" : ObjectId("5921800aab62b42a106a78f8"), 
+    "tel" : "15902171786", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 汇丰金融大夏A座"
+}
+{ 
+    "_id" : ObjectId("5921800cab62b42a106a78f9"), 
+    "tel" : "15950175429", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921800dab62b42a106a78fa"), 
+    "tel" : "13415551028", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 太平洋金融大厦A座"
+}
+{ 
+    "_id" : ObjectId("5921800fab62b42a106a78fb"), 
+    "tel" : "13060664004", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 太平洋金融大厦A座"
+}
+{ 
+    "_id" : ObjectId("59218010ab62b42a106a78fc"), 
+    "tel" : "18324491505", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 太平洋金融大厦A座"
+}
+{ 
+    "_id" : ObjectId("59218012ab62b42a106a78fd"), 
+    "tel" : "13921819882", 
+    "name" : "北京恒昌惠诚信息咨询有限公司盐城分公司", 
+    "address" : "盐城- 新都路神州路交界紫金大厦405室"
+}
+{ 
+    "_id" : ObjectId("59218029ab62b42a106a78fe"), 
+    "tel" : "18217710858", 
+    "name" : "天津平安易贷金融投资有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921802bab62b42a106a78ff"), 
+    "tel" : "18961980784", 
+    "name" : "盐城市福元信息咨询有限公司", 
+    "address" : "盐城- 大庆中路76号"
+}
+{ 
+    "_id" : ObjectId("5921802cab62b42a106a7900"), 
+    "tel" : "18392507911", 
+    "name" : "淅川县农汇食品销售有限司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218031ab62b42a106a7901"), 
+    "tel" : "18551647614", 
+    "name" : "中民新能投资有限公司", 
+    "address" : "盐城- 建军东路景福大厦"
+}
+{ 
+    "_id" : ObjectId("59218035ab62b42a106a7902"), 
+    "tel" : "13770205893", 
+    "name" : "上海企创投资管理有限公司", 
+    "address" : "盐城- 建湖县城"
+}
+{ 
+    "_id" : ObjectId("5921803fab62b42a106a7903"), 
+    "tel" : "13276637951", 
+    "name" : "江苏嘉实投资担保有限公司", 
+    "address" : "盐城- 解放南路199号阳光大厦"
+}
+{ 
+    "_id" : ObjectId("59218056ab62b42a106a7904"), 
+    "tel" : "13971672355", 
+    "name" : "天津平安易贷金融投资有限公司", 
+    "address" : "盐城- 审计局旁"
+}
+{ 
+    "_id" : ObjectId("59218063ab62b42a106a7905"), 
+    "tel" : "18520677726", 
+    "name" : "济南中财广角担保有限公司", 
+    "address" : "盐城- 建设局旁"
+}
+{ 
+    "_id" : ObjectId("59218071ab62b42a106a7906"), 
+    "tel" : "15904083845", 
+    "name" : "南昌中财担保有限公司", 
+    "address" : "盐城- 1098"
+}
+{ 
+    "_id" : ObjectId("59218074ab62b42a106a7907"), 
+    "tel" : "18601527686", 
+    "name" : "江苏隆易贷投资管理有限公司", 
+    "address" : "盐城- 国际创投中心北楼6005"
+}
+{ 
+    "_id" : ObjectId("59218076ab62b42a106a7908"), 
+    "tel" : "13160058595", 
+    "name" : "中福天一投资担保有限公司", 
+    "address" : "盐城- 毓龙东路毓龙大厦"
+}
+{ 
+    "_id" : ObjectId("59218085ab62b42a106a7909"), 
+    "tel" : "13912504828", 
+    "name" : "盐城顺迪汽车服务有限公司", 
+    "address" : "盐城- 盐城市人民南路5号国际创投中心一楼188室"
+}
+{ 
+    "_id" : ObjectId("59218088ab62b42a106a790a"), 
+    "tel" : "18203225912", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("5921808dab62b42a106a790b"), 
+    "tel" : "13294112877", 
+    "name" : "深圳市龙泰投资发展有限公司", 
+    "address" : "盐城- 人民路19号"
+}
+{ 
+    "_id" : ObjectId("5921808eab62b42a106a790c"), 
+    "tel" : "18636156968", 
+    "name" : "铁汇投资（深圳）有限公司", 
+    "address" : "盐城- 人民路19号"
+}
+{ 
+    "_id" : ObjectId("59218093ab62b42a106a790d"), 
+    "tel" : "15276530389", 
+    "name" : "苏州融汇通投资有限公司", 
+    "address" : "盐城- 人民路31号"
+}
+{ 
+    "_id" : ObjectId("59218094ab62b42a106a790e"), 
+    "tel" : "13197827803", 
+    "name" : "铁汇投资（深圳）有限公司", 
+    "address" : "盐城- 人民路23号"
+}
+{ 
+    "_id" : ObjectId("59218095ab62b42a106a790f"), 
+    "tel" : "13162777797", 
+    "name" : "铁汇投资（深圳）有限公司", 
+    "address" : "盐城- 人民路58号"
+}
+{ 
+    "_id" : ObjectId("59218097ab62b42a106a7910"), 
+    "tel" : "15818146237", 
+    "name" : "铁汇投资（深圳）有限公司", 
+    "address" : "盐城- 人民路78号"
+}
+{ 
+    "_id" : ObjectId("59218098ab62b42a106a7911"), 
+    "tel" : "18640231087", 
+    "name" : "深圳市龙泰投资发展有限公司", 
+    "address" : "盐城- 人民路13号"
+}
+{ 
+    "_id" : ObjectId("592180a7ab62b42a106a7912"), 
+    "tel" : "18321203859", 
+    "name" : "四川青羊汇盈丰小额贷款有限责任公司", 
+    "address" : "盐城- 汇景新城"
+}
+{ 
+    "_id" : ObjectId("592180adab62b42a106a7913"), 
+    "tel" : "18961981110", 
+    "name" : "北京恒昌惠诚信息咨询有限公司盐城分公司", 
+    "address" : "盐城- 钱江财富广场B座"
+}
+{ 
+    "_id" : ObjectId("592180b6ab62b42a106a7914"), 
+    "tel" : "17096889469", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 市人民路136号"
+}
+{ 
+    "_id" : ObjectId("592180b8ab62b42a106a7915"), 
+    "tel" : "18721191336", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 市人民路136号"
+}
+{ 
+    "_id" : ObjectId("592180b9ab62b42a106a7916"), 
+    "tel" : "17087703342", 
+    "name" : "江苏富银信投资管理有限公司盐城分公司", 
+    "address" : "盐城- 迎宾南路金福大厦"
+}
+{ 
+    "_id" : ObjectId("592180bbab62b42a106a7917"), 
+    "tel" : "17087703342", 
+    "name" : "江苏典融投资管理有限公司盐城分公司", 
+    "address" : "盐城- 迎宾南路86，金福大厦"
+}
+{ 
+    "_id" : ObjectId("592180bcab62b42a106a7918"), 
+    "tel" : "18361067160", 
+    "name" : "江苏隆易贷投资管理有限公司", 
+    "address" : "盐城- 人民南路5号国际创投中心北楼6005"
+}
+{ 
+    "_id" : ObjectId("592180bdab62b42a106a7919"), 
+    "tel" : "15275105736", 
+    "name" : "中信投资担保有限公司", 
+    "address" : "盐城- 电话:15275105736"
+}
+{ 
+    "_id" : ObjectId("592180beab62b42a106a791a"), 
+    "tel" : "13162442389", 
+    "name" : "中安小额贷款有限公司", 
+    "address" : "盐城- ....."
+}
+{ 
+    "_id" : ObjectId("592180c0ab62b42a106a791b"), 
+    "tel" : "18655535771", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 咨询电话：18655535771"
+}
+{ 
+    "_id" : ObjectId("592180c3ab62b42a106a791c"), 
+    "tel" : "13182160713", 
+    "name" : "盐城玖隆投资管理有限公司", 
+    "address" : "盐城- 滨海大道"
+}
+{ 
+    "_id" : ObjectId("592180c4ab62b42a106a791d"), 
+    "tel" : "13182160713", 
+    "name" : "江苏盛隆投资管理有限公司", 
+    "address" : "盐城- 滨海大道"
+}
+{ 
+    "_id" : ObjectId("592180c6ab62b42a106a791e"), 
+    "tel" : "0515-88369919", 
+    "name" : "盐城市多永通电子贸易有限公司", 
+    "address" : "盐城- 盐马路102号"
+}
+{ 
+    "_id" : ObjectId("592180cbab62b42a106a791f"), 
+    "tel" : "15251130067", 
+    "name" : "扬州皇家投资咨询理财顾问有限公司", 
+    "address" : "盐城- 中茵海华对面写字楼8811室"
+}
+{ 
+    "_id" : ObjectId("592180cdab62b42a106a7920"), 
+    "tel" : "15195147777", 
+    "name" : "盐城乐天下信息咨询有限公司", 
+    "address" : "盐城- 钱江财富广场B座2006"
+}
+{ 
+    "_id" : ObjectId("592180d9ab62b42a106a7921"), 
+    "tel" : "13268384147", 
+    "name" : "鄂州市永亨投资管理咨询有限公司", 
+    "address" : "盐城- 平安小额贷款公司"
+}
+{ 
+    "_id" : ObjectId("592180dcab62b42a106a7922"), 
+    "tel" : "13242829948", 
+    "name" : "鄂州市永亨投资管理咨询有限公司", 
+    "address" : "盐城- 捷信小额贷款公司"
+}
+{ 
+    "_id" : ObjectId("592180e2ab62b42a106a7923"), 
+    "tel" : "15876547344", 
+    "name" : "宜信普惠信息咨询（北京）有限公司苏州分公司", 
+    "address" : "盐城- 18-8号"
+}
+{ 
+    "_id" : ObjectId("592180e4ab62b42a106a7924"), 
+    "tel" : "15680682116", 
+    "name" : "鄂州市永亨投资管理咨询有限公司", 
+    "address" : "盐城- 汇通贷款-专注个人贷款，无抵押，免担保，无任何前期费用"
+}
+{ 
+    "_id" : ObjectId("592180e6ab62b42a106a7925"), 
+    "tel" : "13240446233", 
+    "name" : "无锡市科发投资担保有限公司", 
+    "address" : "盐城- 人民大道"
+}
+{ 
+    "_id" : ObjectId("592180ebab62b42a106a7926"), 
+    "tel" : "18476658387", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("592180ecab62b42a106a7927"), 
+    "tel" : "13189774435", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("592180f1ab62b42a106a7928"), 
+    "tel" : "15778300279", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("592180f2ab62b42a106a7929"), 
+    "tel" : "15753171928", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 地税局旁"
+}
+{ 
+    "_id" : ObjectId("59218110ab62b42a106a792a"), 
+    "tel" : "18066161810", 
+    "name" : "江苏融億汽车销售服务有限公司", 
+    "address" : "盐城- 紫金大厦605"
+}
+{ 
+    "_id" : ObjectId("59218112ab62b42a106a792b"), 
+    "tel" : "15705105599", 
+    "name" : "盐城市嘉银信息咨询有限公司", 
+    "address" : "盐城- 盐城市建军中路177号汇金大厦801-803"
+}
+{ 
+    "_id" : ObjectId("59218115ab62b42a106a792c"), 
+    "tel" : "17858898189", 
+    "name" : "顺丰无抵押贷款有限公司", 
+    "address" : "盐城- 区政府102号"
+}
+{ 
+    "_id" : ObjectId("59218117ab62b42a106a792d"), 
+    "tel" : "13093451659", 
+    "name" : "重庆中财担保有限公司", 
+    "address" : "盐城- 中银大厦18号"
+}
+{ 
+    "_id" : ObjectId("59218119ab62b42a106a792e"), 
+    "tel" : "13240156310", 
+    "name" : "宁波京浙盛投资管理有限公司", 
+    "address" : "盐城- 建设路188-6"
+}
+{ 
+    "_id" : ObjectId("5921811aab62b42a106a792f"), 
+    "tel" : "13145653036", 
+    "name" : "深圳市阿春家投资管理有限公司", 
+    "address" : "盐城- 八一路688号"
+}
+{ 
+    "_id" : ObjectId("59218120ab62b42a106a7930"), 
+    "tel" : "13281463243", 
+    "name" : "合肥中财担保有限公司", 
+    "address" : "盐城- 东风西路180-2"
+}
+{ 
+    "_id" : ObjectId("59218126ab62b42a106a7931"), 
+    "tel" : "13023062673", 
+    "name" : "宁波京浙盛投资管理有限公司", 
+    "address" : "盐城- 市政广场"
+}
+{ 
+    "_id" : ObjectId("59218128ab62b42a106a7932"), 
+    "tel" : "18758273414", 
+    "name" : "上海中财融资担保有限公司", 
+    "address" : "盐城- 解放路37号"
+}
+{ 
+    "_id" : ObjectId("5921812bab62b42a106a7933"), 
+    "tel" : "17098319018", 
+    "name" : "金鼎信贷金融投资有限公司", 
+    "address" : "盐城- 市财政局旁"
+}
+{ 
+    "_id" : ObjectId("5921812dab62b42a106a7934"), 
+    "tel" : "13042111066", 
+    "name" : "金鼎信贷投资有限公司", 
+    "address" : "盐城- 市人民政府旁"
+}
+{ 
+    "_id" : ObjectId("5921812eab62b42a106a7935"), 
+    "tel" : "13262741588", 
+    "name" : "金鼎信贷投资有限公司", 
+    "address" : "盐城- 市人民政府旁"
+}
+{ 
+    "_id" : ObjectId("5921812fab62b42a106a7936"), 
+    "tel" : "15559668280", 
+    "name" : "太平洋小额贷款有限公司", 
+    "address" : "盐城- 市财政局旁"
+}
+{ 
+    "_id" : ObjectId("59218130ab62b42a106a7937"), 
+    "tel" : "15530441669", 
+    "name" : "太平洋小额贷款有限公司", 
+    "address" : "盐城- 市财政局旁"
+}
+{ 
+    "_id" : ObjectId("59218132ab62b42a106a7938"), 
+    "tel" : "15512272615", 
+    "name" : "金鼎信贷投资有限公司", 
+    "address" : "盐城- 市财政局"
+}
+{ 
+    "_id" : ObjectId("59218133ab62b42a106a7939"), 
+    "tel" : "15626491680", 
+    "name" : "河南智合投资担保有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218134ab62b42a106a793a"), 
+    "tel" : "15626491681", 
+    "name" : "辽宁闽隆融资担保有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921813fab62b42a106a793b"), 
+    "tel" : "17092912861", 
+    "name" : "深圳市阿春家投资管理有限公司", 
+    "address" : "盐城- 市政府前面请电话联系"
+}
+{ 
+    "_id" : ObjectId("59218142ab62b42a106a793c"), 
+    "tel" : "13127548988", 
+    "name" : "深圳市阿春家投资管理有限公司", 
+    "address" : "盐城- 来电 咨询"
+}
+{ 
+    "_id" : ObjectId("59218144ab62b42a106a793d"), 
+    "tel" : "17095963539", 
+    "name" : "辽宁中财融资担保有限公司", 
+    "address" : "盐城- 请电话联系...黄经理"
+}
+{ 
+    "_id" : ObjectId("59218146ab62b42a106a793e"), 
+    "tel" : "15929324575", 
+    "name" : "深圳市阿春家投资管理有限公司", 
+    "address" : "盐城- 来电 咨询"
+}
+{ 
+    "_id" : ObjectId("59218148ab62b42a106a793f"), 
+    "tel" : "15501178696", 
+    "name" : "上海中财融资担保有限公司", 
+    "address" : "盐城- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("59218148ab62b42a106a7940"), 
+    "tel" : "13149717656", 
+    "name" : "辽宁中财融资担保有限公司", 
+    "address" : "盐城- 请联系黄经理"
+}
+{ 
+    "_id" : ObjectId("5921814aab62b42a106a7941"), 
+    "tel" : "15067014688", 
+    "name" : "遵义市兴源投资担保有限公司", 
+    "address" : "盐城- 盐城邮电大夏"
+}
+{ 
+    "_id" : ObjectId("5921814bab62b42a106a7942"), 
+    "tel" : "17095963497", 
+    "name" : "深圳市后来者投资有限公司", 
+    "address" : "盐城- 人民东路"
+}
+{ 
+    "_id" : ObjectId("5921814cab62b42a106a7943"), 
+    "tel" : "15294228175", 
+    "name" : "辽宁中财融资担保有限公司", 
+    "address" : "盐城- 请电话黄经理"
+}
+{ 
+    "_id" : ObjectId("5921814dab62b42a106a7944"), 
+    "tel" : "18285087495", 
+    "name" : "宁波恒德利投资咨询有限公司", 
+    "address" : "盐城- 请电话黄经理"
+}
+{ 
+    "_id" : ObjectId("5921814eab62b42a106a7945"), 
+    "tel" : "15848255475", 
+    "name" : "深圳市后来者投资有限公司", 
+    "address" : "盐城- 人民东路"
+}
+{ 
+    "_id" : ObjectId("5921814fab62b42a106a7946"), 
+    "tel" : "15601591159", 
+    "name" : "九信投资管理有限公司", 
+    "address" : "盐城- 南京-玄武 珠江路5号华利国际大厦（全省可以办理贷款）"
+}
+{ 
+    "_id" : ObjectId("59218153ab62b42a106a7947"), 
+    "tel" : "15848253549", 
+    "name" : "上海中财融资担保有限公司", 
+    "address" : "盐城- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("59218154ab62b42a106a7948"), 
+    "tel" : "18789015571", 
+    "name" : "开封市嘉鸿投资管理有限公司", 
+    "address" : "盐城- 请联系18789015571"
+}
+{ 
+    "_id" : ObjectId("59218155ab62b42a106a7949"), 
+    "tel" : "18434594708", 
+    "name" : "河南恒大投资担保有限公司", 
+    "address" : "盐城- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("59218157ab62b42a106a794a"), 
+    "tel" : "15198165205", 
+    "name" : "重庆中财担保有限公司", 
+    "address" : "盐城- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("59218158ab62b42a106a794b"), 
+    "tel" : "15733229409", 
+    "name" : "北京富安小额贷款有限公司", 
+    "address" : "盐城- 联系电话15733229409"
+}
+{ 
+    "_id" : ObjectId("5921815aab62b42a106a794c"), 
+    "tel" : "13125320215", 
+    "name" : "深圳市银慧小额信贷有限公司", 
+    "address" : "盐城- 13125320215"
+}
+{ 
+    "_id" : ObjectId("5921815bab62b42a106a794d"), 
+    "tel" : "18770039458", 
+    "name" : "南昌中财担保有限公司", 
+    "address" : "盐城- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("5921815cab62b42a106a794e"), 
+    "tel" : "18896591806", 
+    "name" : "遵义市兴源投资担保有限公司", 
+    "address" : "盐城- 请联系18896591806"
+}
+{ 
+    "_id" : ObjectId("5921815fab62b42a106a794f"), 
+    "tel" : "14747714285", 
+    "name" : "河南恒大投资担保有限公司", 
+    "address" : "盐城- 请电话联系...黄经理"
+}
+{ 
+    "_id" : ObjectId("59218160ab62b42a106a7950"), 
+    "tel" : "15730088509", 
+    "name" : "深圳市银惠小额信贷有限公司", 
+    "address" : "盐城- 请联系15730088509"
+}
+{ 
+    "_id" : ObjectId("59218161ab62b42a106a7951"), 
+    "tel" : "18311611352", 
+    "name" : "重庆中财担保有限公司", 
+    "address" : "盐城- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("59218162ab62b42a106a7952"), 
+    "tel" : "13975425919", 
+    "name" : "遵义市兴源投资担保有限公司", 
+    "address" : "盐城- 13957425919"
+}
+{ 
+    "_id" : ObjectId("59218164ab62b42a106a7953"), 
+    "tel" : "18276126936", 
+    "name" : "开封市嘉鸿投资管理有限公司", 
+    "address" : "盐城- 来电详谈"
+}
+{ 
+    "_id" : ObjectId("59218165ab62b42a106a7954"), 
+    "tel" : "15034012088", 
+    "name" : "苏州融汇通投资有限公司", 
+    "address" : "盐城- 请联系15034012088"
+}
+{ 
+    "_id" : ObjectId("59218170ab62b42a106a7955"), 
+    "tel" : "18851643474", 
+    "name" : "苏州中亚投资担保有限公司", 
+    "address" : "盐城- 海龙路毓龙东路交汇处北海龙大厦"
+}
+{ 
+    "_id" : ObjectId("59218171ab62b42a106a7956"), 
+    "tel" : "17099028696", 
+    "name" : "上海中财融资担保有限公司", 
+    "address" : "盐城- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("5921817dab62b42a106a7957"), 
+    "tel" : "13189183030", 
+    "name" : "无锡市科发投资担保有限公司", 
+    "address" : "盐城- 88-8号"
+}
+{ 
+    "_id" : ObjectId("59218182ab62b42a106a7958"), 
+    "tel" : "18585072235", 
+    "name" : "合肥中财担保有限公司", 
+    "address" : "盐城- 地税局旁"
+}
+{ 
+    "_id" : ObjectId("59218188ab62b42a106a7959"), 
+    "tel" : "15894999046", 
+    "name" : "重庆中财担保有限公司", 
+    "address" : "盐城- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("592181a8ab62b42a106a795a"), 
+    "tel" : "15982255039", 
+    "name" : "北京富安小额贷款有限公司", 
+    "address" : "盐城- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("592181d1ab62b42a106a795b"), 
+    "tel" : "18232180398", 
+    "name" : "河南国贸投资担保有限公司", 
+    "address" : "盐城- 请联系18232180398"
+}
+{ 
+    "_id" : ObjectId("592181d2ab62b42a106a795c"), 
+    "tel" : "15267148052", 
+    "name" : "吉林省中远担保有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("592181d3ab62b42a106a795d"), 
+    "tel" : "13613218928", 
+    "name" : "哈尔滨盛世嘉吉融资担保有限公司", 
+    "address" : "盐城- 13613218928"
+}
+{ 
+    "_id" : ObjectId("592181d6ab62b42a106a795e"), 
+    "tel" : "13006521389", 
+    "name" : "哈尔滨盛世嘉吉融资担保有限公司", 
+    "address" : "盐城- 请联系13006521389"
+}
+{ 
+    "_id" : ObjectId("592181d6ab62b42a106a795f"), 
+    "tel" : "13572829207", 
+    "name" : "哈尔滨盛世嘉吉融资担保有限公司", 
+    "address" : "盐城- 请联系13572829207"
+}
+{ 
+    "_id" : ObjectId("592181d7ab62b42a106a7960"), 
+    "tel" : "18627806636", 
+    "name" : "佛山禅城中盈盛达小额贷款有限公司", 
+    "address" : "盐城- 18627806636"
+}
+{ 
+    "_id" : ObjectId("592181d9ab62b42a106a7961"), 
+    "tel" : "17095963565", 
+    "name" : "佛山禅城中盈盛达小额贷款有限公司", 
+    "address" : "盐城- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("592181d9ab62b42a106a7962"), 
+    "tel" : "18329966783", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 18329966783"
+}
+{ 
+    "_id" : ObjectId("592181dbab62b42a106a7963"), 
+    "tel" : "18822685156", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 请联系18822685156"
+}
+{ 
+    "_id" : ObjectId("592181deab62b42a106a7964"), 
+    "tel" : "15712336298", 
+    "name" : "哈尔滨盛世嘉吉融资担保有限公司", 
+    "address" : "盐城- 请联系15712336298"
+}
+{ 
+    "_id" : ObjectId("592181deab62b42a106a7965"), 
+    "tel" : "18275765778", 
+    "name" : "佛山禅城中盈盛达小额贷款有限公司", 
+    "address" : "盐城- 18275765778"
+}
+{ 
+    "_id" : ObjectId("592181e1ab62b42a106a7966"), 
+    "tel" : "17099028442", 
+    "name" : "河南国贸投资担保有限公司", 
+    "address" : "盐城- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("592181e2ab62b42a106a7967"), 
+    "tel" : "13923785128", 
+    "name" : "佛山禅城中盈盛达小额贷款有限公司", 
+    "address" : "盐城- 请联系 13923785128"
+}
+{ 
+    "_id" : ObjectId("592181e3ab62b42a106a7968"), 
+    "tel" : "18735367315", 
+    "name" : "河南国贸投资担保有限公司", 
+    "address" : "盐城- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("592181e4ab62b42a106a7969"), 
+    "tel" : "15221250758", 
+    "name" : "河南国贸投资担保有限公司", 
+    "address" : "盐城- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("592181e6ab62b42a106a796a"), 
+    "tel" : "13646676588", 
+    "name" : "哈尔滨盛世嘉吉融资担保有限公司", 
+    "address" : "盐城- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("592181f4ab62b42a106a796b"), 
+    "tel" : "15190062248", 
+    "name" : "北京富安小额贷款有限公司", 
+    "address" : "盐城- 15190062248"
+}
+{ 
+    "_id" : ObjectId("592181f4ab62b42a106a796c"), 
+    "tel" : "18615786526", 
+    "name" : "四川青羊汇盈丰小额货款有限责任公司", 
+    "address" : "盐城- 汇盈丰小额货款有限责任公司 18615786526"
+}
+{ 
+    "_id" : ObjectId("592181f6ab62b42a106a796d"), 
+    "tel" : "13437122468", 
+    "name" : "平顶山市新华区中小企业投资担保有限公司", 
+    "address" : "盐城- 13437122468"
+}
+{ 
+    "_id" : ObjectId("592181f7ab62b42a106a796e"), 
+    "tel" : "18734586337", 
+    "name" : "北京富安小额贷款有限公司", 
+    "address" : "盐城- 18734586337"
+}
+{ 
+    "_id" : ObjectId("59218200ab62b42a106a796f"), 
+    "tel" : "15396880701", 
+    "name" : "北京恒昌惠诚信息咨询有限公司盐城分公司", 
+    "address" : "盐城- 华邦国际东厦A区13楼"
+}
+{ 
+    "_id" : ObjectId("59218222ab62b42a106a7970"), 
+    "tel" : "13559113496", 
+    "name" : "北京中金汇投资担保有限公司", 
+    "address" : "盐城- 请联系13559113496"
+}
+{ 
+    "_id" : ObjectId("59218225ab62b42a106a7971"), 
+    "tel" : "13161929711", 
+    "name" : "华夏企业管理有限公司", 
+    "address" : "盐城- 毓龙东路8号毓龙大厦"
+}
+{ 
+    "_id" : ObjectId("59218242ab62b42a106a7972"), 
+    "tel" : "18721242157", 
+    "name" : "重庆市忠县兴农融资担保有限公司", 
+    "address" : "盐城- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("59218245ab62b42a106a7973"), 
+    "tel" : "17079052008", 
+    "name" : "铁汇投资(深圳)有限公司", 
+    "address" : "盐城- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("59218245ab62b42a106a7974"), 
+    "tel" : "17073805362", 
+    "name" : "铁汇投资(深圳)有限公司", 
+    "address" : "盐城- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("59218247ab62b42a106a7975"), 
+    "tel" : "18865923302", 
+    "name" : "广西和信高盛非融资性担保有限公司", 
+    "address" : "盐城- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("59218247ab62b42a106a7976"), 
+    "tel" : "15918669656", 
+    "name" : "广西和信高盛非融资性担保有限公司", 
+    "address" : "盐城- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("5921824dab62b42a106a7977"), 
+    "tel" : "17082765297", 
+    "name" : "铁汇投资(深圳)有限公司", 
+    "address" : "盐城- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("59218254ab62b42a106a7978"), 
+    "tel" : "17095163480", 
+    "name" : "亚安天宇投资担保有限公司", 
+    "address" : "盐城- 环城西路261号天虹建设大厦"
+}
+{ 
+    "_id" : ObjectId("5921826cab62b42a106a7979"), 
+    "tel" : "18829512138", 
+    "name" : "中安信贷金融投资有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921826fab62b42a106a797a"), 
+    "tel" : "15069059606", 
+    "name" : "北京振华投资有限公司", 
+    "address" : "盐城- 168号"
+}
+{ 
+    "_id" : ObjectId("59218271ab62b42a106a797b"), 
+    "tel" : "18710515508", 
+    "name" : "安徽通融投资管理有限公司", 
+    "address" : "盐城- 1205"
+}
+{ 
+    "_id" : ObjectId("59218273ab62b42a106a797c"), 
+    "tel" : "15966339687", 
+    "name" : "山东金凯利投资担保有限公司", 
+    "address" : "盐城- 1010"
+}
+{ 
+    "_id" : ObjectId("59218274ab62b42a106a797d"), 
+    "tel" : "15106955975", 
+    "name" : "济南中财广角担保有限公司", 
+    "address" : "盐城- 全市服务"
+}
+{ 
+    "_id" : ObjectId("59218275ab62b42a106a797e"), 
+    "tel" : "18551634563", 
+    "name" : "中海信达担保有限公司", 
+    "address" : "盐城- 人民中路36号九洲大厦"
+}
+{ 
+    "_id" : ObjectId("59218283ab62b42a106a797f"), 
+    "tel" : "400-7107778", 
+    "name" : "盐城市红蚂蚁投资管理有限公司", 
+    "address" : "盐城- 解放南路38号"
+}
+{ 
+    "_id" : ObjectId("5921829eab62b42a106a7980"), 
+    "tel" : "15990906675", 
+    "name" : "河南国贸投资担保有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("592182ceab62b42a106a7981"), 
+    "tel" : "18537111424", 
+    "name" : "长城国融投资管理有限公司", 
+    "address" : "盐城- 全市均可办理"
+}
+{ 
+    "_id" : ObjectId("592182cfab62b42a106a7982"), 
+    "tel" : "15366580069", 
+    "name" : "江苏盛隆投资管理有限公司", 
+    "address" : "盐城- 人民南路5号国际创投中心6005室"
+}
+{ 
+    "_id" : ObjectId("592182d0ab62b42a106a7983"), 
+    "tel" : "13609874100", 
+    "name" : "长城国融投资管理有限公司", 
+    "address" : "盐城- 全市均可办理"
+}
+{ 
+    "_id" : ObjectId("592182ebab62b42a106a7984"), 
+    "tel" : "18388129855", 
+    "name" : "浙川县农汇食品销售有限公司", 
+    "address" : "盐城- 世纪大道"
+}
+{ 
+    "_id" : ObjectId("592182edab62b42a106a7985"), 
+    "tel" : "18291925918", 
+    "name" : "浙川县农汇食品销售有限公司", 
+    "address" : "盐城- 迎宾大道"
+}
+{ 
+    "_id" : ObjectId("59218305ab62b42a106a7986"), 
+    "tel" : "13851051178", 
+    "name" : "宜信普惠信息咨询（北京）有限公司盐城分公司", 
+    "address" : "盐城- 钱江财富广场"
+}
+{ 
+    "_id" : ObjectId("59218348ab62b42a106a7987"), 
+    "tel" : "010-53236009", 
+    "name" : "北京搜斗士信息技术有限公司", 
+    "address" : "盐城- 亭湖大道"
+}
+{ 
+    "_id" : ObjectId("5921836fab62b42a106a7988"), 
+    "tel" : "0515-82686166", 
+    "name" : "盐城广鑫汽车贸易有限公司", 
+    "address" : "盐城- 盐城白马商城3号楼101室"
+}
+{ 
+    "_id" : ObjectId("59218379ab62b42a106a7989"), 
+    "tel" : "18396869635", 
+    "name" : "北京中投创富投资有限公司", 
+    "address" : "盐城- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("5921837aab62b42a106a798a"), 
+    "tel" : "18382081268", 
+    "name" : "北京富安小额贷款有限公司", 
+    "address" : "盐城- 建设局旁"
+}
+{ 
+    "_id" : ObjectId("5921837dab62b42a106a798b"), 
+    "tel" : "15750800086", 
+    "name" : "上海中财融资担保有限公司", 
+    "address" : "盐城- 建设局旁15750800086"
+}
+{ 
+    "_id" : ObjectId("59218386ab62b42a106a798c"), 
+    "tel" : "18012500573", 
+    "name" : "江苏融亿汽车销售服务有限公司", 
+    "address" : "盐城- 紫金大厦"
+}
+{ 
+    "_id" : ObjectId("59218397ab62b42a106a798d"), 
+    "tel" : "17090454478", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 汽车站旁"
+}
+{ 
+    "_id" : ObjectId("59218398ab62b42a106a798e"), 
+    "tel" : "17090454461", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 汽车站旁"
+}
+{ 
+    "_id" : ObjectId("592183d5ab62b42a106a798f"), 
+    "tel" : "15906708095", 
+    "name" : "苏州金石投资管理股份有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("592183e3ab62b42a106a7990"), 
+    "tel" : "15928989537", 
+    "name" : "南昌中财担保有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("592183eaab62b42a106a7991"), 
+    "tel" : "15165187370", 
+    "name" : "陕西金丰泽担保有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("592183efab62b42a106a7992"), 
+    "tel" : "15125841236", 
+    "name" : "宜信普惠信息咨询（北京）有限公司盐城分公司", 
+    "address" : "盐城- 钱江财富广场"
+}
+{ 
+    "_id" : ObjectId("59218421ab62b42a106a7993"), 
+    "tel" : "15705977657", 
+    "name" : "浙川县农汇食品销售有限公司", 
+    "address" : "盐城- 解放南路"
+}
+{ 
+    "_id" : ObjectId("5921853eab62b42a106a7994"), 
+    "tel" : "18313780728", 
+    "name" : "北京中金汇投资担保有限公司", 
+    "address" : "盐城- 国税局旁"
+}
+{ 
+    "_id" : ObjectId("59218577ab62b42a106a7995"), 
+    "tel" : "15753169560", 
+    "name" : "黑龙江省水利四处工程有限责任公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("592185a6ab62b42a106a7996"), 
+    "tel" : "18321533978", 
+    "name" : "鸣泰投资管理（上海）有限公司", 
+    "address" : "盐城- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("592185a8ab62b42a106a7997"), 
+    "tel" : "18313906711", 
+    "name" : "河南国贸投资担保有限公司", 
+    "address" : "盐城- 财政局旁"
+}
+{ 
+    "_id" : ObjectId("592185aaab62b42a106a7998"), 
+    "tel" : "18888675226", 
+    "name" : "重庆中财担保有限公司", 
+    "address" : "盐城- 本市及周边"
+}
+{ 
+    "_id" : ObjectId("592185e2ab62b42a106a7999"), 
+    "tel" : "18392593797", 
+    "name" : "五原县九郡小额贷款有限公司", 
+    "address" : "盐城- 财政局旁"
+}
+{ 
+    "_id" : ObjectId("592185f2ab62b42a106a799a"), 
+    "tel" : "15261976346", 
+    "name" : "盐城福元信息咨询有限公司", 
+    "address" : "盐城- 华邦西厦15楼A03（市政府旁边）"
+}
+{ 
+    "_id" : ObjectId("59218730ab62b42a106a799b"), 
+    "tel" : "13851180220", 
+    "name" : "盐城市易信恒通信息服务中心", 
+    "address" : "盐城- 大庆中路49号"
+}
+{ 
+    "_id" : ObjectId("59218783ab62b42a106a799c"), 
+    "tel" : "0515-89913555", 
+    "name" : "盐城市宜都房贷咨询服务有限公司", 
+    "address" : "盐城- 人民南路1号华邦国际东厦B603"
+}
+{ 
+    "_id" : ObjectId("592187e2ab62b42a106a799d"), 
+    "tel" : "0755-25314276", 
+    "name" : "深圳市恒邦贷金融服务有限公司", 
+    "address" : "盐城- 建设路2000号"
+}
+{ 
+    "_id" : ObjectId("59218824ab62b42a106a799e"), 
+    "tel" : "15778062526", 
+    "name" : "浙川县农汇食品销售有限公司", 
+    "address" : "盐城- 中银贷款公司"
+}
+{ 
+    "_id" : ObjectId("59218827ab62b42a106a799f"), 
+    "tel" : "15215702811", 
+    "name" : "安徽中安巨融融资担保股份有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921882dab62b42a106a79a0"), 
+    "tel" : "18380284898", 
+    "name" : "济南中财广角担保有限公司", 
+    "address" : "盐城- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("59218832ab62b42a106a79a1"), 
+    "tel" : "13056189683", 
+    "name" : "宜信普惠信息咨询（北京）有限公司盐城分公司", 
+    "address" : "盐城- 钱江财富广场"
+}
+{ 
+    "_id" : ObjectId("59218842ab62b42a106a79a2"), 
+    "tel" : "18221539627", 
+    "name" : "上海中财融资担保有限公司", 
+    "address" : "盐城- 全市均可办"
+}
+{ 
+    "_id" : ObjectId("5921887cab62b42a106a79a3"), 
+    "tel" : "15851082439", 
+    "name" : "宝丰泰投资咨询有限公司", 
+    "address" : "盐城- 江苏省盐城市建军东路135号"
+}
+{ 
+    "_id" : ObjectId("592188c3ab62b42a106a79a4"), 
+    "tel" : "13400071931", 
+    "name" : "红枫资本投资管理有限公司", 
+    "address" : "盐城- 全市均可办理"
+}
+{ 
+    "_id" : ObjectId("592188c4ab62b42a106a79a5"), 
+    "tel" : "13400073267", 
+    "name" : "红枫资本投资管理有限公司", 
+    "address" : "盐城- 全市均可办理"
+}
+{ 
+    "_id" : ObjectId("59218924ab62b42a106a79a6"), 
+    "tel" : "18625170328", 
+    "name" : "速融融资担保有限公司", 
+    "address" : "盐城- 大庆西路港湾大厦"
+}
+{ 
+    "_id" : ObjectId("5921893aab62b42a106a79a7"), 
+    "tel" : "13610814325", 
+    "name" : "上海益能科创贸易有限公司", 
+    "address" : "盐城- 查看地图"
+}
+{ 
+    "_id" : ObjectId("5921894fab62b42a106a79a8"), 
+    "tel" : "17098317388", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 2132"
+}
+{ 
+    "_id" : ObjectId("5921895fab62b42a106a79a9"), 
+    "tel" : "17082178879", 
+    "name" : "福建中财担保有限公司", 
+    "address" : "盐城- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("5921896bab62b42a106a79aa"), 
+    "tel" : "15900950782", 
+    "name" : "北京中投创富投资有限公司", 
+    "address" : "盐城- 1005"
+}
+{ 
+    "_id" : ObjectId("5921896fab62b42a106a79ab"), 
+    "tel" : "17078250812", 
+    "name" : "深圳市恒信通小额贷款有限公司", 
+    "address" : "盐城- 盐城亭湖"
+}
+{ 
+    "_id" : ObjectId("59218976ab62b42a106a79ac"), 
+    "tel" : "13816459123", 
+    "name" : "江苏嘉实投资担保有限公司", 
+    "address" : "盐城- 商业大厦"
+}
+{ 
+    "_id" : ObjectId("59218983ab62b42a106a79ad"), 
+    "tel" : "15895254684", 
+    "name" : "江苏嘉实投资担保有限公司", 
+    "address" : "盐城- 亭湖街道"
+}
+{ 
+    "_id" : ObjectId("5921898aab62b42a106a79ae"), 
+    "tel" : "15195467884", 
+    "name" : "中世华德投资担保有限公司", 
+    "address" : "盐城- 解放北路1号邮电大厦"
+}
+{ 
+    "_id" : ObjectId("5921898cab62b42a106a79af"), 
+    "tel" : "13867821372", 
+    "name" : "指月集团有限公司", 
+    "address" : "盐城- 查看地图"
+}
+{ 
+    "_id" : ObjectId("59218995ab62b42a106a79b0"), 
+    "tel" : "18305166636", 
+    "name" : "南京润海投资咨询有限公司", 
+    "address" : "盐城- 中山南路360同坤大厦"
+}
+{ 
+    "_id" : ObjectId("592189a5ab62b42a106a79b1"), 
+    "tel" : "15705105599", 
+    "name" : "盐城市嘉银信息咨询有限公司", 
+    "address" : "盐城- 盐城市建军中路177号汇金大厦801-803"
+}
+{ 
+    "_id" : ObjectId("592189adab62b42a106a79b2"), 
+    "tel" : "13671985889", 
+    "name" : "上海中财融资担保有限公司", 
+    "address" : "盐城- 13671985889"
+}
+{ 
+    "_id" : ObjectId("592189aeab62b42a106a79b3"), 
+    "tel" : "13876694560", 
+    "name" : "河南小康明华投资担保有限公司", 
+    "address" : "盐城- 13876694560"
+}
+{ 
+    "_id" : ObjectId("592189afab62b42a106a79b4"), 
+    "tel" : "13840576532", 
+    "name" : "上海中财融资担保有限公司", 
+    "address" : "盐城- 13840576532"
+}
+{ 
+    "_id" : ObjectId("592189b1ab62b42a106a79b5"), 
+    "tel" : "18388118658", 
+    "name" : "河北广丰担保有限公司", 
+    "address" : "盐城- 18388118658"
+}
+{ 
+    "_id" : ObjectId("592189b2ab62b42a106a79b6"), 
+    "tel" : "15168268266", 
+    "name" : "遵义市兴源投资担保有限公司", 
+    "address" : "盐城- 15168268266"
+}
+{ 
+    "_id" : ObjectId("592189b3ab62b42a106a79b7"), 
+    "tel" : "13933192296", 
+    "name" : "遵义市兴源投资担保有限公司", 
+    "address" : "盐城- 联系电话13933192296"
+}
+{ 
+    "_id" : ObjectId("592189b6ab62b42a106a79b8"), 
+    "tel" : "18801238912", 
+    "name" : "北京金成锦华融资担保有限公司", 
+    "address" : "盐城- 18801238912"
+}
+{ 
+    "_id" : ObjectId("592189b6ab62b42a106a79b9"), 
+    "tel" : "15726182158", 
+    "name" : "遵义市兴源投资担保有限公司", 
+    "address" : "盐城- 15726182158"
+}
+{ 
+    "_id" : ObjectId("592189b8ab62b42a106a79ba"), 
+    "tel" : "15945154009", 
+    "name" : "北京富安小额贷款有限公司", 
+    "address" : "盐城- 电话  15945154009"
+}
+{ 
+    "_id" : ObjectId("592189b9ab62b42a106a79bb"), 
+    "tel" : "15056083296", 
+    "name" : "北京金成锦华融资担保有限公司", 
+    "address" : "盐城- 15056083296"
+}
+{ 
+    "_id" : ObjectId("592189bcab62b42a106a79bc"), 
+    "tel" : "18565552447", 
+    "name" : "上海嘉定祥融小额贷款有限公司", 
+    "address" : "盐城- 地税局旁"
+}
+{ 
+    "_id" : ObjectId("592189bfab62b42a106a79bd"), 
+    "tel" : "18423471725", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 请联系18423471725"
+}
+{ 
+    "_id" : ObjectId("592189dfab62b42a106a79be"), 
+    "tel" : "18288665955", 
+    "name" : "莆田市金鹰融资担保有限公司", 
+    "address" : "盐城- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("592189e1ab62b42a106a79bf"), 
+    "tel" : "13013038057", 
+    "name" : "福建中财担保有限公司", 
+    "address" : "盐城- 盐城--亭湖"
+}
+{ 
+    "_id" : ObjectId("592189e2ab62b42a106a79c0"), 
+    "tel" : "18457050950", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 电话： 18457050950"
+}
+{ 
+    "_id" : ObjectId("592189e8ab62b42a106a79c1"), 
+    "tel" : "18217076108", 
+    "name" : "平安普惠投资咨询有限公司深圳龙岗大道营业部", 
+    "address" : "盐城- 海韵大厦"
+}
+{ 
+    "_id" : ObjectId("592189f4ab62b42a106a79c2"), 
+    "tel" : "18651711799", 
+    "name" : "宜信普惠信息咨询（北京）有限公司", 
+    "address" : "盐城- 解放南路12号"
+}
+{ 
+    "_id" : ObjectId("592189faab62b42a106a79c3"), 
+    "tel" : "13121210811", 
+    "name" : "宜信普惠信息咨询（北京）有限公司苏州分公司", 
+    "address" : "盐城- 全市均可办理"
+}
+{ 
+    "_id" : ObjectId("59218a08ab62b42a106a79c4"), 
+    "tel" : "13121169311", 
+    "name" : "宜信普惠信息咨询（北京）有限公司苏州分公司", 
+    "address" : "盐城- 全市均可办理"
+}
+{ 
+    "_id" : ObjectId("59218a19ab62b42a106a79c5"), 
+    "tel" : "17098311695", 
+    "name" : "北京市易贷金融投资管理有限公司", 
+    "address" : "盐城- 市审计局46号"
+}
+{ 
+    "_id" : ObjectId("59218a1eab62b42a106a79c6"), 
+    "tel" : "15778013768", 
+    "name" : "淅川县农汇食品销售有限公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("59218a1fab62b42a106a79c7"), 
+    "tel" : "18262386701", 
+    "name" : "江苏融亿汽车销售服务有限公司", 
+    "address" : "盐城- 金融城邮政银行路北汇丰易贷"
+}
+{ 
+    "_id" : ObjectId("59218a20ab62b42a106a79c8"), 
+    "tel" : "18851004640", 
+    "name" : "江苏环都投资有限公司", 
+    "address" : "盐城- 解放南路汇景大厦"
+}
+{ 
+    "_id" : ObjectId("59218a22ab62b42a106a79c9"), 
+    "tel" : "13152351591", 
+    "name" : "上海中财融资担保有限公司", 
+    "address" : "盐城- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("59218a23ab62b42a106a79ca"), 
+    "tel" : "13267933462", 
+    "name" : "深圳市龙泰投资发展有限公司", 
+    "address" : "盐城- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("59218a24ab62b42a106a79cb"), 
+    "tel" : "15753182895", 
+    "name" : "河南嘉信投资担保有限公司", 
+    "address" : "盐城- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("59218a26ab62b42a106a79cc"), 
+    "tel" : "15078833152", 
+    "name" : "深圳龙泰投资发展有限公司", 
+    "address" : "盐城- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("59218a2dab62b42a106a79cd"), 
+    "tel" : "15035530477", 
+    "name" : "河南嘉信投资担保有限公司", 
+    "address" : "盐城- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("59218a2eab62b42a106a79ce"), 
+    "tel" : "13261991292", 
+    "name" : "辽宁中财融资担保有限公司", 
+    "address" : "盐城- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("59218a2fab62b42a106a79cf"), 
+    "tel" : "15694960398", 
+    "name" : "安徽兴飞投资咨询有限公司", 
+    "address" : "盐城- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("59218a30ab62b42a106a79d0"), 
+    "tel" : "13771164862", 
+    "name" : "杭州悦阔投资管理有限公司", 
+    "address" : "盐城- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("59218a33ab62b42a106a79d1"), 
+    "tel" : "17889922562", 
+    "name" : "杭州悦阔投资管理有限公司", 
+    "address" : "盐城- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("59218a34ab62b42a106a79d2"), 
+    "tel" : "13060636891", 
+    "name" : "南昌中财担保有限公司", 
+    "address" : "盐城- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("59218a36ab62b42a106a79d3"), 
+    "tel" : "13261221488", 
+    "name" : "苏州融汇通投资有限公司", 
+    "address" : "盐城- 请联系13261221488"
+}
+{ 
+    "_id" : ObjectId("59218a37ab62b42a106a79d4"), 
+    "tel" : "13675834491", 
+    "name" : "苏州融汇投资有限公司", 
+    "address" : "盐城- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("59218a39ab62b42a106a79d5"), 
+    "tel" : "13632881009", 
+    "name" : "重庆中财担保有限公司", 
+    "address" : "盐城- 请联系13632881009"
+}
+{ 
+    "_id" : ObjectId("59218a3aab62b42a106a79d6"), 
+    "tel" : "15712336998", 
+    "name" : "重庆中财担保有限公司", 
+    "address" : "盐城- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("59218a3bab62b42a106a79d7"), 
+    "tel" : "15026618103", 
+    "name" : "六安市金正泰抵押贷款代理有限公司", 
+    "address" : "盐城- 请电话联系...黄经理"
+}
+{ 
+    "_id" : ObjectId("59218a3cab62b42a106a79d8"), 
+    "tel" : "13009135734", 
+    "name" : "深圳市龙泰投资发展有限公司", 
+    "address" : "盐城- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("59218a3eab62b42a106a79d9"), 
+    "tel" : "17096509881", 
+    "name" : "深圳市龙泰投资发展有限公司", 
+    "address" : "盐城- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("59218a3fab62b42a106a79da"), 
+    "tel" : "18275860108", 
+    "name" : "莆田市金鹰融资担保有限公司", 
+    "address" : "盐城- 市政府前面请电话联系"
+}
+{ 
+    "_id" : ObjectId("59218a41ab62b42a106a79db"), 
+    "tel" : "15828188771", 
+    "name" : "开封市嘉鸿投资管理有限公司", 
+    "address" : "盐城- 来电 咨询"
+}
+{ 
+    "_id" : ObjectId("59218a42ab62b42a106a79dc"), 
+    "tel" : "17093113441", 
+    "name" : "深圳市龙泰投资发展有限公司", 
+    "address" : "盐城- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("59218a44ab62b42a106a79dd"), 
+    "tel" : "15564104491", 
+    "name" : "宁波京浙盛投资管理有限公司", 
+    "address" : "盐城- 市政府前面请电话联系"
+}
+{ 
+    "_id" : ObjectId("59218a45ab62b42a106a79de"), 
+    "tel" : "17092742693", 
+    "name" : "深圳市龙泰投资发展有限公司", 
+    "address" : "盐城- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("59218a46ab62b42a106a79df"), 
+    "tel" : "15202611668", 
+    "name" : "深圳市阿春家投资管理有限公司", 
+    "address" : "盐城- 市政府前面请电话联系"
+}
+{ 
+    "_id" : ObjectId("59218a48ab62b42a106a79e0"), 
+    "tel" : "17095757416", 
+    "name" : "深圳市阿春家投资管理有限公司", 
+    "address" : "盐城- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("59218a49ab62b42a106a79e1"), 
+    "tel" : "17093670736", 
+    "name" : "遵义市兴源投资担保有限公司", 
+    "address" : "盐城- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("59218a4bab62b42a106a79e2"), 
+    "tel" : "400-1848739-1508", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "盐城- 火车站斜对面"
+}
+{ 
+    "_id" : ObjectId("59218a56ab62b42a106a79e3"), 
+    "tel" : "13166047121", 
+    "name" : "上海市同益信贷投资有限公司", 
+    "address" : "盐城- 市财政局旁"
+}
+{ 
+    "_id" : ObjectId("59218a58ab62b42a106a79e4"), 
+    "tel" : "18556536382", 
+    "name" : "太平洋小额贷款有限公司", 
+    "address" : "盐城- 市财政局旁"
+}
+{ 
+    "_id" : ObjectId("59218a59ab62b42a106a79e5"), 
+    "tel" : "17093000925", 
+    "name" : "太平洋小额贷款有限公司", 
+    "address" : "盐城- 市财政局旁"
+}
+{ 
+    "_id" : ObjectId("59218a5aab62b42a106a79e6"), 
+    "tel" : "18789770322", 
+    "name" : "太平洋小额贷款有限公司", 
+    "address" : "盐城- 市财政局旁"
+}
+{ 
+    "_id" : ObjectId("59218a5cab62b42a106a79e7"), 
+    "tel" : "15510217228", 
+    "name" : "太平洋小额贷款有限公司", 
+    "address" : "盐城- 市财政局旁"
+}
+{ 
+    "_id" : ObjectId("59218a5dab62b42a106a79e8"), 
+    "tel" : "17093792878", 
+    "name" : "金鼎信贷金融投资有限公司", 
+    "address" : "盐城- 市财政局旁"
+}
+{ 
+    "_id" : ObjectId("59218a66ab62b42a106a79e9"), 
+    "tel" : "15778367390", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("59218a6cab62b42a106a79ea"), 
+    "tel" : "15719339369", 
+    "name" : "深圳市阿春家投资管理有限公司", 
+    "address" : "盐城- 阳光大酒店3楼"
+}
+{ 
+    "_id" : ObjectId("59218a73ab62b42a106a79eb"), 
+    "tel" : "13228009804", 
+    "name" : "青岛铭拓投资咨询有限公司", 
+    "address" : "盐城- 文化北路391号"
+}
+{ 
+    "_id" : ObjectId("59218a76ab62b42a106a79ec"), 
+    "tel" : "18752370019", 
+    "name" : "北京恒昌惠诚信息咨询有限公司盐城分公司", 
+    "address" : "盐城- 钱江财富广场B座22楼2204室"
+}
+{ 
+    "_id" : ObjectId("59218a80ab62b42a106a79ed"), 
+    "tel" : "18362961074", 
+    "name" : "江苏环都投资有限公司", 
+    "address" : "盐城- 建军中路21号国贸大厦"
+}
+{ 
+    "_id" : ObjectId("59218a87ab62b42a106a79ee"), 
+    "tel" : "18651911799", 
+    "name" : "宜信普惠信息咨询（北京）有限公司", 
+    "address" : "盐城- 解放南路12号"
+}
+{ 
+    "_id" : ObjectId("59218a89ab62b42a106a79ef"), 
+    "tel" : "18729009897", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("59218a8cab62b42a106a79f0"), 
+    "tel" : "18760418423", 
+    "name" : "河南国贸投资担保有限公司", 
+    "address" : "盐城- 电话:18760418423"
+}
+{ 
+    "_id" : ObjectId("59218a8dab62b42a106a79f1"), 
+    "tel" : "15626213816", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 建设中路"
+}
+{ 
+    "_id" : ObjectId("59218a8eab62b42a106a79f2"), 
+    "tel" : "13248053978", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 汽车站旁"
+}
+{ 
+    "_id" : ObjectId("59218a90ab62b42a106a79f3"), 
+    "tel" : "18921846667", 
+    "name" : "北京恒昌惠城信息咨询有限公司盐城分公司", 
+    "address" : "盐城- 整个大盐城"
+}
+{ 
+    "_id" : ObjectId("59218a93ab62b42a106a79f4"), 
+    "tel" : "17090240405", 
+    "name" : "国贸投资担保有限公司", 
+    "address" : "盐城- 联系人:谭经理"
+}
+{ 
+    "_id" : ObjectId("59218a94ab62b42a106a79f5"), 
+    "tel" : "17097071998", 
+    "name" : "平安贷款有限公司", 
+    "address" : "盐城- 贷款咨询：刘经理"
+}
+{ 
+    "_id" : ObjectId("59218a95ab62b42a106a79f6"), 
+    "tel" : "18313973916", 
+    "name" : "安徽中安巨融融资担保股份有限公司", 
+    "address" : "盐城- 建军东路20号"
+}
+{ 
+    "_id" : ObjectId("59218a9aab62b42a106a79f7"), 
+    "tel" : "13286803885", 
+    "name" : "鄂州市永亨投资管理咨询有限公司", 
+    "address" : "盐城- 市府路123号"
+}
+{ 
+    "_id" : ObjectId("59218a9eab62b42a106a79f8"), 
+    "tel" : "13026889484", 
+    "name" : "宜信普惠信息咨询（北京）有限公司苏州分公司", 
+    "address" : "盐城- 宜信民间小额贷款有限公司"
+}
+{ 
+    "_id" : ObjectId("59218aa0ab62b42a106a79f9"), 
+    "tel" : "18758284745", 
+    "name" : "宜信普惠信息咨询（北京）有限公司苏州分公司", 
+    "address" : "盐城- 福源小额贷款"
+}
+{ 
+    "_id" : ObjectId("59218aa5ab62b42a106a79fa"), 
+    "tel" : "13149370399", 
+    "name" : "鄂州市永亨投资管理咨询有限公司", 
+    "address" : "盐城- 平安小贷公司"
+}
+{ 
+    "_id" : ObjectId("59218aa7ab62b42a106a79fb"), 
+    "tel" : "15626205344", 
+    "name" : "鄂州市永亨投资管理咨询有限公司", 
+    "address" : "盐城- 中信民间小额贷款"
+}
+{ 
+    "_id" : ObjectId("59218ac2ab62b42a106a79fc"), 
+    "tel" : "18921887766", 
+    "name" : "盐城市多永通电子贸易有限公司", 
+    "address" : "盐城- 盐马路102号"
+}
+{ 
+    "_id" : ObjectId("59218ac8ab62b42a106a79fd"), 
+    "tel" : "18683826558", 
+    "name" : "安徽中安巨融融资担保股份有限公司", 
+    "address" : "盐城- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("59218ae5ab62b42a106a79fe"), 
+    "tel" : "18961981110", 
+    "name" : "北京恒昌惠诚信息咨询有限公司盐城分公司", 
+    "address" : "盐城- 钱江财富广场B座"
+}
+{ 
+    "_id" : ObjectId("59218aecab62b42a106a79ff"), 
+    "tel" : "13237083910", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 电话:13237083910"
+}
+{ 
+    "_id" : ObjectId("59218aedab62b42a106a7a00"), 
+    "tel" : "13076036595", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 电话：13076036595"
+}
+{ 
+    "_id" : ObjectId("59218aeeab62b42a106a7a01"), 
+    "tel" : "18655505226", 
+    "name" : "中信投资担保有限公司", 
+    "address" : "盐城- 贵宾电话：18655505226"
+}
+{ 
+    "_id" : ObjectId("59218af0ab62b42a106a7a02"), 
+    "tel" : "13059706829", 
+    "name" : "平安小额贷款有限公司", 
+    "address" : "盐城- 贷款咨询：刘经理"
+}
+{ 
+    "_id" : ObjectId("59218af1ab62b42a106a7a03"), 
+    "tel" : "15600793169", 
+    "name" : "国贸投资担保有限公司", 
+    "address" : "盐城- 贷款热线:15600793169"
+}
+{ 
+    "_id" : ObjectId("59218af2ab62b42a106a7a04"), 
+    "tel" : "15678127760", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 贷款咨询;15678127760"
+}
+{ 
+    "_id" : ObjectId("59218af5ab62b42a106a7a05"), 
+    "tel" : "13059707069", 
+    "name" : "北京富安小额贷款有限公司", 
+    "address" : "盐城- 电话：13059707069"
+}
+{ 
+    "_id" : ObjectId("59218af6ab62b42a106a7a06"), 
+    "tel" : "15281056857", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 联系人:王经理"
+}
+{ 
+    "_id" : ObjectId("59218af8ab62b42a106a7a07"), 
+    "tel" : "13912504828", 
+    "name" : "盐城顺迪汽车服务有限公司", 
+    "address" : "盐城- 盐城市人民南路5号国际创投中心一楼188室"
+}
+{ 
+    "_id" : ObjectId("59218afaab62b42a106a7a08"), 
+    "tel" : "13240152659", 
+    "name" : "深圳市阿春家投资管理有限公司", 
+    "address" : "盐城- 人民路88号"
+}
+{ 
+    "_id" : ObjectId("59218b05ab62b42a106a7a09"), 
+    "tel" : "15519251978", 
+    "name" : "富安小额贷款有限公司", 
+    "address" : "盐城- 联系人：李经理"
+}
+{ 
+    "_id" : ObjectId("59218b06ab62b42a106a7a0a"), 
+    "tel" : "13268358475", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 本市中心"
+}
+{ 
+    "_id" : ObjectId("59218b07ab62b42a106a7a0b"), 
+    "tel" : "18301826298", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 本市中心"
+}
+{ 
+    "_id" : ObjectId("59218b0aab62b42a106a7a0c"), 
+    "tel" : "18321359208", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 本市中心"
+}
+{ 
+    "_id" : ObjectId("59218b13ab62b42a106a7a0d"), 
+    "tel" : "13820789325", 
+    "name" : "北京中达融通投资担保有限公司", 
+    "address" : "盐城- 新阳街道"
+}
+{ 
+    "_id" : ObjectId("59218b14ab62b42a106a7a0e"), 
+    "tel" : "18251951711", 
+    "name" : "南京市玄武区小吉投资管理咨询中心", 
+    "address" : "盐城- 亭湖路3号"
+}
+{ 
+    "_id" : ObjectId("59218b1fab62b42a106a7a0f"), 
+    "tel" : "13601659983", 
+    "name" : "兰州市西固区康顺小额贷款有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218b35ab62b42a106a7a10"), 
+    "tel" : "17751790643", 
+    "name" : "南京市玄武区小吉投资管理咨询中心", 
+    "address" : "盐城- 亭湖路3号"
+}
+{ 
+    "_id" : ObjectId("59218b38ab62b42a106a7a11"), 
+    "tel" : "17082791286", 
+    "name" : "泰州慧荣投资管理有限公司", 
+    "address" : "盐城- 盐都新区世纪大道619号西环路与世纪大道交汇处"
+}
+{ 
+    "_id" : ObjectId("59218b39ab62b42a106a7a12"), 
+    "tel" : "17082791286", 
+    "name" : "泰州慧荣投资管理有限公司", 
+    "address" : "盐城- 解放路青年路交界处东南角钱江财富广场"
+}
+{ 
+    "_id" : ObjectId("59218b3aab62b42a106a7a13"), 
+    "tel" : "15850742703", 
+    "name" : "江苏中天投资有限公司", 
+    "address" : "盐城- 海龙路毓龙东路交汇处北海龙大厦"
+}
+{ 
+    "_id" : ObjectId("59218b3cab62b42a106a7a14"), 
+    "tel" : "18520672227", 
+    "name" : "北京中金汇投资担保有限公司", 
+    "address" : "盐城- 审计局旁"
+}
+{ 
+    "_id" : ObjectId("59218b41ab62b42a106a7a15"), 
+    "tel" : "18651552151", 
+    "name" : "盐城乐天下信息咨询有限公司", 
+    "address" : "盐城- 盐城市解放路与青年路交汇处钱江财富广场B座2006"
+}
+{ 
+    "_id" : ObjectId("59218b42ab62b42a106a7a16"), 
+    "tel" : "15077865975", 
+    "name" : "江苏嘉实投资担保有限公司", 
+    "address" : "盐城- 解放南路199号阳光大厦"
+}
+{ 
+    "_id" : ObjectId("59218b44ab62b42a106a7a17"), 
+    "tel" : "18014674123", 
+    "name" : "北京恒昌惠诚信息咨询有限公司盐城分公司", 
+    "address" : "盐城- 钱江财富广场（青年路与解放路交叉口）"
+}
+{ 
+    "_id" : ObjectId("59218b48ab62b42a106a7a18"), 
+    "tel" : "400-1822160-3332", 
+    "name" : "哈尔滨盛世嘉吉融资担保有限公司", 
+    "address" : "盐城- 盐城东台市"
+}
+{ 
+    "_id" : ObjectId("59218b4eab62b42a106a7a19"), 
+    "tel" : "18888375376", 
+    "name" : "济南中财广角担保有限公司", 
+    "address" : "盐城- 公路局旁"
+}
+{ 
+    "_id" : ObjectId("59218b51ab62b42a106a7a1a"), 
+    "tel" : "17305152345", 
+    "name" : "盐城市欧陆物品调剂有限公司", 
+    "address" : "盐城- 开放大道招商场南100米"
+}
+{ 
+    "_id" : ObjectId("59218b56ab62b42a106a7a1b"), 
+    "tel" : "18252254499", 
+    "name" : "平安普惠投资咨询有限公司盐城人民南路分公司", 
+    "address" : "盐城- 金融城3幢1403、1404"
+}
+{ 
+    "_id" : ObjectId("59218b5cab62b42a106a7a1c"), 
+    "tel" : "13032113020", 
+    "name" : "北京顶凯投资管理有限公司", 
+    "address" : "盐城- 188号"
+}
+{ 
+    "_id" : ObjectId("59218b5fab62b42a106a7a1d"), 
+    "tel" : "15921796898", 
+    "name" : "天津平安易贷金融投资有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218b67ab62b42a106a7a1e"), 
+    "tel" : "18362385633", 
+    "name" : "无锡汇普汽车服务有限公司", 
+    "address" : "盐城- 中茵海华广场"
+}
+{ 
+    "_id" : ObjectId("59218b68ab62b42a106a7a1f"), 
+    "tel" : "13951420080", 
+    "name" : "无锡汇普汽车服务有限公司", 
+    "address" : "盐城- 中茵海华广场"
+}
+{ 
+    "_id" : ObjectId("59218b69ab62b42a106a7a20"), 
+    "tel" : "18251940703", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 汇丰金融大厦"
+}
+{ 
+    "_id" : ObjectId("59218b6cab62b42a106a7a21"), 
+    "tel" : "15824111847", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 太平洋金融大厦A座"
+}
+{ 
+    "_id" : ObjectId("59218b6dab62b42a106a7a22"), 
+    "tel" : "15198820807", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 太平洋金融大厦A座"
+}
+{ 
+    "_id" : ObjectId("59218b73ab62b42a106a7a23"), 
+    "tel" : "18302987517", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "盐城- 火车站附近"
+}
+{ 
+    "_id" : ObjectId("59218b97ab62b42a106a7a24"), 
+    "tel" : "18262628949", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "盐城- 火车站旁"
+}
+{ 
+    "_id" : ObjectId("59218b98ab62b42a106a7a25"), 
+    "tel" : "13971416488", 
+    "name" : "汇丰金融贷款投资公司", 
+    "address" : "盐城- 火车站旁"
+}
+{ 
+    "_id" : ObjectId("59218b99ab62b42a106a7a26"), 
+    "tel" : "18717386718", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218b9cab62b42a106a7a27"), 
+    "tel" : "13593268790", 
+    "name" : "兰州市西固区康顺小额贷款有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218ba0ab62b42a106a7a28"), 
+    "tel" : "18889771311", 
+    "name" : "南昌中财担保有限公司", 
+    "address" : "盐城- 1374"
+}
+{ 
+    "_id" : ObjectId("59218ba3ab62b42a106a7a29"), 
+    "tel" : "15358900799", 
+    "name" : "北京恒昌惠诚信息咨询有限公司盐城分公司", 
+    "address" : "盐城- 钱江财富广场"
+}
+{ 
+    "_id" : ObjectId("59218ba4ab62b42a106a7a2a"), 
+    "tel" : "17305152345", 
+    "name" : "盐城市欧陆物品调剂有限公司", 
+    "address" : "盐城- 钱江财富广场"
+}
+{ 
+    "_id" : ObjectId("59218bb1ab62b42a106a7a2b"), 
+    "tel" : "18351279625", 
+    "name" : "江苏三汇融资租赁有限公司", 
+    "address" : "盐城- 盐城市青年路"
+}
+{ 
+    "_id" : ObjectId("59218bc6ab62b42a106a7a2c"), 
+    "tel" : "18217508178", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218bc8ab62b42a106a7a2d"), 
+    "tel" : "13115010030", 
+    "name" : "上海市融联信贷投资有限公司", 
+    "address" : "盐城- 市政府后院811号"
+}
+{ 
+    "_id" : ObjectId("59218bc9ab62b42a106a7a2e"), 
+    "tel" : "17098678788", 
+    "name" : "北京市易贷金融投资管理有限公司", 
+    "address" : "盐城- 市政府后院966号"
+}
+{ 
+    "_id" : ObjectId("59218bcaab62b42a106a7a2f"), 
+    "tel" : "17082767679", 
+    "name" : "上海市利源小额贷款股份有限公司", 
+    "address" : "盐城- 市政府后院811号"
+}
+{ 
+    "_id" : ObjectId("59218bcaab62b42a106a7a30"), 
+    "tel" : "13115012230", 
+    "name" : "上海市鼎盛信贷投资有限公司", 
+    "address" : "盐城- 市财政局后院301号"
+}
+{ 
+    "_id" : ObjectId("59218bceab62b42a106a7a31"), 
+    "tel" : "18620867049", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("59218bcfab62b42a106a7a32"), 
+    "tel" : "13128289661", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("59218bd3ab62b42a106a7a33"), 
+    "tel" : "18681515536", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("59218be2ab62b42a106a7a34"), 
+    "tel" : "13211742583", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 国税局旁"
+}
+{ 
+    "_id" : ObjectId("59218be3ab62b42a106a7a35"), 
+    "tel" : "18729022546", 
+    "name" : "太平洋信贷金融投资有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218be6ab62b42a106a7a36"), 
+    "tel" : "13260833153", 
+    "name" : "中兴华夏投资担保有限公司", 
+    "address" : "盐城- 解放南路199号阳光大厦"
+}
+{ 
+    "_id" : ObjectId("59218bebab62b42a106a7a37"), 
+    "tel" : "13119378736", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 地税局附近"
+}
+{ 
+    "_id" : ObjectId("59218bedab62b42a106a7a38"), 
+    "tel" : "13012851970", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 地税局附近"
+}
+{ 
+    "_id" : ObjectId("59218beeab62b42a106a7a39"), 
+    "tel" : "13128751625", 
+    "name" : "成都彭州同汇小额贷款有限公司", 
+    "address" : "盐城- 地税局附近"
+}
+{ 
+    "_id" : ObjectId("59218bf7ab62b42a106a7a3a"), 
+    "tel" : "13262794300", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 亭湖周边"
+}
+{ 
+    "_id" : ObjectId("59218bfeab62b42a106a7a3b"), 
+    "tel" : "13162531787", 
+    "name" : "天津平安易贷金融投资有限公司", 
+    "address" : "盐城- 财政局旁"
+}
+{ 
+    "_id" : ObjectId("59218c02ab62b42a106a7a3c"), 
+    "tel" : "15911006712", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 市税务局旁边"
+}
+{ 
+    "_id" : ObjectId("59218c05ab62b42a106a7a3d"), 
+    "tel" : "15910558772", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 市税务局旁"
+}
+{ 
+    "_id" : ObjectId("59218c06ab62b42a106a7a3e"), 
+    "tel" : "18320088199", 
+    "name" : "兰州市西固区康顺小额贷款有限公司", 
+    "address" : "盐城- 财政局对面"
+}
+{ 
+    "_id" : ObjectId("59218c07ab62b42a106a7a3f"), 
+    "tel" : "15766089738", 
+    "name" : "兰州市西固区康顺小额贷款有限公司", 
+    "address" : "盐城- 财政局对面"
+}
+{ 
+    "_id" : ObjectId("59218c08ab62b42a106a7a40"), 
+    "tel" : "18320087868", 
+    "name" : "兰州市西固区康顺小额贷款有限公司", 
+    "address" : "盐城- 财政局旁"
+}
+{ 
+    "_id" : ObjectId("59218c35ab62b42a106a7a41"), 
+    "tel" : "18457050527", 
+    "name" : "安徽中安巨融融资担保股份有限公司", 
+    "address" : "盐城- 电话：18457050527"
+}
+{ 
+    "_id" : ObjectId("59218c37ab62b42a106a7a42"), 
+    "tel" : "15298580659", 
+    "name" : "江苏崛起投资管理有限公司", 
+    "address" : "盐城- 阳光大厦"
+}
+{ 
+    "_id" : ObjectId("59218c3cab62b42a106a7a43"), 
+    "tel" : "15298580659", 
+    "name" : "江苏崛起投资管理有限公司", 
+    "address" : "盐城- 阳光大厦"
+}
+{ 
+    "_id" : ObjectId("59218c3fab62b42a106a7a44"), 
+    "tel" : "18210657818", 
+    "name" : "淅川县农汇食品销售有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218c42ab62b42a106a7a45"), 
+    "tel" : "15252495702", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("59218c43ab62b42a106a7a46"), 
+    "tel" : "15000923910", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("59218c44ab62b42a106a7a47"), 
+    "tel" : "15026827368", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("59218c46ab62b42a106a7a48"), 
+    "tel" : "15026826758", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("59218c47ab62b42a106a7a49"), 
+    "tel" : "13815409205", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("59218c48ab62b42a106a7a4a"), 
+    "tel" : "13661629367", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("59218c49ab62b42a106a7a4b"), 
+    "tel" : "18221815290", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("59218c50ab62b42a106a7a4c"), 
+    "tel" : "15626490703", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 市---内"
+}
+{ 
+    "_id" : ObjectId("59218c54ab62b42a106a7a4d"), 
+    "tel" : "13138691721", 
+    "name" : "汇丰金融投资投资公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218c5cab62b42a106a7a4e"), 
+    "tel" : "13247640561", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 地税局旁"
+}
+{ 
+    "_id" : ObjectId("59218c69ab62b42a106a7a4f"), 
+    "tel" : "13626217373", 
+    "name" : "北京恒昌惠诚信息咨询有限公司盐城分公司", 
+    "address" : "盐城- 戴庄路景盛豪庭"
+}
+{ 
+    "_id" : ObjectId("59218c6aab62b42a106a7a50"), 
+    "tel" : "13626217373", 
+    "name" : "北京恒昌惠诚信息咨询有限公司盐城分公司", 
+    "address" : "盐城- 戴庄路锦盛豪庭"
+}
+{ 
+    "_id" : ObjectId("59218c70ab62b42a106a7a51"), 
+    "tel" : "13706509490", 
+    "name" : "宁波春天树网络科技有限公司", 
+    "address" : "盐城- 杭州总部及全国各分公司"
+}
+{ 
+    "_id" : ObjectId("59218c84ab62b42a106a7a52"), 
+    "tel" : "15222820881", 
+    "name" : "太平洋信贷金融投资有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218c85ab62b42a106a7a53"), 
+    "tel" : "15928628292", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218c86ab62b42a106a7a54"), 
+    "tel" : "15811589694", 
+    "name" : "淅川县农汇食品销售有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218c87ab62b42a106a7a55"), 
+    "tel" : "17180891393", 
+    "name" : "上海中财融资担保有限公司", 
+    "address" : "盐城- 火车站旁"
+}
+{ 
+    "_id" : ObjectId("59218c8fab62b42a106a7a56"), 
+    "tel" : "15009293187", 
+    "name" : "兰州市西固区康顺小额贷款有限公司", 
+    "address" : "盐城- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("59218c92ab62b42a106a7a57"), 
+    "tel" : "13585837718", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218c93ab62b42a106a7a58"), 
+    "tel" : "15208292357", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "盐城- 汇丰金融大夏A座"
+}
+{ 
+    "_id" : ObjectId("59218c97ab62b42a106a7a59"), 
+    "tel" : "18264157805", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218c9eab62b42a106a7a5a"), 
+    "tel" : "13189724832", 
+    "name" : "安徽中安巨融融资担保股份有限公司", 
+    "address" : "盐城- 合德镇振阳街18号"
+}
+{ 
+    "_id" : ObjectId("59218ca1ab62b42a106a7a5b"), 
+    "tel" : "18721728958", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "盐城- 市人民医院附近"
+}
+{ 
+    "_id" : ObjectId("59218ca3ab62b42a106a7a5c"), 
+    "tel" : "15128106758", 
+    "name" : "太平洋信贷金融投资有限公司", 
+    "address" : "盐城- 市中医院斜对面"
+}
+{ 
+    "_id" : ObjectId("59218ca4ab62b42a106a7a5d"), 
+    "tel" : "18264160299", 
+    "name" : "汇丰金融贷款投资公司", 
+    "address" : "盐城- 市财政局"
+}
+{ 
+    "_id" : ObjectId("59218cb3ab62b42a106a7a5e"), 
+    "tel" : "18214599386", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218cbeab62b42a106a7a5f"), 
+    "tel" : "13250765962", 
+    "name" : "武汉宝丰泰投资咨询有限公司", 
+    "address" : "盐城- 地税局附近"
+}
+{ 
+    "_id" : ObjectId("59218cc1ab62b42a106a7a60"), 
+    "tel" : "13113021285", 
+    "name" : "武汉隆昌泰投资咨询有限公司", 
+    "address" : "盐城- 地税局附近"
+}
+{ 
+    "_id" : ObjectId("59218cc2ab62b42a106a7a61"), 
+    "tel" : "15921182718", 
+    "name" : "远大小额投资担保公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218cc4ab62b42a106a7a62"), 
+    "tel" : "18366168327", 
+    "name" : "河南金铂投资担保有限公司", 
+    "address" : "盐城- 望海东路十四号"
+}
+{ 
+    "_id" : ObjectId("59218ce1ab62b42a106a7a63"), 
+    "tel" : "13266374758", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("59218ce2ab62b42a106a7a64"), 
+    "tel" : "15625090052", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 建设中路"
+}
+{ 
+    "_id" : ObjectId("59218ce6ab62b42a106a7a65"), 
+    "tel" : "13244712295", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("59218ceaab62b42a106a7a66"), 
+    "tel" : "18792485430", 
+    "name" : "安徽中安巨融融资担保股份有限公司", 
+    "address" : "盐城- 解放南路249-4号"
+}
+{ 
+    "_id" : ObjectId("59218ceeab62b42a106a7a67"), 
+    "tel" : "18717866028", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 金鼎大楼B座"
+}
+{ 
+    "_id" : ObjectId("59218cf1ab62b42a106a7a68"), 
+    "tel" : "13764101638", 
+    "name" : "汇丰金融贷款投资公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218d0bab62b42a106a7a69"), 
+    "tel" : "15914323112", 
+    "name" : "太平洋信贷金融投资有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218d0dab62b42a106a7a6a"), 
+    "tel" : "13162636628", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "盐城- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("59218d10ab62b42a106a7a6b"), 
+    "tel" : "15919466378", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("59218d12ab62b42a106a7a6c"), 
+    "tel" : "13143434729", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218d15ab62b42a106a7a6d"), 
+    "tel" : "13106885829", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("59218d18ab62b42a106a7a6e"), 
+    "tel" : "15625534158", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("59218d18ab62b42a106a7a6f"), 
+    "tel" : "15269178085", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218d1cab62b42a106a7a70"), 
+    "tel" : "13934213367", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218d38ab62b42a106a7a71"), 
+    "tel" : "13065177996", 
+    "name" : "遵义市兴源投资担保有限公司", 
+    "address" : "盐城- 盐城--亭湖"
+}
+{ 
+    "_id" : ObjectId("59218d38ab62b42a106a7a72"), 
+    "tel" : "15521061965", 
+    "name" : "福建中财担保有限公司", 
+    "address" : "盐城- 盐城--亭湖"
+}
+{ 
+    "_id" : ObjectId("59218d3aab62b42a106a7a73"), 
+    "tel" : "13088677681", 
+    "name" : "上海中财融资担保有限公司", 
+    "address" : "盐城- 盐城--亭湖"
+}
+{ 
+    "_id" : ObjectId("59218d3bab62b42a106a7a74"), 
+    "tel" : "13930198116", 
+    "name" : "天津中财小额贷款公司", 
+    "address" : "盐城- 电话：13930198116"
+}
+{ 
+    "_id" : ObjectId("59218d3cab62b42a106a7a75"), 
+    "tel" : "18457050731", 
+    "name" : "河南国贸投资担保有限公司", 
+    "address" : "盐城- 电话：18457050731"
+}
+{ 
+    "_id" : ObjectId("59218d3dab62b42a106a7a76"), 
+    "tel" : "13249432079", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "盐城- 盐城市亭湖区人民中路188号飞驰国际25层"
+}
+{ 
+    "_id" : ObjectId("59218d41ab62b42a106a7a77"), 
+    "tel" : "15911009250", 
+    "name" : "淅川县农汇食品销售有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218d60ab62b42a106a7a78"), 
+    "tel" : "13547924853", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 金鼎大楼B座"
+}
+{ 
+    "_id" : ObjectId("59218d61ab62b42a106a7a79"), 
+    "tel" : "15026825518", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 金鼎大楼B座"
+}
+{ 
+    "_id" : ObjectId("59218d63ab62b42a106a7a7a"), 
+    "tel" : "13718207124", 
+    "name" : "淅川县农汇食品销售有限公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218d65ab62b42a106a7a7b"), 
+    "tel" : "18664801387", 
+    "name" : "汇丰金融贷款投资公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218d66ab62b42a106a7a7c"), 
+    "tel" : "13583106036", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218d68ab62b42a106a7a7d"), 
+    "tel" : "15027718072", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218d6aab62b42a106a7a7e"), 
+    "tel" : "18423011631", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "盐城- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("59218d7fab62b42a106a7a7f"), 
+    "tel" : "18423011631", 
+    "name" : "江苏易通创业投资有限公司", 
+    "address" : "盐城- 华邦国际"
+}
+{ 
+    "_id" : ObjectId("59218d81ab62b42a106a7a80"), 
+    "tel" : "18423011631", 
+    "name" : "上海美祁企业管理有限公司盐城第一分公司", 
+    "address" : "盐城- 盐马路 剑桥公寓23 303"
+}
+{ 
+    "_id" : ObjectId("59218d82ab62b42a106a7a81"), 
+    "tel" : "18423011631", 
+    "name" : "中腾信金融信息服务（上海）有限公司", 
+    "address" : "盐城- 解放路中建大厦5楼"
+}

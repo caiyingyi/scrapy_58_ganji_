@@ -1,0 +1,486 @@
+{ 
+    "_id" : ObjectId("591cf8c0ab62b437b8eb0676"), 
+    "tel" : " 13616908036 ", 
+    "name" : "龙岩市晨兴投资管理有限公司", 
+    "address" : "龙岩新罗西陂街道"
+}
+{ 
+    "_id" : ObjectId("591cf8c1ab62b437b8eb0677"), 
+    "tel" : " 13679084771 ", 
+    "name" : "智信投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf8c3ab62b437b8eb0678"), 
+    "tel" : " 18072263023 ", 
+    "name" : "北京捷越联合信息咨询有限公司绍兴第一分公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf8c6ab62b437b8eb067a"), 
+    "tel" : " 13989833528 ", 
+    "name" : "宏冠投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf8c7ab62b437b8eb067b"), 
+    "tel" : " 13287034912 ", 
+    "name" : "安美途金融信息服务有限公司", 
+    "address" : "市政府旁边100米"
+}
+{ 
+    "_id" : ObjectId("591cf8c8ab62b437b8eb067c"), 
+    "tel" : " 18658531295 ", 
+    "name" : "南宁比得利投资咨询有限公司", 
+    "address" : "绍兴柯桥蓝天广场"
+}
+{ 
+    "_id" : ObjectId("591cf8cbab62b437b8eb067d"), 
+    "tel" : " 13586511422 ", 
+    "name" : "广州市锦拓壹物服饰有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf8ccab62b437b8eb067e"), 
+    "tel" : " 18258418090 ", 
+    "name" : "丹阳市艾妮宝贝服饰有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf8ceab62b437b8eb067f"), 
+    "tel" : " 18322822366 ", 
+    "name" : "杭州高电科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf8cfab62b437b8eb0680"), 
+    "tel" : " 13138951608 ", 
+    "name" : "深圳市随园投资有限公司", 
+    "address" : "随园投资有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf8d0ab62b437b8eb0681"), 
+    "tel" : " 18368206929 ", 
+    "name" : "企航环亚国际投资管理（北京）有限公司", 
+    "address" : "亮亮区亮亮村997号"
+}
+{ 
+    "_id" : ObjectId("591cf8d1ab62b437b8eb0682"), 
+    "tel" : " 18680543828 ", 
+    "name" : "淄博中赢投资有限公司", 
+    "address" : "局彩区文局彩村311号"
+}
+{ 
+    "_id" : ObjectId("591cf8d3ab62b437b8eb0683"), 
+    "tel" : " 13655756223 ", 
+    "name" : "万维金融旗下新升贷", 
+    "address" : "绍兴诸暨市陶朱街道艮塔西路100号新升贷"
+}
+{ 
+    "_id" : ObjectId("591cf8d4ab62b437b8eb0684"), 
+    "tel" : " 13185900225 ", 
+    "name" : "日融财富投资管理", 
+    "address" : "日融财富投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf8d5ab62b437b8eb0685"), 
+    "tel" : " 15924319710 ", 
+    "name" : "深圳市真龙源科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf8d6ab62b437b8eb0686"), 
+    "tel" : " 13557316771 ", 
+    "name" : "译汇投资管理", 
+    "address" : "译汇投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf8d7ab62b437b8eb0687"), 
+    "tel" : " 15658122323 ", 
+    "name" : "杭州荣浩投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf8d9ab62b437b8eb0688"), 
+    "tel" : " 13218001951 ", 
+    "name" : "阜阳市福利元投资咨询有限公司", 
+    "address" : "福利元投资咨询有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf8daab62b437b8eb0689"), 
+    "tel" : " 13001447993 ", 
+    "name" : "深圳赛腾投资有限公司", 
+    "address" : "赛腾投资发展有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf8dbab62b437b8eb068a"), 
+    "tel" : " 15687838519 ", 
+    "name" : "云南明诚投资管理有限公司", 
+    "address" : "明诚投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf8dcab62b437b8eb068b"), 
+    "tel" : " 15562038603 ", 
+    "name" : "弈信邦投资管理", 
+    "address" : "弈信邦投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf8dfab62b437b8eb068c"), 
+    "tel" : " 13989833528 ", 
+    "name" : "纳融信贷", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf8e2ab62b437b8eb068e"), 
+    "tel" : " 13655756223 ", 
+    "name" : "深圳市体感科技有限公司", 
+    "address" : "时代金典大厦"
+}
+{ 
+    "_id" : ObjectId("591cf8e4ab62b437b8eb068f"), 
+    "tel" : " 13114351778 ", 
+    "name" : "深圳市德班投资公司", 
+    "address" : "德班投资发展有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf8e5ab62b437b8eb0690"), 
+    "tel" : " 13218027313 ", 
+    "name" : "瑞通投资管理咨询有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf8e7ab62b437b8eb0691"), 
+    "tel" : " 15267590682 ", 
+    "name" : "吾尔会计", 
+    "address" : "诸暨市西施大街72号"
+}
+{ 
+    "_id" : ObjectId("591cf8ecab62b437b8eb0692"), 
+    "tel" : " 15221750857 ", 
+    "name" : "汇盈丰小额贷款", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf8eeab62b437b8eb0693"), 
+    "tel" : " 13989833528 ", 
+    "name" : "杭州方捷投资管理有限公司", 
+    "address" : "浙江省杭州市西湖区圣苑北街41号"
+}
+{ 
+    "_id" : ObjectId("591cf8f1ab62b437b8eb0694"), 
+    "tel" : " 18613167087 ", 
+    "name" : "阜阳市福利元投资咨询有限公司", 
+    "address" : "福利元投资咨询有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf8f2ab62b437b8eb0695"), 
+    "tel" : " 15990572065 ", 
+    "name" : "乐投投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf8f3ab62b437b8eb0696"), 
+    "tel" : " 13735426130 ", 
+    "name" : "捷创投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf8f5ab62b437b8eb0697"), 
+    "tel" : " 15034012088 ", 
+    "name" : "东莞市宇曦实业投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf8f6ab62b437b8eb0698"), 
+    "tel" : " 15058465765 ", 
+    "name" : "西安启功电气有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf8f7ab62b437b8eb0699"), 
+    "tel" : " 13073505112 ", 
+    "name" : "深圳潢河投资发展有限公司", 
+    "address" : "潢河投资发展有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf8f9ab62b437b8eb069a"), 
+    "tel" : " 18695269431 ", 
+    "name" : "（上海）投资咨询有限公司", 
+    "address" : "市政府旁边188号"
+}
+{ 
+    "_id" : ObjectId("591cf8faab62b437b8eb069b"), 
+    "tel" : " 13026107632 ", 
+    "name" : "深圳世俊投资发展公司", 
+    "address" : "世俊投资发展有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf8fbab62b437b8eb069c"), 
+    "tel" : " 13162777797 ", 
+    "name" : "上海芷橙实业有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf8fcab62b437b8eb069d"), 
+    "tel" : " 18613171626 ", 
+    "name" : "四联投资管理", 
+    "address" : "四联投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf8feab62b437b8eb069e"), 
+    "tel" : " 13051190500 ", 
+    "name" : "德信永泰投资管理", 
+    "address" : "德信永泰投资管理"
+}
+{ 
+    "_id" : ObjectId("591cf900ab62b437b8eb069f"), 
+    "tel" : " 15260347877 ", 
+    "name" : "四联投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf901ab62b437b8eb06a0"), 
+    "tel" : " 18221924527 ", 
+    "name" : "四联投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf90cab62b437b8eb06a1"), 
+    "tel" : " 13738367879 ", 
+    "name" : "吾尔1818投资", 
+    "address" : "绍兴市诸暨市西施大街72号8楼"
+}
+{ 
+    "_id" : ObjectId("591cf90eab62b437b8eb06a2"), 
+    "tel" : " 18268769388 ", 
+    "name" : "上海缘金投资管理有限公司绍兴分公司", 
+    "address" : "绍兴人民医院东大门对面"
+}
+{ 
+    "_id" : ObjectId("591cf910ab62b437b8eb06a3"), 
+    "tel" : " 13858086460 ", 
+    "name" : "杭州臻诚互联网金融服务有限公司", 
+    "address" : "浙江省杭州市西湖区教工路欧美中心D区701"
+}
+{ 
+    "_id" : ObjectId("591cf91cab62b437b8eb06a4"), 
+    "tel" : " 13201212852 ", 
+    "name" : "湖北程力置业投资有限公司", 
+    "address" : "程力置业投资有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf91fab62b437b8eb06a5"), 
+    "tel" : " 17098186431 ", 
+    "name" : "浙江欧荣照明科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf920ab62b437b8eb06a6"), 
+    "tel" : " 17081447873 ", 
+    "name" : "深圳市夏越春天投资发展有限公司", 
+    "address" : "夏越春天投资担保有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf922ab62b437b8eb06a7"), 
+    "tel" : " 13611961098 ", 
+    "name" : "四联投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf924ab62b437b8eb06a8"), 
+    "tel" : " 13067705060 ", 
+    "name" : "有限责任公司分公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf925ab62b437b8eb06a9"), 
+    "tel" : " 18258151537 ", 
+    "name" : "汇豪投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf926ab62b437b8eb06aa"), 
+    "tel" : " 15215980029 ", 
+    "name" : "大诚地产", 
+    "address" : "长沙经济开发区星沙四区7栋5号"
+}
+{ 
+    "_id" : ObjectId("591cf927ab62b437b8eb06ab"), 
+    "tel" : " 15824193947 ", 
+    "name" : "振华投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf928ab62b437b8eb06ac"), 
+    "tel" : " 18321202208 ", 
+    "name" : "苏州裕久鼎投资管理有限公司", 
+    "address" : "苏州裕久鼎投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf92aab62b437b8eb06ad"), 
+    "tel" : " 13127548988 ", 
+    "name" : "哈尔滨欧达科技发展有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf92bab62b437b8eb06ae"), 
+    "tel" : " 17079380060 ", 
+    "name" : "天津荣顺辉交通设施科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf92cab62b437b8eb06af"), 
+    "tel" : " 18204901229 ", 
+    "name" : "弈信邦投资管理", 
+    "address" : "弈信邦投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf92dab62b437b8eb06b0"), 
+    "tel" : " 13092276766 ", 
+    "name" : "东莞市屹琳实业投资有限公司", 
+    "address" : "屹琳实业投资有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf92eab62b437b8eb06b1"), 
+    "tel" : " 18896591806 ", 
+    "name" : "广州雅趣工业设计有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf92fab62b437b8eb06b2"), 
+    "tel" : " 18269185332 ", 
+    "name" : "泰浩投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf930ab62b437b8eb06b3"), 
+    "tel" : " 18324410280 ", 
+    "name" : "广州市爱唯伊投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf931ab62b437b8eb06b4"), 
+    "tel" : " 13249345540 ", 
+    "name" : "浙江竹亿投资咨询有限公司", 
+    "address" : "竹亿投资咨询有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf933ab62b437b8eb06b5"), 
+    "tel" : " 13121334946 ", 
+    "name" : "兴源投资担保", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf934ab62b437b8eb06b6"), 
+    "tel" : " 13162625751 ", 
+    "name" : "浙江竹亿投资咨询有限公司", 
+    "address" : "竹亿投资咨询有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf936ab62b437b8eb06b7"), 
+    "tel" : " 13185900217 ", 
+    "name" : "甬平投资管理有限公司", 
+    "address" : "甬平投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf937ab62b437b8eb06b8"), 
+    "tel" : " 18520750363 ", 
+    "name" : "深圳市夏越春天投资发展有限公司", 
+    "address" : "夏越春天投资发展有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf938ab62b437b8eb06b9"), 
+    "tel" : " 13752791539 ", 
+    "name" : "泰浩投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf947ab62b437b8eb06ba"), 
+    "tel" : " 13020295995 ", 
+    "name" : "合众芸创财富投资管理", 
+    "address" : "合众芸创财富投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf948ab62b437b8eb06bb"), 
+    "tel" : " 18865923537 ", 
+    "name" : "深圳市赛腾投资发展有限公司", 
+    "address" : "市赛腾投资发展有限公司"
+}
+{ 
+    "_id" : ObjectId("591cf94bab62b437b8eb06bc"), 
+    "tel" : " 13522978144 ", 
+    "name" : "冠诚财富北京投资管理有限公司", 
+    "address" : "全国无抵押个人企业贷款"
+}
+{ 
+    "_id" : ObjectId("591cf94cab62b437b8eb06bd"), 
+    "tel" : " 18311597446 ", 
+    "name" : "悦阔投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf94eab62b437b8eb06be"), 
+    "tel" : " 18764048578 ", 
+    "name" : "常州博泰铝制品有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf950ab62b437b8eb06c0"), 
+    "tel" : " 15726712853 ", 
+    "name" : "禅城集成小额贷款", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf951ab62b437b8eb06c1"), 
+    "tel" : " 17070929921 ", 
+    "name" : "金正泰贷款公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf952ab62b437b8eb06c2"), 
+    "tel" : " 15557172617 ", 
+    "name" : "湖北金马财富投资管理有限公司", 
+    "address" : "剿辗区剿辗路269号"
+}
+{ 
+    "_id" : ObjectId("591cf954ab62b437b8eb06c3"), 
+    "tel" : " 17098138728 ", 
+    "name" : "北京中天财智融资担保有限公司", 
+    "address" : "庞肇区庞肇路666号"
+}
+{ 
+    "_id" : ObjectId("591cf95aab62b437b8eb06c4"), 
+    "tel" : " 14747722669 ", 
+    "name" : "迪彩投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf95cab62b437b8eb06c5"), 
+    "tel" : " 18221205298 ", 
+    "name" : "四联担保投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf95eab62b437b8eb06c6"), 
+    "tel" : " 15801597623 ", 
+    "name" : "南京美华投资咨询有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf95fab62b437b8eb06c7"), 
+    "tel" : " 13938275478 ", 
+    "name" : "富元投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cf961ab62b437b8eb06c8"), 
+    "tel" : " 15058468677 ", 
+    "name" : "广州勉捷贸易有限公司", 
+    "address" : "墓捣区讶以评路944号"
+}
+{ 
+    "_id" : ObjectId("591cf962ab62b437b8eb06c9"), 
+    "tel" : " 15221001718 ", 
+    "name" : "四联投资有限公司", 
+    "address" : "电话："
+}

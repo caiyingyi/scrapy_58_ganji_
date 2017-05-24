@@ -1,0 +1,4182 @@
+{ 
+    "_id" : ObjectId("591ce2ccab62b437bc116c81"), 
+    "tel" : " 13915138302 ", 
+    "name" : "金溢经济信息咨询服务", 
+    "address" : "服务全城及周边地区"
+}
+{ 
+    "_id" : ObjectId("591ce2cdab62b437bc116c82"), 
+    "tel" : " 13688009677 ", 
+    "name" : "金融服务", 
+    "address" : "成都锦江区浆洗街24号"
+}
+{ 
+    "_id" : ObjectId("591ce2ceab62b437bc116c83"), 
+    "tel" : " 15195823956 ", 
+    "name" : "南京宏创投资管理有限公司", 
+    "address" : "鼓楼区新晨国际大厦"
+}
+{ 
+    "_id" : ObjectId("591ce2d1ab62b437bc116c85"), 
+    "tel" : " 17368015550 ", 
+    "name" : "南京定乾有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce2d5ab62b437bc116c88"), 
+    "tel" : " 18252227891 ", 
+    "name" : "皇家投资理财", 
+    "address" : "盐城市亭湖区亭湖"
+}
+{ 
+    "_id" : ObjectId("591ce2d6ab62b437bc116c89"), 
+    "tel" : " 17721537773 ", 
+    "name" : "南京财源投资咨询有限公司", 
+    "address" : "全国各个区域均有公司"
+}
+{ 
+    "_id" : ObjectId("591ce2dbab62b437bc116c8d"), 
+    "tel" : " 18795469120 ", 
+    "name" : "南京鑫晖盈贸易有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce2dcab62b437bc116c8e"), 
+    "tel" : " 13752791539 ", 
+    "name" : "泰浩投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce2ddab62b437bc116c8f"), 
+    "tel" : " 13559102886 ", 
+    "name" : "美姿城美容养生皇家会所", 
+    "address" : "五四路新华都20楼1311"
+}
+{ 
+    "_id" : ObjectId("591ce2deab62b437bc116c90"), 
+    "tel" : " 13634811175 ", 
+    "name" : "南京市栖霞区徐家万装饰材料经营部", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce2e1ab62b437bc116c92"), 
+    "tel" : " 15251803063 ", 
+    "name" : "南京佳友投资有限公司", 
+    "address" : "建邺兴隆大街地铁站"
+}
+{ 
+    "_id" : ObjectId("591ce2e2ab62b437bc116c93"), 
+    "tel" : " 18667416271 ", 
+    "name" : "杭州锐拓科技有限公司宁波北仑分公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce2e5ab62b437bc116c95"), 
+    "tel" : " 13851743547 ", 
+    "name" : "南京荣耀投资管理有限公司", 
+    "address" : "盈嘉大厦502室"
+}
+{ 
+    "_id" : ObjectId("591ce2e7ab62b437bc116c97"), 
+    "tel" : " 15261810602 ", 
+    "name" : "源开投资管理有限公司", 
+    "address" : "江苏省南京市秦淮区中山南路三山街地铁口盈嘉大厦"
+}
+{ 
+    "_id" : ObjectId("591ce2edab62b437bc116c9c"), 
+    "tel" : " 13107429210 ", 
+    "name" : "嘉禾贷款有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce2efab62b437bc116c9d"), 
+    "tel" : " 13203209271 ", 
+    "name" : "翔羽劳务", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce2f1ab62b437bc116c9e"), 
+    "tel" : " 15850754736 ", 
+    "name" : "南京泽登机电设备有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce2f2ab62b437bc116c9f"), 
+    "tel" : " 18764048578 ", 
+    "name" : "常州博泰铝制品有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce2f4ab62b437bc116ca0"), 
+    "tel" : " 15161480726 ", 
+    "name" : "永利装饰", 
+    "address" : "天润城十街区18栋109室"
+}
+{ 
+    "_id" : ObjectId("591ce2f7ab62b437bc116ca1"), 
+    "tel" : " 15251896362 ", 
+    "name" : "南京市栖霞区徐家万装饰材料经营部", 
+    "address" : "锦华大厦2301室"
+}
+{ 
+    "_id" : ObjectId("591ce2faab62b437bc116ca3"), 
+    "tel" : " 13655167153 ", 
+    "name" : "昆山美天富科机电", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce2fbab62b437bc116ca4"), 
+    "tel" : " 18552781695 ", 
+    "name" : "深圳市德冠嘉投资管理有限公司", 
+    "address" : "本提供优质的服务47号5楼"
+}
+{ 
+    "_id" : ObjectId("591ce2ffab62b437bc116ca7"), 
+    "tel" : " 15210099361 ", 
+    "name" : "汇投财志投资管理（北京）有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce300ab62b437bc116ca8"), 
+    "tel" : " 13813966896 ", 
+    "name" : "南京尊悦置业顾问有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce302ab62b437bc116ca9"), 
+    "tel" : " 18782910093 ", 
+    "name" : "电子招聘有限公司", 
+    "address" : "拿赵区拿赵村669号"
+}
+{ 
+    "_id" : ObjectId("591ce304ab62b437bc116caa"), 
+    "tel" : " 13218027313 ", 
+    "name" : "瑞通投资管理咨询有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce307ab62b437bc116cac"), 
+    "tel" : " 15605169600 ", 
+    "name" : "中利保投资管理有限公司", 
+    "address" : "香格里拉大酒店"
+}
+{ 
+    "_id" : ObjectId("591ce309ab62b437bc116cad"), 
+    "tel" : " 18030118155 ", 
+    "name" : "厦门怡事兴投资咨询有限公司", 
+    "address" : "厦门市湖里区SM城市广场"
+}
+{ 
+    "_id" : ObjectId("591ce309ab62b437bc116cae"), 
+    "tel" : " 13218060511 ", 
+    "name" : "武汉钱贷子金融信息服务有限公司", 
+    "address" : "徽蹲区恍莆懒路034号"
+}
+{ 
+    "_id" : ObjectId("591ce30eab62b437bc116cb1"), 
+    "tel" : " 15687838519 ", 
+    "name" : "云南明诚投资管理有限公司", 
+    "address" : "明诚投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce310ab62b437bc116cb2"), 
+    "tel" : " 13160061070 ", 
+    "name" : "哈尔滨东西科技开发有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce311ab62b437bc116cb3"), 
+    "tel" : " 13160063951 ", 
+    "name" : "上海为顾投资管理有限公司", 
+    "address" : "妥方区劝捶辰路365号"
+}
+{ 
+    "_id" : ObjectId("591ce313ab62b437bc116cb5"), 
+    "tel" : " 15651963266 ", 
+    "name" : "广州淑莎服饰有限公司", 
+    "address" : "咏猎区谧拿星路514号"
+}
+{ 
+    "_id" : ObjectId("591ce316ab62b437bc116cb7"), 
+    "tel" : " 13093453051 ", 
+    "name" : "杭州燈融投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce317ab62b437bc116cb8"), 
+    "tel" : " 15850757944 ", 
+    "name" : "南京乔南投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce318ab62b437bc116cb9"), 
+    "tel" : " 13001447993 ", 
+    "name" : "深圳赛腾投资有限公司", 
+    "address" : "赛腾投资发展有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce31aab62b437bc116cba"), 
+    "tel" : " 13572829207 ", 
+    "name" : "华融泰达投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce31dab62b437bc116cbc"), 
+    "tel" : " 13270805131 ", 
+    "name" : "南京聚荣投资管理咨询有限公司", 
+    "address" : "电话预约公司让利"
+}
+{ 
+    "_id" : ObjectId("591ce31eab62b437bc116cbd"), 
+    "tel" : " 13240919038 ", 
+    "name" : "东营办证", 
+    "address" : "哈尔滨道里区89"
+}
+{ 
+    "_id" : ObjectId("591ce31fab62b437bc116cbe"), 
+    "tel" : " 15161730030 ", 
+    "name" : "陈之宝汽车租赁有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce320ab62b437bc116cbf"), 
+    "tel" : " 18321895118 ", 
+    "name" : "融资担保有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce324ab62b437bc116cc2"), 
+    "tel" : " 15605169600 ", 
+    "name" : "南京铭昊投资管理有限公司", 
+    "address" : "江苏南京周边地区"
+}
+{ 
+    "_id" : ObjectId("591ce326ab62b437bc116cc4"), 
+    "tel" : " 15261370126 ", 
+    "name" : "新华淮安支公司", 
+    "address" : "新浦区国贸大厦1801世纪园大酒店旁"
+}
+{ 
+    "_id" : ObjectId("591ce32cab62b437bc116cc8"), 
+    "tel" : " 15195979383 ", 
+    "name" : "新佳联投资管理有限公司", 
+    "address" : "电话预约让利5个点"
+}
+{ 
+    "_id" : ObjectId("591ce32eab62b437bc116cc9"), 
+    "tel" : " 18305151677 ", 
+    "name" : "众隆在线投资管理有限公司", 
+    "address" : "镇江京口中山东路98号"
+}
+{ 
+    "_id" : ObjectId("591ce331ab62b437bc116ccc"), 
+    "tel" : " 15685600297 ", 
+    "name" : "恒德利投资咨询", 
+    "address" : "恒德利投资咨询有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce334ab62b437bc116cce"), 
+    "tel" : " 13914713935 ", 
+    "name" : "勇忆投资管理有限公司", 
+    "address" : "江苏省南京市建邺区福园路127号"
+}
+{ 
+    "_id" : ObjectId("591ce335ab62b437bc116ccf"), 
+    "tel" : " 18357114542 ", 
+    "name" : "辉耀投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce338ab62b437bc116cd1"), 
+    "tel" : " 13072555371 ", 
+    "name" : "安信卓越投资管理（北京）有限公司大庆分公司", 
+    "address" : "耗胤区耗胤村967号"
+}
+{ 
+    "_id" : ObjectId("591ce33aab62b437bc116cd3"), 
+    "tel" : " 13557316771 ", 
+    "name" : "译汇投资管理", 
+    "address" : "译汇投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce33bab62b437bc116cd4"), 
+    "tel" : " 15685174370 ", 
+    "name" : "安徽兴飞投资咨询有限公司", 
+    "address" : "兴飞投资有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce33dab62b437bc116cd5"), 
+    "tel" : " 13160063951 ", 
+    "name" : "北京瑞鸿天宇投资咨询有限公司", 
+    "address" : "圃图区圃图路882号"
+}
+{ 
+    "_id" : ObjectId("591ce33fab62b437bc116cd6"), 
+    "tel" : " 15850757944 ", 
+    "name" : "南京乔南投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce340ab62b437bc116cd7"), 
+    "tel" : " 17079314061 ", 
+    "name" : "上海科南服饰有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce344ab62b437bc116cda"), 
+    "tel" : " 13138951608 ", 
+    "name" : "深圳市随园投资有限公司", 
+    "address" : "随园投资有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce34bab62b437bc116cdf"), 
+    "tel" : " 18857433381 ", 
+    "name" : "大连龙翔贸易有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce34dab62b437bc116ce1"), 
+    "tel" : " 15195979383 ", 
+    "name" : "福锦居置业", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce350ab62b437bc116ce3"), 
+    "tel" : " 17712410656 ", 
+    "name" : "信德投资管理咨询有限公司", 
+    "address" : "全国多家连锁分公司总部南京市鼓楼"
+}
+{ 
+    "_id" : ObjectId("591ce353ab62b437bc116ce5"), 
+    "tel" : " 15651026617 ", 
+    "name" : "南京财富来投资咨询有限公司", 
+    "address" : "不上门当场下款来就借"
+}
+{ 
+    "_id" : ObjectId("591ce354ab62b437bc116ce6"), 
+    "tel" : " 18974918883 ", 
+    "name" : "长沙市泰浩投资管理咨询有限公司", 
+    "address" : "长沙市天心区芙蓉中路144号城市之心0918"
+}
+{ 
+    "_id" : ObjectId("591ce356ab62b437bc116ce7"), 
+    "tel" : " 15161018708 ", 
+    "name" : "金海方舟投资咨询有限公司", 
+    "address" : "扬州广陵太和广场"
+}
+{ 
+    "_id" : ObjectId("591ce359ab62b437bc116ce8"), 
+    "tel" : " 13026107632 ", 
+    "name" : "深圳世俊投资发展公司", 
+    "address" : "世俊投资发展有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce35aab62b437bc116ce9"), 
+    "tel" : " 13073505112 ", 
+    "name" : "深圳潢河投资发展有限公司", 
+    "address" : "潢河投资发展有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce35bab62b437bc116cea"), 
+    "tel" : " 13971597742 ", 
+    "name" : "华泰证券股份有限公司新华路证券营业部", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce35dab62b437bc116ceb"), 
+    "tel" : " 13669686307 ", 
+    "name" : "深圳市随园投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce35fab62b437bc116ced"), 
+    "tel" : " 15810063093 ", 
+    "name" : "深圳大唐国际艺术品投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce360ab62b437bc116cee"), 
+    "tel" : " 13222518526 ", 
+    "name" : "信和汇金", 
+    "address" : "常州武进湖塘乐购"
+}
+{ 
+    "_id" : ObjectId("591ce362ab62b437bc116cf0"), 
+    "tel" : " 15801597623 ", 
+    "name" : "南京美华投资咨询有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce370ab62b437bc116cf5"), 
+    "tel" : " 15052300031 ", 
+    "name" : "泰州中天房地产经纪有限公司", 
+    "address" : "泰州市建工大厦"
+}
+{ 
+    "_id" : ObjectId("591ce371ab62b437bc116cf6"), 
+    "tel" : " 15061016922 ", 
+    "name" : "泰州中天房产经纪有限公司", 
+    "address" : "泰州鼓楼南路634号10室"
+}
+{ 
+    "_id" : ObjectId("591ce373ab62b437bc116cf7"), 
+    "tel" : " 15850754736 ", 
+    "name" : "勇品实业有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce375ab62b437bc116cf9"), 
+    "tel" : " 15722925897 ", 
+    "name" : "南京市栖霞区徐家万装饰材料经营部", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce37aab62b437bc116cfb"), 
+    "tel" : " 15605169600 ", 
+    "name" : "红兴星投资发展有限公司", 
+    "address" : "中央路323号利奥大厦"
+}
+{ 
+    "_id" : ObjectId("591ce37fab62b437bc116cfc"), 
+    "tel" : " 18305154043 ", 
+    "name" : "青浦工合小额贷款股份有限公司", 
+    "address" : "服务南京各个区域"
+}
+{ 
+    "_id" : ObjectId("591ce392ab62b437bc116d03"), 
+    "tel" : " 18705170945 ", 
+    "name" : "赣拓投资管理有限公司", 
+    "address" : "汉中门汉中路185号鸿运大厦10楼1008"
+}
+{ 
+    "_id" : ObjectId("591ce393ab62b437bc116d04"), 
+    "tel" : " 18761841148 ", 
+    "name" : "南京国平投资管理有限公司", 
+    "address" : "全南京栖霞迈皋桥"
+}
+{ 
+    "_id" : ObjectId("591ce395ab62b437bc116d05"), 
+    "tel" : " 13162777797 ", 
+    "name" : "上海芷橙实业有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce39dab62b437bc116d08"), 
+    "tel" : " 18352401673 ", 
+    "name" : "北京雄富丽贸易有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce3a1ab62b437bc116d0a"), 
+    "tel" : " 15088323791 ", 
+    "name" : "大时代投资咨询有限公司", 
+    "address" : "凤台南路138号"
+}
+{ 
+    "_id" : ObjectId("591ce3b3ab62b437bc116d0d"), 
+    "tel" : " 13913962074 ", 
+    "name" : "南京市栖霞区徐家万装饰材料经营部", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce3b4ab62b437bc116d0e"), 
+    "tel" : " 15161480726 ", 
+    "name" : "奥吉兰莉针织品店", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce3bbab62b437bc116d11"), 
+    "tel" : " 15951950197 ", 
+    "name" : "壹一投资管理有限公司", 
+    "address" : "江苏安徽各区各县多家分公司"
+}
+{ 
+    "_id" : ObjectId("591ce3c4ab62b437bc116d12"), 
+    "tel" : " 18963660212 ", 
+    "name" : "苏州融汇通网络信息服务有限公司", 
+    "address" : "苏州金阊区干将西路515号佳福国际大厦11楼"
+}
+{ 
+    "_id" : ObjectId("591ce3ccab62b437bc116d13"), 
+    "tel" : " 15366728777 ", 
+    "name" : "泰州市福鑫投资理财有限公司", 
+    "address" : "泰州海陵区万达广场"
+}
+{ 
+    "_id" : ObjectId("591ce3dfab62b437bc116d16"), 
+    "tel" : " 18205196201 ", 
+    "name" : "南京恒远投资管理有限公司", 
+    "address" : "江苏省南京市玄武区新街口街道北门桥路8号"
+}
+{ 
+    "_id" : ObjectId("591ce3ecab62b437bc116d19"), 
+    "tel" : " 13757017329 ", 
+    "name" : "太力健联赢投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce406ab62b437bc116d1b"), 
+    "tel" : " 15195823956 ", 
+    "name" : "乾星源投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce554ab62b437bc116d1c"), 
+    "tel" : " 13002529502 ", 
+    "name" : "雄瀚投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce561ab62b437bc116d1f"), 
+    "tel" : " 15150121125 ", 
+    "name" : "深圳市知友电子有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce562ab62b437bc116d20"), 
+    "tel" : " 13092278799 ", 
+    "name" : "上海成家实业有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce563ab62b437bc116d21"), 
+    "tel" : " 18326896060 ", 
+    "name" : "南京融仕道信息科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce569ab62b437bc116d22"), 
+    "tel" : " 18252601331 ", 
+    "name" : "皇家投资", 
+    "address" : "泰州皇家投资理财"
+}
+{ 
+    "_id" : ObjectId("591ce56bab62b437bc116d24"), 
+    "tel" : " 13051182722 ", 
+    "name" : "富元投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce56eab62b437bc116d26"), 
+    "tel" : " 13262221151 ", 
+    "name" : "竹亿投资咨询", 
+    "address" : "竹亿投资咨询有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce572ab62b437bc116d28"), 
+    "tel" : " 13636328718 ", 
+    "name" : "四联投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce575ab62b437bc116d29"), 
+    "tel" : " 18358984521 ", 
+    "name" : "宁波合众芸创财富投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce576ab62b437bc116d2a"), 
+    "tel" : " 13260769005 ", 
+    "name" : "青岛必伟金融信息服务有限公司", 
+    "address" : "青岛市南武昌路1号"
+}
+{ 
+    "_id" : ObjectId("591ce579ab62b437bc116d2b"), 
+    "tel" : " 15035530477 ", 
+    "name" : "奥马斯科技", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce57bab62b437bc116d2c"), 
+    "tel" : " 15189981795 ", 
+    "name" : "泰州市锦江投资管理有限公司", 
+    "address" : "泰州海陵莆田路1号"
+}
+{ 
+    "_id" : ObjectId("591ce57dab62b437bc116d2d"), 
+    "tel" : " 18575357469 ", 
+    "name" : "广州速炫科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce57eab62b437bc116d2e"), 
+    "tel" : " 13201212852 ", 
+    "name" : "湖北程力置业投资有限公司", 
+    "address" : "程力置业投资有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce580ab62b437bc116d2f"), 
+    "tel" : " 18770039458 ", 
+    "name" : "东莞市维格实业投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce583ab62b437bc116d31"), 
+    "tel" : " 17096509881 ", 
+    "name" : "北京暖之龙科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce584ab62b437bc116d32"), 
+    "tel" : " 15195922407 ", 
+    "name" : "方圆金融信息咨询服务部", 
+    "address" : "汉中门鸿运大厦1008"
+}
+{ 
+    "_id" : ObjectId("591ce586ab62b437bc116d33"), 
+    "tel" : " 18260099456 ", 
+    "name" : "奥盈投资咨询有限公司", 
+    "address" : "总公司位于夫子庙地铁站盈嘉大厦1905        常州分公司位于汉江东路建设大厦0610"
+}
+{ 
+    "_id" : ObjectId("591ce587ab62b437bc116d34"), 
+    "tel" : " 15198165205 ", 
+    "name" : "深圳市龙泰投资发展有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce587ab62b437bc116d35"), 
+    "tel" : " 江苏省-苏州 ", 
+    "name" : "温州嘉华环保设备有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce58cab62b437bc116d38"), 
+    "tel" : " 18358106545 ", 
+    "name" : "宁波甬平投资管理有限公司", 
+    "address" : "甬平投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce58eab62b437bc116d39"), 
+    "tel" : " 13813975248 ", 
+    "name" : "南京盛磊投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce590ab62b437bc116d3a"), 
+    "tel" : " 18321202208 ", 
+    "name" : "苏州裕久鼎投资管理有限公司", 
+    "address" : "苏州裕久鼎投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce591ab62b437bc116d3b"), 
+    "tel" : " 15982271052 ", 
+    "name" : "黑龙江真美广播通讯器材有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce594ab62b437bc116d3c"), 
+    "tel" : " 13952062924 ", 
+    "name" : "南京耀郝迪贸易有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce596ab62b437bc116d3e"), 
+    "tel" : " 15900787860 ", 
+    "name" : "右择股权投资基金管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce597ab62b437bc116d3f"), 
+    "tel" : " 13814547383 ", 
+    "name" : "中科智担保公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce599ab62b437bc116d40"), 
+    "tel" : " 15555249525 ", 
+    "name" : "风行天下有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce59aab62b437bc116d41"), 
+    "tel" : " 15260347877 ", 
+    "name" : "四联投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce59bab62b437bc116d42"), 
+    "tel" : " 13671985889 ", 
+    "name" : "南方融资性担保有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce59dab62b437bc116d43"), 
+    "tel" : " 15576274680 ", 
+    "name" : "弘禄安投资管理", 
+    "address" : "长沙雨花金领家族749"
+}
+{ 
+    "_id" : ObjectId("591ce5a0ab62b437bc116d45"), 
+    "tel" : " 13521844723 ", 
+    "name" : "澳地有限责任公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce5a3ab62b437bc116d46"), 
+    "tel" : " 17096205786 ", 
+    "name" : "小额贷款有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce5a6ab62b437bc116d49"), 
+    "tel" : " 13771164862 ", 
+    "name" : "杭州市尊信服饰公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce5a8ab62b437bc116d4a"), 
+    "tel" : " 17077100957 ", 
+    "name" : "北京云图盛世科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce5a9ab62b437bc116d4b"), 
+    "tel" : " 18117522761 ", 
+    "name" : "上海高川阀门", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce5aaab62b437bc116d4c"), 
+    "tel" : " 15264150370 ", 
+    "name" : "成都兴锐投资管理有限公司", 
+    "address" : "成都兴锐投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce5acab62b437bc116d4d"), 
+    "tel" : " 13921711362 ", 
+    "name" : "锦韵投资咨询有限公司", 
+    "address" : "浦东新区上南路6333弄"
+}
+{ 
+    "_id" : ObjectId("591ce5b1ab62b437bc116d51"), 
+    "tel" : " 15961853714 ", 
+    "name" : "深圳思萨投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce5b3ab62b437bc116d52"), 
+    "tel" : " 13218001951 ", 
+    "name" : "阜阳市福利元投资咨询有限公司", 
+    "address" : "福利元投资咨询有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce5b5ab62b437bc116d53"), 
+    "tel" : " 18489966626 ", 
+    "name" : "汇商投资按揭有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce5b8ab62b437bc116d55"), 
+    "tel" : " 18853816890 ", 
+    "name" : "志远文化传媒", 
+    "address" : "泰安市泰山区迎胜路1号"
+}
+{ 
+    "_id" : ObjectId("591ce5b9ab62b437bc116d56"), 
+    "tel" : " 18721261978 ", 
+    "name" : "玖富时代投资顾问", 
+    "address" : "玖富时代小额贷款有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce5bcab62b437bc116d58"), 
+    "tel" : " 18217113978 ", 
+    "name" : "振华投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce5bdab62b437bc116d59"), 
+    "tel" : " 18251884633 ", 
+    "name" : "南京", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce5bfab62b437bc116d5a"), 
+    "tel" : " 17095757416 ", 
+    "name" : "杭州飘馨服饰有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce5c0ab62b437bc116d5b"), 
+    "tel" : " 15961099178 ", 
+    "name" : "信合汇金信息咨询（北京）有限公司泰州分公司", 
+    "address" : "泰州海陵区万达写字楼8楼801一802室"
+}
+{ 
+    "_id" : ObjectId("591ce5c1ab62b437bc116d5c"), 
+    "tel" : " 18221506358 ", 
+    "name" : "甘肃宝源恒达投资咨询有限公司", 
+    "address" : "中医院斜对面农业银行旁边"
+}
+{ 
+    "_id" : ObjectId("591ce5c5ab62b437bc116d5e"), 
+    "tel" : " 18302864680 ", 
+    "name" : "茂名恒沁投资管理有限公司", 
+    "address" : "茂名市步行街旁边"
+}
+{ 
+    "_id" : ObjectId("591ce5c7ab62b437bc116d5f"), 
+    "tel" : " 18652622227 ", 
+    "name" : "宜信普惠泰州分公司", 
+    "address" : "泰州海陵万达写字楼602"
+}
+{ 
+    "_id" : ObjectId("591ce5d2ab62b437bc116d60"), 
+    "tel" : " 15725830723 ", 
+    "name" : "锐拓（杭州）互联网金融信息服务有限公司泰安分公司", 
+    "address" : "泰安泰山区虎山路146号"
+}
+{ 
+    "_id" : ObjectId("591ce5deab62b437bc116d63"), 
+    "tel" : " 18321283278 ", 
+    "name" : "广东安盾实业投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce5e0ab62b437bc116d64"), 
+    "tel" : " 15778850752 ", 
+    "name" : "深圳市大盛青牛投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce5ecab62b437bc116d66"), 
+    "tel" : " 13182172927 ", 
+    "name" : "福州优正电子有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce5f0ab62b437bc116d67"), 
+    "tel" : " 18252601960 ", 
+    "name" : "姜堰融宝汇通企业管理", 
+    "address" : "泰州姜堰罗塘街道海上海中心街区8幢15室"
+}
+{ 
+    "_id" : ObjectId("591ce5f8ab62b437bc116d6a"), 
+    "tel" : " 18362644200 ", 
+    "name" : "米利投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce6f5ab62b437bc116d6d"), 
+    "tel" : " 15026618103 ", 
+    "name" : "杭州轻罗服饰有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce6f7ab62b437bc116d6e"), 
+    "tel" : " 18311597446 ", 
+    "name" : "悦阔投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce6fdab62b437bc116d70"), 
+    "tel" : " 13152351591 ", 
+    "name" : "福州米伦贸易有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce704ab62b437bc116d71"), 
+    "tel" : " 18710323560 ", 
+    "name" : "深圳市东广投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce71dab62b437bc116d73"), 
+    "tel" : " 13921707160 ", 
+    "name" : "泰州市安易贷投资管理有限公司", 
+    "address" : "泰州海陵区南园新村134幢17号"
+}
+{ 
+    "_id" : ObjectId("591ce71fab62b437bc116d74"), 
+    "tel" : " 13067737209 ", 
+    "name" : "上海盈岚投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce720ab62b437bc116d75"), 
+    "tel" : " 18786807050 ", 
+    "name" : "禅城小额贷款", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce721ab62b437bc116d76"), 
+    "tel" : " 13236452235 ", 
+    "name" : "湖北程力置业投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce725ab62b437bc116d79"), 
+    "tel" : " 15003512049 ", 
+    "name" : "深圳市珂尼蒂思投资发展有公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce726ab62b437bc116d7a"), 
+    "tel" : " 18317121258 ", 
+    "name" : "投资理财", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce727ab62b437bc116d7b"), 
+    "tel" : " 15221001718 ", 
+    "name" : "四联投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce729ab62b437bc116d7c"), 
+    "tel" : " 15102152705 ", 
+    "name" : "深圳市鸿威胜投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce72aab62b437bc116d7d"), 
+    "tel" : " 15221731697 ", 
+    "name" : "振华投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce72bab62b437bc116d7e"), 
+    "tel" : " 18221205298 ", 
+    "name" : "四联担保投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce72cab62b437bc116d7f"), 
+    "tel" : " 15000259208 ", 
+    "name" : "振华投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce72eab62b437bc116d80"), 
+    "tel" : " 15764774881 ", 
+    "name" : "润泽小额贷款", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce730ab62b437bc116d81"), 
+    "tel" : " 15000757815 ", 
+    "name" : "瑞通投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce730ab62b437bc116d82"), 
+    "tel" : " 15078833152 ", 
+    "name" : "通辽市华数科技", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce732ab62b437bc116d83"), 
+    "tel" : " 18795466775 ", 
+    "name" : "南京正阳投资管理有限公司", 
+    "address" : "中华路西华大厦"
+}
+{ 
+    "_id" : ObjectId("591ce733ab62b437bc116d84"), 
+    "tel" : " 15221826857 ", 
+    "name" : "瑞通投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce736ab62b437bc116d85"), 
+    "tel" : " 13675123436 ", 
+    "name" : "弘业期货", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce737ab62b437bc116d86"), 
+    "tel" : " 15721495019 ", 
+    "name" : "右择投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce739ab62b437bc116d87"), 
+    "tel" : " 13261991292 ", 
+    "name" : "奥尔森商贸", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce73aab62b437bc116d88"), 
+    "tel" : " 17889922562 ", 
+    "name" : "深圳市誉田科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce73cab62b437bc116d89"), 
+    "tel" : " 15814481737 ", 
+    "name" : "深圳市晟达财富管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce73fab62b437bc116d8b"), 
+    "tel" : " 13270895660 ", 
+    "name" : "弘业期货", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce740ab62b437bc116d8c"), 
+    "tel" : " 13092276766 ", 
+    "name" : "东莞市屹琳实业投资有限公司", 
+    "address" : "屹琳实业投资有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce745ab62b437bc116d8f"), 
+    "tel" : " 15169027980 ", 
+    "name" : "青岛太力健联赢投资管理有限公司", 
+    "address" : "太力健联赢投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce74aab62b437bc116d93"), 
+    "tel" : " 18280489612 ", 
+    "name" : "深圳兰淇六六科技", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce74cab62b437bc116d94"), 
+    "tel" : " 18288665955 ", 
+    "name" : "河南恒大投资担保有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce750ab62b437bc116d95"), 
+    "tel" : " 13405845618 ", 
+    "name" : "乾鼎信用担保有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce751ab62b437bc116d96"), 
+    "tel" : " 15562038603 ", 
+    "name" : "弈信邦投资管理", 
+    "address" : "弈信邦投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce753ab62b437bc116d97"), 
+    "tel" : " 15167159665 ", 
+    "name" : "正信投资担保有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce754ab62b437bc116d98"), 
+    "tel" : " 15168268266 ", 
+    "name" : "新兴建筑公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce757ab62b437bc116d99"), 
+    "tel" : " 17070986639 ", 
+    "name" : "江门市江海区飞腾科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce757ab62b437bc116d9a"), 
+    "tel" : " 18205260502 ", 
+    "name" : "江泰商务信息咨询", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce759ab62b437bc116d9b"), 
+    "tel" : " 15712336998 ", 
+    "name" : "深圳欧斯恩科技公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce75eab62b437bc116d9c"), 
+    "tel" : " 13793138505 ", 
+    "name" : "富元投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce760ab62b437bc116d9d"), 
+    "tel" : " 15136235927 ", 
+    "name" : "福州绿元素贸易有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce762ab62b437bc116d9e"), 
+    "tel" : " 13913904479 ", 
+    "name" : "南京金睿信投资管理有限公司", 
+    "address" : "急用钱无抵押无担保来就借"
+}
+{ 
+    "_id" : ObjectId("591ce763ab62b437bc116d9f"), 
+    "tel" : " 15921921514 ", 
+    "name" : "深圳市闪王科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce765ab62b437bc116da0"), 
+    "tel" : " 15038113009 ", 
+    "name" : "深圳市钻悦商贸公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce769ab62b437bc116da2"), 
+    "tel" : " 18321137630 ", 
+    "name" : "安徽省维玉财富管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce76bab62b437bc116da3"), 
+    "tel" : " 13598894550 ", 
+    "name" : "大连英联汽车销售有限公司", 
+    "address" : "汉商二十一世纪购物中心三楼5号"
+}
+{ 
+    "_id" : ObjectId("591ce76cab62b437bc116da4"), 
+    "tel" : " 17070929921 ", 
+    "name" : "金正泰贷款公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce76fab62b437bc116da5"), 
+    "tel" : " 15275188735 ", 
+    "name" : "深圳大盛青牛投资公司", 
+    "address" : "大盛青牛投资有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce771ab62b437bc116da6"), 
+    "tel" : " 13121012533 ", 
+    "name" : "义乌汇豪投资管理有限公司", 
+    "address" : "汇豪投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce773ab62b437bc116da7"), 
+    "tel" : " 13675834491 ", 
+    "name" : "义乌市臻品服饰", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce774ab62b437bc116da8"), 
+    "tel" : " 18346217809 ", 
+    "name" : "深圳市阿达普特科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce776ab62b437bc116da9"), 
+    "tel" : " 13179612823 ", 
+    "name" : "郑州鼎正电子科技有限公司", 
+    "address" : "石牌桥1号"
+}
+{ 
+    "_id" : ObjectId("591ce778ab62b437bc116daa"), 
+    "tel" : " 15067014688 ", 
+    "name" : "开封市嘉鸿投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce779ab62b437bc116dab"), 
+    "tel" : " 18322593001 ", 
+    "name" : "辉耀投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce77cab62b437bc116dac"), 
+    "tel" : " 18865923537 ", 
+    "name" : "深圳市赛腾投资发展有限公司", 
+    "address" : "市赛腾投资发展有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce77dab62b437bc116dad"), 
+    "tel" : " 13813980603 ", 
+    "name" : "耀翔投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce77eab62b437bc116dae"), 
+    "tel" : " 18362966645 ", 
+    "name" : "华文金融", 
+    "address" : "江苏省地区均有分公司"
+}
+{ 
+    "_id" : ObjectId("591ce782ab62b437bc116daf"), 
+    "tel" : " 18914778081 ", 
+    "name" : "江苏弘业期货有限公司", 
+    "address" : "中华路50号弘业大厦"
+}
+{ 
+    "_id" : ObjectId("591ce787ab62b437bc116db0"), 
+    "tel" : " 18252601960 ", 
+    "name" : "投融贷", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce78bab62b437bc116db1"), 
+    "tel" : " 18382448919 ", 
+    "name" : "右择股权投资基金管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce78fab62b437bc116db2"), 
+    "tel" : " 13114351778 ", 
+    "name" : "深圳市德班投资公司", 
+    "address" : "德班投资发展有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce79cab62b437bc116db4"), 
+    "tel" : " 13834592715 ", 
+    "name" : "中山投资管理", 
+    "address" : "中山投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce79fab62b437bc116db5"), 
+    "tel" : " 13770678873 ", 
+    "name" : "恒瑞丰投资管理有限公司", 
+    "address" : "江苏省南京市建邺区宏普捷座"
+}
+{ 
+    "_id" : ObjectId("591ce7a0ab62b437bc116db6"), 
+    "tel" : " 18552696053 ", 
+    "name" : "南通新裕丰投资发展有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce7a1ab62b437bc116db7"), 
+    "tel" : " 13764331328 ", 
+    "name" : "汇商投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce962ab62b437bc116dba"), 
+    "tel" : " 13057652721 ", 
+    "name" : "宁波京浙盛投资管理有限公司", 
+    "address" : "鄂修真中心886号S座142室"
+}
+{ 
+    "_id" : ObjectId("591ce989ab62b437bc116dbe"), 
+    "tel" : " 13851945578 ", 
+    "name" : "南京鑫昊投资管理咨询有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce98eab62b437bc116dbf"), 
+    "tel" : " 18724008737 ", 
+    "name" : "作兴投资咨询有限公司", 
+    "address" : "镇江市京口区中山西路"
+}
+{ 
+    "_id" : ObjectId("591ce9a1ab62b437bc116dc0"), 
+    "tel" : " 13961017621 ", 
+    "name" : "中金国投", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce9b4ab62b437bc116dc2"), 
+    "tel" : " 13160060935 ", 
+    "name" : "上海钡思那电子科技有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce9bbab62b437bc116dc3"), 
+    "tel" : " 15651862121 ", 
+    "name" : "广州市伊其贸易有限公司", 
+    "address" : "磕压区破馁推路761号"
+}
+{ 
+    "_id" : ObjectId("591ce9c0ab62b437bc116dc4"), 
+    "tel" : " 15205168853 ", 
+    "name" : "南京福锦居置业顾问有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce9c1ab62b437bc116dc5"), 
+    "tel" : " 15692171895 ", 
+    "name" : "中信建投期货", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce9d7ab62b437bc116dc7"), 
+    "tel" : " 15132115602 ", 
+    "name" : "盛世嘉吉融资贷款公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce9d9ab62b437bc116dc8"), 
+    "tel" : " 15810520276 ", 
+    "name" : "常州信辉创业投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce9daab62b437bc116dc9"), 
+    "tel" : " 13566630193 ", 
+    "name" : "恒德利投资咨询", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce9dcab62b437bc116dca"), 
+    "tel" : " 13249345540 ", 
+    "name" : "浙江竹亿投资咨询有限公司", 
+    "address" : "竹亿投资咨询有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce9e1ab62b437bc116dcb"), 
+    "tel" : " 18652372173 ", 
+    "name" : "北京四季大通投资集团有限公司", 
+    "address" : "案频区案频路422号"
+}
+{ 
+    "_id" : ObjectId("591ce9e3ab62b437bc116dcc"), 
+    "tel" : " 15847659694 ", 
+    "name" : "嘉吉融资担保", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce9e4ab62b437bc116dcd"), 
+    "tel" : " 13160059091 ", 
+    "name" : "济宁市六和投资咨询有限公司", 
+    "address" : "痪劳区痪劳路017号"
+}
+{ 
+    "_id" : ObjectId("591ce9e6ab62b437bc116dce"), 
+    "tel" : " 18268028149 ", 
+    "name" : "中辰恒基创业", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce9efab62b437bc116dd1"), 
+    "tel" : " 18695266716 ", 
+    "name" : "汇豪投资管理有限公司", 
+    "address" : "汇豪投资管理有限公司"
+}
+{ 
+    "_id" : ObjectId("591ce9f2ab62b437bc116dd2"), 
+    "tel" : " 18352401673 ", 
+    "name" : "北京中科三精科技发展有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce9f7ab62b437bc116dd4"), 
+    "tel" : " 14747722669 ", 
+    "name" : "迪彩投资有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce9f9ab62b437bc116dd5"), 
+    "tel" : " 13775587103 ", 
+    "name" : "南京祝夏投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591ce9fdab62b437bc116dd6"), 
+    "tel" : " 13260835627 ", 
+    "name" : "南京金浪池投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea02ab62b437bc116dd8"), 
+    "tel" : " 18301446162 ", 
+    "name" : "上海基创体育投资管理有限公司", 
+    "address" : "陌壤市陌壤区131号"
+}
+{ 
+    "_id" : ObjectId("591cea08ab62b437bc116dd9"), 
+    "tel" : " 18608923613 ", 
+    "name" : "浙江日高智能机械股份有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea12ab62b437bc116ddb"), 
+    "tel" : " 15106254844 ", 
+    "name" : "痔靥港澳之音KTV商务会所", 
+    "address" : "鼓轮区鼓轮村715号"
+}
+{ 
+    "_id" : ObjectId("591cea13ab62b437bc116ddc"), 
+    "tel" : " 18759158303 ", 
+    "name" : "广脉投资管理咨询有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea14ab62b437bc116ddd"), 
+    "tel" : " 17098033662 ", 
+    "name" : "盛宝行投资担保有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea15ab62b437bc116dde"), 
+    "tel" : " 15249181826 ", 
+    "name" : "龙江广告策划有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea22ab62b437bc116de4"), 
+    "tel" : " 15167159665 ", 
+    "name" : "浙商投资担保有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea24ab62b437bc116de5"), 
+    "tel" : " 13405845618 ", 
+    "name" : "恒大投资担保有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea25ab62b437bc116de6"), 
+    "tel" : " 15167159665 ", 
+    "name" : "豪业通商贸有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea26ab62b437bc116de7"), 
+    "tel" : " 18268672598 ", 
+    "name" : "豪业通商贸有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea28ab62b437bc116de8"), 
+    "tel" : " 18806101929 ", 
+    "name" : "淮安津源智能化工程有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea29ab62b437bc116de9"), 
+    "tel" : " 13062690469 ", 
+    "name" : "龙江广告策划有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea2fab62b437bc116dec"), 
+    "tel" : " 18575791464 ", 
+    "name" : "风行天下有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea30ab62b437bc116ded"), 
+    "tel" : " 18269185332 ", 
+    "name" : "泰浩投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea32ab62b437bc116dee"), 
+    "tel" : " 18512505112 ", 
+    "name" : "芜湖市近山环保水泥有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea3bab62b437bc116df1"), 
+    "tel" : " 15077865975 ", 
+    "name" : "昆云投资管理有限公司", 
+    "address" : "凭身份证就可办理无抵押贷款"
+}
+{ 
+    "_id" : ObjectId("591cea40ab62b437bc116df2"), 
+    "tel" : " 13616908036 ", 
+    "name" : "龙岩市晨兴投资管理有限公司", 
+    "address" : "龙岩新罗西陂街道龙岩大道383号"
+}
+{ 
+    "_id" : ObjectId("591cea42ab62b437bc116df3"), 
+    "tel" : " 18351725967 ", 
+    "name" : "南京金浪池投资", 
+    "address" : "建邺区兴隆大街宏谱捷座"
+}
+{ 
+    "_id" : ObjectId("591cea44ab62b437bc116df4"), 
+    "tel" : " 15221829173 ", 
+    "name" : "瑞通投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea47ab62b437bc116df5"), 
+    "tel" : " 15105195773 ", 
+    "name" : "新东晋投资", 
+    "address" : "江苏省各地均有分公司"
+}
+{ 
+    "_id" : ObjectId("591cea4aab62b437bc116df6"), 
+    "tel" : " 18512547135 ", 
+    "name" : "湖南中海润融电子商务有限公司", 
+    "address" : "危采枫路487号Z座570室"
+}
+{ 
+    "_id" : ObjectId("591cea51ab62b437bc116df8"), 
+    "tel" : " 18801440217 ", 
+    "name" : "深圳市泰戈投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea55ab62b437bc116dfa"), 
+    "tel" : " 18251155010 ", 
+    "name" : "天意投资", 
+    "address" : "江苏省范围均可办理"
+}
+{ 
+    "_id" : ObjectId("591cea59ab62b437bc116dfb"), 
+    "tel" : " 17701091682 ", 
+    "name" : "河南龙霞实业有限公司", 
+    "address" : "朝阳区百子湾金泰国际大厚A座503"
+}
+{ 
+    "_id" : ObjectId("591cea5fab62b437bc116dfc"), 
+    "tel" : " 15000508382 ", 
+    "name" : "珠江实业投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea60ab62b437bc116dfd"), 
+    "tel" : " 15261400169 ", 
+    "name" : "江苏用信金融信息服务有限公司", 
+    "address" : "江苏各城市多家分公司"
+}
+{ 
+    "_id" : ObjectId("591cea65ab62b437bc116e00"), 
+    "tel" : " 15161069520 ", 
+    "name" : "泰州市驰运信息咨询有限公司", 
+    "address" : "泰州海陵区万达写字楼20楼2005室"
+}
+{ 
+    "_id" : ObjectId("591cea6bab62b437bc116e03"), 
+    "tel" : " 13938275478 ", 
+    "name" : "富元投资管理", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea6dab62b437bc116e04"), 
+    "tel" : " 13616908036 ", 
+    "name" : "龙岩市晨兴投资管理有限公司", 
+    "address" : "龙岩新罗西陂街道"
+}
+{ 
+    "_id" : ObjectId("591cea77ab62b437bc116e06"), 
+    "tel" : " 13611961098 ", 
+    "name" : "四联投资", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea80ab62b437bc116e08"), 
+    "tel" : " 15686787429 ", 
+    "name" : "银盛亿达金融服务有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea85ab62b437bc116e09"), 
+    "tel" : " 13077392502 ", 
+    "name" : "北京信诚时代投资管理有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea89ab62b437bc116e0c"), 
+    "tel" : " 13816947713 ", 
+    "name" : "中信建投期货有限公司上海世纪大道营业部", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea8aab62b437bc116e0d"), 
+    "tel" : " 18752666993 ", 
+    "name" : "靖江市天禧宾馆", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea8cab62b437bc116e0e"), 
+    "tel" : " 13259491327 ", 
+    "name" : "新昌投资咨询有限公司", 
+    "address" : "凭身份证凭个人办理贷款"
+}
+{ 
+    "_id" : ObjectId("591cea8dab62b437bc116e0f"), 
+    "tel" : " 15028188511 ", 
+    "name" : "加焕投资咨询有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("591cea91ab62b437bc116e11"), 
+    "tel" : " 13824303687 ", 
+    "name" : "芜湖市近山环保水泥有限公司", 
+    "address" : "电话："
+}
+{ 
+    "_id" : ObjectId("5921b064ab62b40dc4f38a0d"), 
+    "tel" : "13547924853", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 金鼎大楼B座"
+}
+{ 
+    "_id" : ObjectId("5921b065ab62b40dc4f38a0e"), 
+    "tel" : "15026825518", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 金鼎大楼B座"
+}
+{ 
+    "_id" : ObjectId("5921b066ab62b40dc4f38a0f"), 
+    "tel" : "13718207124", 
+    "name" : "淅川县农汇食品销售有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b069ab62b40dc4f38a10"), 
+    "tel" : "18664801387", 
+    "name" : "汇丰金融贷款投资公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b06aab62b40dc4f38a11"), 
+    "tel" : "13583106036", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b06bab62b40dc4f38a12"), 
+    "tel" : "15027718072", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b06eab62b40dc4f38a13"), 
+    "tel" : "18423011631", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b073ab62b40dc4f38a14"), 
+    "tel" : "15208292357", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "泰州- 汇丰金融大夏A座"
+}
+{ 
+    "_id" : ObjectId("5921b07eab62b40dc4f38a15"), 
+    "tel" : "15009293187", 
+    "name" : "兰州市西固区康顺小额贷款有限公司", 
+    "address" : "泰州- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("5921b07fab62b40dc4f38a16"), 
+    "tel" : "15087020289", 
+    "name" : "兰州市西固区康顺小额贷款有限公司", 
+    "address" : "泰州- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("5921b081ab62b40dc4f38a17"), 
+    "tel" : "13934213367", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b087ab62b40dc4f38a18"), 
+    "tel" : "15858458187", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 金鼎大楼B座"
+}
+{ 
+    "_id" : ObjectId("5921b091ab62b40dc4f38a19"), 
+    "tel" : "18688431487", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921b091ab62b40dc4f38a1a"), 
+    "tel" : "18240063295", 
+    "name" : "汇丰金融贷款投资公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b096ab62b40dc4f38a1b"), 
+    "tel" : "13260645536", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 海陵青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921b097ab62b40dc4f38a1c"), 
+    "tel" : "13521987759", 
+    "name" : "淅川县农汇食品销售有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b098ab62b40dc4f38a1d"), 
+    "tel" : "15700012504", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 电话： 15700012504"
+}
+{ 
+    "_id" : ObjectId("5921b09bab62b40dc4f38a1e"), 
+    "tel" : "15215700031", 
+    "name" : "河南国贸投资担保有限公司", 
+    "address" : "泰州- 15215700031"
+}
+{ 
+    "_id" : ObjectId("5921b09bab62b40dc4f38a1f"), 
+    "tel" : "15106952518", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 请联系15106952518"
+}
+{ 
+    "_id" : ObjectId("5921b09cab62b40dc4f38a20"), 
+    "tel" : "18457050951", 
+    "name" : "六安市金正泰抵押贷款代理有限公司", 
+    "address" : "泰州- 1549"
+}
+{ 
+    "_id" : ObjectId("5921b09fab62b40dc4f38a21"), 
+    "tel" : "18717866028", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 金鼎大楼B座"
+}
+{ 
+    "_id" : ObjectId("5921b0a1ab62b40dc4f38a22"), 
+    "tel" : "15828371541", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "泰州- 金鼎大楼B座"
+}
+{ 
+    "_id" : ObjectId("5921b0a2ab62b40dc4f38a23"), 
+    "tel" : "18339921405", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 建设中路"
+}
+{ 
+    "_id" : ObjectId("5921b0a3ab62b40dc4f38a24"), 
+    "tel" : "15000770159", 
+    "name" : "汇丰金融贷款投资公司", 
+    "address" : "泰州- 投资金融大厦18楼"
+}
+{ 
+    "_id" : ObjectId("5921b0a4ab62b40dc4f38a25"), 
+    "tel" : "13242935892", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921b0a7ab62b40dc4f38a26"), 
+    "tel" : "18620477452", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921b0a9ab62b40dc4f38a27"), 
+    "tel" : "15262433436", 
+    "name" : "汇丰金融贷款投资公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b0b0ab62b40dc4f38a28"), 
+    "tel" : "18793116163", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921b0b4ab62b40dc4f38a29"), 
+    "tel" : "18878706578", 
+    "name" : "远大小额投资担保公司", 
+    "address" : "泰州- 市人民政府附近"
+}
+{ 
+    "_id" : ObjectId("5921b0b5ab62b40dc4f38a2a"), 
+    "tel" : "18366168327", 
+    "name" : "河南金铂投资担保有限公司", 
+    "address" : "泰州- 金港中路198号"
+}
+{ 
+    "_id" : ObjectId("5921b0b6ab62b40dc4f38a2b"), 
+    "tel" : "15921762447", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b0b7ab62b40dc4f38a2c"), 
+    "tel" : "15521164536", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 市---内"
+}
+{ 
+    "_id" : ObjectId("5921b0baab62b40dc4f38a2d"), 
+    "tel" : "13541323733", 
+    "name" : "太平洋信贷金融投资有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b0bdab62b40dc4f38a2e"), 
+    "tel" : "13120536978", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "泰州- 汇丰金融大厦"
+}
+{ 
+    "_id" : ObjectId("5921b0beab62b40dc4f38a2f"), 
+    "tel" : "13671809118", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "泰州- 建设中路"
+}
+{ 
+    "_id" : ObjectId("5921b0c9ab62b40dc4f38a30"), 
+    "tel" : "18264160299", 
+    "name" : "汇丰金融贷款投资公司", 
+    "address" : "泰州- 市财政局"
+}
+{ 
+    "_id" : ObjectId("5921b0c9ab62b40dc4f38a31"), 
+    "tel" : "15128106758", 
+    "name" : "太平洋信贷金融投资有限公司", 
+    "address" : "泰州- 市中医院斜对面"
+}
+{ 
+    "_id" : ObjectId("5921b0cbab62b40dc4f38a32"), 
+    "tel" : "13106859906", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921b0d0ab62b40dc4f38a33"), 
+    "tel" : "13834682707", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 建设中路"
+}
+{ 
+    "_id" : ObjectId("5921b0d3ab62b40dc4f38a34"), 
+    "tel" : "18201763638", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "泰州- 汇丰金融大厦"
+}
+{ 
+    "_id" : ObjectId("5921b0d7ab62b40dc4f38a35"), 
+    "tel" : "13122092612", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "泰州- 汇丰金融大厦"
+}
+{ 
+    "_id" : ObjectId("5921b0d9ab62b40dc4f38a36"), 
+    "tel" : "13122092553", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "泰州- 汇丰金融大厦"
+}
+{ 
+    "_id" : ObjectId("5921b0daab62b40dc4f38a37"), 
+    "tel" : "13106763879", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921b0e5ab62b40dc4f38a38"), 
+    "tel" : "15222820881", 
+    "name" : "太平洋信贷金融投资有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b0e8ab62b40dc4f38a39"), 
+    "tel" : "15928628292", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b0eaab62b40dc4f38a3a"), 
+    "tel" : "15811589694", 
+    "name" : "淅川县农汇食品销售有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b0ebab62b40dc4f38a3b"), 
+    "tel" : "17180891393", 
+    "name" : "上海中财融资担保有限公司", 
+    "address" : "泰州- 火车站旁"
+}
+{ 
+    "_id" : ObjectId("5921b0eeab62b40dc4f38a3c"), 
+    "tel" : "18802047271", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "泰州- 金鼎大楼B座"
+}
+{ 
+    "_id" : ObjectId("5921b0efab62b40dc4f38a3d"), 
+    "tel" : "18781923425", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "泰州- 金鼎大楼B座"
+}
+{ 
+    "_id" : ObjectId("5921b0f6ab62b40dc4f38a3e"), 
+    "tel" : "13700856426", 
+    "name" : "汇丰金融投资投资公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b0f8ab62b40dc4f38a3f"), 
+    "tel" : "15638245570", 
+    "name" : "汇丰金融投资投资公司", 
+    "address" : "泰州- 汇丰大厦A座602—606"
+}
+{ 
+    "_id" : ObjectId("5921b0f9ab62b40dc4f38a40"), 
+    "tel" : "15638242505", 
+    "name" : "汇丰金融贷款投资公司", 
+    "address" : "泰州- 汇丰大厦A座602—606"
+}
+{ 
+    "_id" : ObjectId("5921b0fbab62b40dc4f38a41"), 
+    "tel" : "13143574746", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921b109ab62b40dc4f38a42"), 
+    "tel" : "13247640561", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 地税局旁"
+}
+{ 
+    "_id" : ObjectId("5921b11dab62b40dc4f38a43"), 
+    "tel" : "15991944518", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("5921b11eab62b40dc4f38a44"), 
+    "tel" : "18217108959", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("5921b11fab62b40dc4f38a45"), 
+    "tel" : "15180427271", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("5921b120ab62b40dc4f38a46"), 
+    "tel" : "15026827158", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("5921b123ab62b40dc4f38a47"), 
+    "tel" : "18218465855", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("5921b124ab62b40dc4f38a48"), 
+    "tel" : "15026829518", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("5921b126ab62b40dc4f38a49"), 
+    "tel" : "15026827368", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("5921b129ab62b40dc4f38a4a"), 
+    "tel" : "15026826758", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("5921b12aab62b40dc4f38a4b"), 
+    "tel" : "13815409205", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("5921b12cab62b40dc4f38a4c"), 
+    "tel" : "13661629367", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("5921b12cab62b40dc4f38a4d"), 
+    "tel" : "18221815290", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("5921b137ab62b40dc4f38a4e"), 
+    "tel" : "15895864925", 
+    "name" : "南京宜星宝置业顾问有限公司", 
+    "address" : "泰州- 海陵路3号"
+}
+{ 
+    "_id" : ObjectId("5921b140ab62b40dc4f38a4f"), 
+    "tel" : "18457050527", 
+    "name" : "安徽中安巨融融资担保股份有限公司", 
+    "address" : "泰州- 电话：18457050527"
+}
+{ 
+    "_id" : ObjectId("5921b142ab62b40dc4f38a50"), 
+    "tel" : "13739105728", 
+    "name" : "靖江市金钥匙投资咨询服务部", 
+    "address" : "泰州- 新城东环花苑虹兴·路·25号"
+}
+{ 
+    "_id" : ObjectId("5921b166ab62b40dc4f38a51"), 
+    "tel" : "18223383359", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 1243"
+}
+{ 
+    "_id" : ObjectId("5921b172ab62b40dc4f38a52"), 
+    "tel" : "13260833153", 
+    "name" : "中兴华夏投资担保有限公司", 
+    "address" : "泰州- 凤凰东路农业大厦"
+}
+{ 
+    "_id" : ObjectId("5921b177ab62b40dc4f38a53"), 
+    "tel" : "13119378736", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 地税局附近"
+}
+{ 
+    "_id" : ObjectId("5921b179ab62b40dc4f38a54"), 
+    "tel" : "13012851970", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 地税局附近"
+}
+{ 
+    "_id" : ObjectId("5921b179ab62b40dc4f38a55"), 
+    "tel" : "13128751625", 
+    "name" : "成都彭州同汇小额贷款有限公司", 
+    "address" : "泰州- 地税局附近"
+}
+{ 
+    "_id" : ObjectId("5921b17bab62b40dc4f38a56"), 
+    "tel" : "13162156521", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 财政局旁"
+}
+{ 
+    "_id" : ObjectId("5921b192ab62b40dc4f38a57"), 
+    "tel" : "18681515536", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921b1ccab62b40dc4f38a58"), 
+    "tel" : "18798161685", 
+    "name" : "哈尔滨盛世嘉吉融资担保有限公司", 
+    "address" : "泰州- 18798161685"
+}
+{ 
+    "_id" : ObjectId("5921b1ceab62b40dc4f38a59"), 
+    "tel" : "13484541816", 
+    "name" : "河南国贸投资担保有限公司", 
+    "address" : "泰州- 请联系13484541816"
+}
+{ 
+    "_id" : ObjectId("5921b1cfab62b40dc4f38a5a"), 
+    "tel" : "18831768720", 
+    "name" : "哈尔滨盛世嘉吉融资担保有限公司", 
+    "address" : "泰州- 请联系18831768720"
+}
+{ 
+    "_id" : ObjectId("5921b1d1ab62b40dc4f38a5b"), 
+    "tel" : "15621468298", 
+    "name" : "北京富安小额贷款有限公司", 
+    "address" : "泰州- 请联系15621468298 "
+}
+{ 
+    "_id" : ObjectId("5921b1d3ab62b40dc4f38a5c"), 
+    "tel" : "13296396110", 
+    "name" : "吉林省中远担保有限公司", 
+    "address" : "泰州- 请联系13296396110"
+}
+{ 
+    "_id" : ObjectId("5921b1d4ab62b40dc4f38a5d"), 
+    "tel" : "15202119818", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 15202119818"
+}
+{ 
+    "_id" : ObjectId("5921b1e6ab62b40dc4f38a5e"), 
+    "tel" : "18361976869", 
+    "name" : "太平洋信贷金融投资有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b1f0ab62b40dc4f38a5f"), 
+    "tel" : "18168552522", 
+    "name" : "平安保险代理有限公司苏州分公司旺墩路营业部", 
+    "address" : "泰州- 泰州 周边（其他）"
+}
+{ 
+    "_id" : ObjectId("5921b1f1ab62b40dc4f38a60"), 
+    "tel" : "13286803885", 
+    "name" : "鄂州市永亨投资管理咨询有限公司", 
+    "address" : "泰州- 市府路123号"
+}
+{ 
+    "_id" : ObjectId("5921b1f3ab62b40dc4f38a61"), 
+    "tel" : "13026889484", 
+    "name" : "宜信普惠信息咨询（北京）有限公司苏州分公司", 
+    "address" : "泰州- 宜信民间小额贷款有限公司"
+}
+{ 
+    "_id" : ObjectId("5921b1f6ab62b40dc4f38a62"), 
+    "tel" : "18758284745", 
+    "name" : "宜信普惠信息咨询（北京）有限公司苏州分公司", 
+    "address" : "泰州- 福源小额贷款"
+}
+{ 
+    "_id" : ObjectId("5921b1feab62b40dc4f38a63"), 
+    "tel" : "13268384147", 
+    "name" : "鄂州市永亨投资管理咨询有限公司", 
+    "address" : "泰州- 平安小额贷款公司"
+}
+{ 
+    "_id" : ObjectId("5921b200ab62b40dc4f38a64"), 
+    "tel" : "13242829948", 
+    "name" : "鄂州市永亨投资管理咨询有限公司", 
+    "address" : "泰州- 捷信小额贷款公司"
+}
+{ 
+    "_id" : ObjectId("5921b207ab62b40dc4f38a65"), 
+    "tel" : "13276623777", 
+    "name" : "南京金满地投资管理有限公司", 
+    "address" : "泰州- 泰州人都可以"
+}
+{ 
+    "_id" : ObjectId("5921b215ab62b40dc4f38a66"), 
+    "tel" : "18217710858", 
+    "name" : "天津平安易贷金融投资有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b217ab62b40dc4f38a67"), 
+    "tel" : "17751790643", 
+    "name" : "南京市玄武区小吉投资管理咨询中心", 
+    "address" : "泰州- 海陵路3号"
+}
+{ 
+    "_id" : ObjectId("5921b21aab62b40dc4f38a68"), 
+    "tel" : "17082791286", 
+    "name" : "泰州慧荣投资管理有限公司", 
+    "address" : "泰州- 凤凰路盛和花园97幢20-24室(电信大楼对面）"
+}
+{ 
+    "_id" : ObjectId("5921b21bab62b40dc4f38a69"), 
+    "tel" : "15850742703", 
+    "name" : "江苏中天投资有限公司", 
+    "address" : "泰州- 凤凰东路66号农业大厦"
+}
+{ 
+    "_id" : ObjectId("5921b21dab62b40dc4f38a6a"), 
+    "tel" : "18520672227", 
+    "name" : "北京中金汇投资担保有限公司", 
+    "address" : "泰州- 审计局旁"
+}
+{ 
+    "_id" : ObjectId("5921b222ab62b40dc4f38a6b"), 
+    "tel" : "15746564565", 
+    "name" : "江苏嘉实投资担保有限公司", 
+    "address" : "泰州- 行光大厦"
+}
+{ 
+    "_id" : ObjectId("5921b225ab62b40dc4f38a6c"), 
+    "tel" : "18551647614", 
+    "name" : "中民新能投资有限公司", 
+    "address" : "泰州- 青年南路红盾大厦"
+}
+{ 
+    "_id" : ObjectId("5921b244ab62b40dc4f38a6d"), 
+    "tel" : "13160058595", 
+    "name" : "中福天一投资担保有限公司", 
+    "address" : "泰州- 海陵南路306号市民服务中心大楼"
+}
+{ 
+    "_id" : ObjectId("5921b257ab62b40dc4f38a6e"), 
+    "tel" : "18203225912", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921b25cab62b40dc4f38a6f"), 
+    "tel" : "13294112877", 
+    "name" : "深圳市龙泰投资发展有限公司", 
+    "address" : "泰州- 人民路19号"
+}
+{ 
+    "_id" : ObjectId("5921b25dab62b40dc4f38a70"), 
+    "tel" : "18636156968", 
+    "name" : "铁汇投资（深圳）有限公司", 
+    "address" : "泰州- 人民路19号"
+}
+{ 
+    "_id" : ObjectId("5921b25fab62b40dc4f38a71"), 
+    "tel" : "15250433256", 
+    "name" : "庆阳阳光投资咨询有限公司", 
+    "address" : "泰州- 人民路37号"
+}
+{ 
+    "_id" : ObjectId("5921b261ab62b40dc4f38a72"), 
+    "tel" : "13197827803", 
+    "name" : "铁汇投资（深圳）有限公司", 
+    "address" : "泰州- 人民路23号"
+}
+{ 
+    "_id" : ObjectId("5921b263ab62b40dc4f38a73"), 
+    "tel" : "13162777797", 
+    "name" : "铁汇投资（深圳）有限公司", 
+    "address" : "泰州- 人民路58号"
+}
+{ 
+    "_id" : ObjectId("5921b263ab62b40dc4f38a74"), 
+    "tel" : "15818146237", 
+    "name" : "铁汇投资（深圳）有限公司", 
+    "address" : "泰州- 人民路78号"
+}
+{ 
+    "_id" : ObjectId("5921b265ab62b40dc4f38a75"), 
+    "tel" : "18640231087", 
+    "name" : "深圳市龙泰投资发展有限公司", 
+    "address" : "泰州- 人民路13号"
+}
+{ 
+    "_id" : ObjectId("5921b266ab62b40dc4f38a76"), 
+    "tel" : "13240152659", 
+    "name" : "深圳市阿春家投资管理有限公司", 
+    "address" : "泰州- 人民路88号"
+}
+{ 
+    "_id" : ObjectId("5921b268ab62b40dc4f38a77"), 
+    "tel" : "17084725722", 
+    "name" : "深圳市阿春家投资管理有限公司", 
+    "address" : "泰州- 人民路23号"
+}
+{ 
+    "_id" : ObjectId("5921b27aab62b40dc4f38a78"), 
+    "tel" : "18321203859", 
+    "name" : "四川青羊汇盈丰小额贷款有限责任公司", 
+    "address" : "泰州- 香江花园"
+}
+{ 
+    "_id" : ObjectId("5921b28bab62b40dc4f38a79"), 
+    "tel" : "17096889469", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "泰州- 市人民路136号"
+}
+{ 
+    "_id" : ObjectId("5921b28dab62b40dc4f38a7a"), 
+    "tel" : "18721175536", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b28eab62b40dc4f38a7b"), 
+    "tel" : "18721191336", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "泰州- 市人民路136号"
+}
+{ 
+    "_id" : ObjectId("5921b291ab62b40dc4f38a7c"), 
+    "tel" : "15275105736", 
+    "name" : "中信投资担保有限公司", 
+    "address" : "泰州- 电话:15275105736"
+}
+{ 
+    "_id" : ObjectId("5921b292ab62b40dc4f38a7d"), 
+    "tel" : "13162442389", 
+    "name" : "中信投资担保有限公司", 
+    "address" : "泰州- ....."
+}
+{ 
+    "_id" : ObjectId("5921b29cab62b40dc4f38a7e"), 
+    "tel" : "13365202500", 
+    "name" : "北京恒昌惠诚信息咨询有限公司潍坊第三分公司", 
+    "address" : "泰州- 万达广场"
+}
+{ 
+    "_id" : ObjectId("5921b2a8ab62b40dc4f38a7f"), 
+    "tel" : "18683826558", 
+    "name" : "河南金铂投资担保有限公司", 
+    "address" : "泰州- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("5921b2acab62b40dc4f38a80"), 
+    "tel" : "13149370399", 
+    "name" : "鄂州市永亨投资管理咨询有限公司", 
+    "address" : "泰州- 平安小贷公司"
+}
+{ 
+    "_id" : ObjectId("5921b2adab62b40dc4f38a81"), 
+    "tel" : "15626205344", 
+    "name" : "鄂州市永亨投资管理咨询有限公司", 
+    "address" : "泰州- 中信民间小额贷款"
+}
+{ 
+    "_id" : ObjectId("5921b2b4ab62b40dc4f38a82"), 
+    "tel" : "15680682116", 
+    "name" : "鄂州市永亨投资管理咨询有限公司", 
+    "address" : "泰州- 汇通贷款-专注个人贷款，无抵押，免担保，无任何前期费用"
+}
+{ 
+    "_id" : ObjectId("5921b2b6ab62b40dc4f38a83"), 
+    "tel" : "18583652129", 
+    "name" : "鄂州市永亨投资管理咨询有限公司", 
+    "address" : "泰州- 瑞泰小额贷款"
+}
+{ 
+    "_id" : ObjectId("5921b2b6ab62b40dc4f38a84"), 
+    "tel" : "13240446233", 
+    "name" : "无锡市科发投资担保有限公司", 
+    "address" : "泰州- 人民大道"
+}
+{ 
+    "_id" : ObjectId("5921b2c2ab62b40dc4f38a85"), 
+    "tel" : "18729009897", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("5921b2c5ab62b40dc4f38a86"), 
+    "tel" : "18760418423", 
+    "name" : "河南国贸投资担保有限公司", 
+    "address" : "泰州- 电话:18760418423"
+}
+{ 
+    "_id" : ObjectId("5921b2c6ab62b40dc4f38a87"), 
+    "tel" : "15626213816", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 建设中路"
+}
+{ 
+    "_id" : ObjectId("5921b2c8ab62b40dc4f38a88"), 
+    "tel" : "13248053978", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 汽车站旁"
+}
+{ 
+    "_id" : ObjectId("5921b2cbab62b40dc4f38a89"), 
+    "tel" : "17090240405", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 联系人:谭经理"
+}
+{ 
+    "_id" : ObjectId("5921b2cbab62b40dc4f38a8a"), 
+    "tel" : "17097071998", 
+    "name" : "平安贷款有限公司", 
+    "address" : "泰州- 贷款咨询：刘经理"
+}
+{ 
+    "_id" : ObjectId("5921b2ccab62b40dc4f38a8b"), 
+    "tel" : "18313973916", 
+    "name" : "安徽中安巨融融资担保股份有限公司", 
+    "address" : "泰州- 青年北路128号"
+}
+{ 
+    "_id" : ObjectId("5921b2cfab62b40dc4f38a8c"), 
+    "tel" : "18476658387", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921b2cfab62b40dc4f38a8d"), 
+    "tel" : "18320955957", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 海陵青年北路科技大厦804室，"
+}
+{ 
+    "_id" : ObjectId("5921b2d0ab62b40dc4f38a8e"), 
+    "tel" : "13189774435", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 海陵青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921b2d6ab62b40dc4f38a8f"), 
+    "tel" : "13023062673", 
+    "name" : "庆阳阳光投资咨询有限公司", 
+    "address" : "泰州- 建设路132号"
+}
+{ 
+    "_id" : ObjectId("5921b2d8ab62b40dc4f38a90"), 
+    "tel" : "18758273414", 
+    "name" : "上海中财融资担保有限公司", 
+    "address" : "泰州- 解放路37号"
+}
+{ 
+    "_id" : ObjectId("5921b2d9ab62b40dc4f38a91"), 
+    "tel" : "15599112318", 
+    "name" : "上海中财融资担保有限公司", 
+    "address" : "泰州- 和平中路73号"
+}
+{ 
+    "_id" : ObjectId("5921b2ddab62b40dc4f38a92"), 
+    "tel" : "15237168346", 
+    "name" : "开封市嘉鸿投资管理有限公司", 
+    "address" : "泰州- 人民路268"
+}
+{ 
+    "_id" : ObjectId("5921b2e4ab62b40dc4f38a93"), 
+    "tel" : "13813966896", 
+    "name" : "南京奥盈投资咨询有限公司", 
+    "address" : "泰州- 泰州市区投资大厦"
+}
+{ 
+    "_id" : ObjectId("5921b2f4ab62b40dc4f38a94"), 
+    "tel" : "15778367390", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921b2fdab62b40dc4f38a95"), 
+    "tel" : "13149717656", 
+    "name" : "辽宁中财融资担保有限公司", 
+    "address" : "泰州- 请联系黄经理"
+}
+{ 
+    "_id" : ObjectId("5921b2feab62b40dc4f38a96"), 
+    "tel" : "15067014688", 
+    "name" : "遵义市兴源投资担保有限公司", 
+    "address" : "泰州- 泰州市万达广场"
+}
+{ 
+    "_id" : ObjectId("5921b2ffab62b40dc4f38a97"), 
+    "tel" : "17095963497", 
+    "name" : "深圳市后来者投资有限公司", 
+    "address" : "泰州- 人民东路"
+}
+{ 
+    "_id" : ObjectId("5921b301ab62b40dc4f38a98"), 
+    "tel" : "15294228175", 
+    "name" : "辽宁中财融资担保有限公司", 
+    "address" : "泰州- 请电话黄经理"
+}
+{ 
+    "_id" : ObjectId("5921b302ab62b40dc4f38a99"), 
+    "tel" : "18285087495", 
+    "name" : "宁波恒德利投资咨询有限公司", 
+    "address" : "泰州- 请电话黄经理"
+}
+{ 
+    "_id" : ObjectId("5921b303ab62b40dc4f38a9a"), 
+    "tel" : "15848255475", 
+    "name" : "深圳市后来者投资有限公司", 
+    "address" : "泰州- 人民东路"
+}
+{ 
+    "_id" : ObjectId("5921b306ab62b40dc4f38a9b"), 
+    "tel" : "15601591159", 
+    "name" : "九信投资管理有限公司", 
+    "address" : "泰州- 南京-玄武 珠江路5号华利国际大厦（全省可以办理贷款）"
+}
+{ 
+    "_id" : ObjectId("5921b307ab62b40dc4f38a9c"), 
+    "tel" : "400-1848739-1508", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "泰州- 火车站斜对面"
+}
+{ 
+    "_id" : ObjectId("5921b30eab62b40dc4f38a9d"), 
+    "tel" : "13166047121", 
+    "name" : "上海市同益信贷投资有限公司", 
+    "address" : "泰州- 市财政局旁"
+}
+{ 
+    "_id" : ObjectId("5921b310ab62b40dc4f38a9e"), 
+    "tel" : "18556536382", 
+    "name" : "太平洋小额贷款有限公司", 
+    "address" : "泰州- 市财政局旁"
+}
+{ 
+    "_id" : ObjectId("5921b314ab62b40dc4f38a9f"), 
+    "tel" : "14747714285", 
+    "name" : "河南恒大投资担保有限公司", 
+    "address" : "泰州- 请电话联系...黄经理"
+}
+{ 
+    "_id" : ObjectId("5921b314ab62b40dc4f38aa0"), 
+    "tel" : "15730088509", 
+    "name" : "开封市嘉鸿投资管理有限公司", 
+    "address" : "泰州- 请联系15730088509"
+}
+{ 
+    "_id" : ObjectId("5921b316ab62b40dc4f38aa1"), 
+    "tel" : "18311611352", 
+    "name" : "重庆中财担保有限公司", 
+    "address" : "泰州- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("5921b317ab62b40dc4f38aa2"), 
+    "tel" : "13957425919", 
+    "name" : "遵义市兴源投资担保有限公司", 
+    "address" : "泰州- 13957425919"
+}
+{ 
+    "_id" : ObjectId("5921b317ab62b40dc4f38aa3"), 
+    "tel" : "18276126936", 
+    "name" : "开封市嘉鸿投资管理有限公司", 
+    "address" : "泰州- 来电详谈"
+}
+{ 
+    "_id" : ObjectId("5921b31aab62b40dc4f38aa4"), 
+    "tel" : "13060636891", 
+    "name" : "南昌中财担保有限公司", 
+    "address" : "泰州- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("5921b31aab62b40dc4f38aa5"), 
+    "tel" : "15034012088", 
+    "name" : "苏州融汇通投资有限公司", 
+    "address" : "泰州- 请联系15034012088"
+}
+{ 
+    "_id" : ObjectId("5921b31bab62b40dc4f38aa6"), 
+    "tel" : "13261221488", 
+    "name" : "苏州融汇通投资有限公司", 
+    "address" : "泰州- 请联系13261221488"
+}
+{ 
+    "_id" : ObjectId("5921b31eab62b40dc4f38aa7"), 
+    "tel" : "13632881009", 
+    "name" : "重庆中财担保有限公司", 
+    "address" : "泰州- 请联系13632881009"
+}
+{ 
+    "_id" : ObjectId("5921b31fab62b40dc4f38aa8"), 
+    "tel" : "15712336998", 
+    "name" : "重庆中财担保有限公司", 
+    "address" : "泰州- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("5921b320ab62b40dc4f38aa9"), 
+    "tel" : "15026618103", 
+    "name" : "六安市金正泰抵押贷款代理有限公司", 
+    "address" : "泰州- 请电话联系...黄经理"
+}
+{ 
+    "_id" : ObjectId("5921b322ab62b40dc4f38aaa"), 
+    "tel" : "13009135734", 
+    "name" : "深圳市龙泰投资发展有限公司", 
+    "address" : "泰州- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("5921b323ab62b40dc4f38aab"), 
+    "tel" : "15038113009", 
+    "name" : "莆田市金鹰融资担保有限公司", 
+    "address" : "泰州- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("5921b323ab62b40dc4f38aac"), 
+    "tel" : "17096509881", 
+    "name" : "深圳市龙泰投资发展有限公司", 
+    "address" : "泰州- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("5921b327ab62b40dc4f38aad"), 
+    "tel" : "18851643474", 
+    "name" : "苏州中亚投资担保有限公司", 
+    "address" : "泰州- 凤凰东路68号建工大厦"
+}
+{ 
+    "_id" : ObjectId("5921b328ab62b40dc4f38aae"), 
+    "tel" : "17099028696", 
+    "name" : "上海中财融资担保有限公司", 
+    "address" : "泰州- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("5921b330ab62b40dc4f38aaf"), 
+    "tel" : "13152351591", 
+    "name" : "南昌中财担保有限公司", 
+    "address" : "泰州- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("5921b331ab62b40dc4f38ab0"), 
+    "tel" : "13267933462", 
+    "name" : "深圳市龙泰投资发展有限公司", 
+    "address" : "泰州- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("5921b332ab62b40dc4f38ab1"), 
+    "tel" : "13182172927", 
+    "name" : "安徽兴飞投资咨询有限公司", 
+    "address" : "泰州- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("5921b334ab62b40dc4f38ab2"), 
+    "tel" : "15753182895", 
+    "name" : "河南嘉信投资担保有限公司", 
+    "address" : "泰州- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("5921b336ab62b40dc4f38ab3"), 
+    "tel" : "15078833152", 
+    "name" : "深圳市龙泰投资发展有限公司", 
+    "address" : "泰州- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("5921b33dab62b40dc4f38ab4"), 
+    "tel" : "18585072235", 
+    "name" : "合肥中财担保有限公司", 
+    "address" : "泰州- 地税局旁"
+}
+{ 
+    "_id" : ObjectId("5921b343ab62b40dc4f38ab5"), 
+    "tel" : "15894999046", 
+    "name" : "重庆中财担保有限公司", 
+    "address" : "泰州- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("5921b35eab62b40dc4f38ab6"), 
+    "tel" : "13121210811", 
+    "name" : "宜信普惠信息咨询（北京）有限公司苏州分公司", 
+    "address" : "泰州- 全市均可办理"
+}
+{ 
+    "_id" : ObjectId("5921b362ab62b40dc4f38ab7"), 
+    "tel" : "15982255039", 
+    "name" : "北京富安小额贷款有限公司", 
+    "address" : "泰州- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("5921b371ab62b40dc4f38ab8"), 
+    "tel" : "18217076108", 
+    "name" : "平安普惠投资咨询有限公司深圳龙岗大道营业部", 
+    "address" : "泰州- 金茂大厦"
+}
+{ 
+    "_id" : ObjectId("5921b38eab62b40dc4f38ab9"), 
+    "tel" : "18232180398", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 请联系18232180398"
+}
+{ 
+    "_id" : ObjectId("5921b38fab62b40dc4f38aba"), 
+    "tel" : "18423471725", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 请联系18423471725"
+}
+{ 
+    "_id" : ObjectId("5921b391ab62b40dc4f38abb"), 
+    "tel" : "13613218928", 
+    "name" : "哈尔滨盛世嘉吉融资担保有限公司", 
+    "address" : "泰州- 13613218928"
+}
+{ 
+    "_id" : ObjectId("5921b393ab62b40dc4f38abc"), 
+    "tel" : "13006521389", 
+    "name" : "哈尔滨盛世嘉吉融资担保有限公司", 
+    "address" : "泰州- 请联系13006521389"
+}
+{ 
+    "_id" : ObjectId("5921b395ab62b40dc4f38abd"), 
+    "tel" : "13572829207", 
+    "name" : "哈尔滨盛世嘉吉融资担保有限公司", 
+    "address" : "泰州- 请联系13572829207"
+}
+{ 
+    "_id" : ObjectId("5921b396ab62b40dc4f38abe"), 
+    "tel" : "18627806636", 
+    "name" : "佛山禅城中盈盛达小额贷款有限公司", 
+    "address" : "泰州- 18627806636"
+}
+{ 
+    "_id" : ObjectId("5921b397ab62b40dc4f38abf"), 
+    "tel" : "17095963565", 
+    "name" : "佛山禅城中盈盛达小额贷款有限公司", 
+    "address" : "泰州- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("5921b399ab62b40dc4f38ac0"), 
+    "tel" : "18329966783", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 18329966783"
+}
+{ 
+    "_id" : ObjectId("5921b39aab62b40dc4f38ac1"), 
+    "tel" : "18822685156", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 请联系18822685156"
+}
+{ 
+    "_id" : ObjectId("5921b39cab62b40dc4f38ac2"), 
+    "tel" : "15712336298", 
+    "name" : "哈尔滨盛世嘉吉融资担保有限公司", 
+    "address" : "泰州- 请联系15712336298"
+}
+{ 
+    "_id" : ObjectId("5921b39dab62b40dc4f38ac3"), 
+    "tel" : "18275765778", 
+    "name" : "佛山禅城中盈盛达小额贷款有限公司", 
+    "address" : "泰州- 18275765778"
+}
+{ 
+    "_id" : ObjectId("5921b3adab62b40dc4f38ac4"), 
+    "tel" : "15190062248", 
+    "name" : "北京富安小额贷款有限公司", 
+    "address" : "泰州- 15190062248"
+}
+{ 
+    "_id" : ObjectId("5921b3adab62b40dc4f38ac5"), 
+    "tel" : "13437122468", 
+    "name" : "平顶山市新华区中小企业投资担保有限公司", 
+    "address" : "泰州- 13437122468"
+}
+{ 
+    "_id" : ObjectId("5921b3afab62b40dc4f38ac6"), 
+    "tel" : "18734586337", 
+    "name" : "北京富安小额贷款有限公司", 
+    "address" : "泰州- 18734586337"
+}
+{ 
+    "_id" : ObjectId("5921b3fcab62b40dc4f38ac7"), 
+    "tel" : "17079052008", 
+    "name" : "铁汇投资(深圳)有限公司", 
+    "address" : "泰州- 区政府附近"
+}
+{ 
+    "_id" : ObjectId("5921b3fdab62b40dc4f38ac8"), 
+    "tel" : "17073805362", 
+    "name" : "铁汇投资(深圳)有限公司", 
+    "address" : "泰州- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("5921b3feab62b40dc4f38ac9"), 
+    "tel" : "18865923302", 
+    "name" : "广西和信高盛非融资性担保有限公司", 
+    "address" : "泰州- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("5921b3ffab62b40dc4f38aca"), 
+    "tel" : "15918669656", 
+    "name" : "广西和信高盛非融资性担保有限公司", 
+    "address" : "泰州- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("5921b404ab62b40dc4f38acb"), 
+    "tel" : "17082765297", 
+    "name" : "铁汇投资(深圳)有限公司", 
+    "address" : "泰州- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("5921b407ab62b40dc4f38acc"), 
+    "tel" : "18829512138", 
+    "name" : "中安信贷金融投资有限公司", 
+    "address" : "泰州- 贷款热线：18829512138"
+}
+{ 
+    "_id" : ObjectId("5921b409ab62b40dc4f38acd"), 
+    "tel" : "15721512898", 
+    "name" : "中安信贷金融投资有限公司", 
+    "address" : "泰州- 贷款热线：15721512898"
+}
+{ 
+    "_id" : ObjectId("5921b40cab62b40dc4f38ace"), 
+    "tel" : "17095163480", 
+    "name" : "亚安天宇投资担保有限公司", 
+    "address" : "泰州- 鼓楼南路355号金地商务大厦"
+}
+{ 
+    "_id" : ObjectId("5921b422ab62b40dc4f38acf"), 
+    "tel" : "13559113496", 
+    "name" : "北京中金汇投资担保有限公司", 
+    "address" : "泰州- 请联系13559113496"
+}
+{ 
+    "_id" : ObjectId("5921b428ab62b40dc4f38ad0"), 
+    "tel" : "15195467884", 
+    "name" : "中世华德投资担保有限公司", 
+    "address" : "泰州- 南通路22号五里桥农行大楼"
+}
+{ 
+    "_id" : ObjectId("5921b429ab62b40dc4f38ad1"), 
+    "tel" : "13867821372", 
+    "name" : "指月集团有限公司", 
+    "address" : "泰州- 查看地图"
+}
+{ 
+    "_id" : ObjectId("5921b435ab62b40dc4f38ad2"), 
+    "tel" : "13914468202", 
+    "name" : "南京新经融担保有限公司", 
+    "address" : "泰州- 泰州各地来访"
+}
+{ 
+    "_id" : ObjectId("5921b438ab62b40dc4f38ad3"), 
+    "tel" : "13610814325", 
+    "name" : "上海益能科创贸易有限公司", 
+    "address" : "泰州- 查看地图"
+}
+{ 
+    "_id" : ObjectId("5921b43cab62b40dc4f38ad4"), 
+    "tel" : "18620977702", 
+    "name" : "中信投资担保有限公司", 
+    "address" : "泰州- 本市地区顾客服务到家、期待您的电话。"
+}
+{ 
+    "_id" : ObjectId("5921b44bab62b40dc4f38ad5"), 
+    "tel" : "18625170328", 
+    "name" : "速融融资担保有限公司", 
+    "address" : "泰州- 青年北路188号"
+}
+{ 
+    "_id" : ObjectId("5921b46bab62b40dc4f38ad6"), 
+    "tel" : "13609874100", 
+    "name" : "长城国融投资管理有限公司", 
+    "address" : "泰州- 全市均可办理"
+}
+{ 
+    "_id" : ObjectId("5921b488ab62b40dc4f38ad7"), 
+    "tel" : "18317958811", 
+    "name" : "浙川县农汇食品销售有限公司", 
+    "address" : "泰州- 东风南路18号。"
+}
+{ 
+    "_id" : ObjectId("5921b492ab62b40dc4f38ad8"), 
+    "tel" : "18388129855", 
+    "name" : "浙川县农汇食品销售有限公司", 
+    "address" : "泰州- 青年北路"
+}
+{ 
+    "_id" : ObjectId("5921b493ab62b40dc4f38ad9"), 
+    "tel" : "18291925918", 
+    "name" : "浙川县农汇食品销售有限公司", 
+    "address" : "泰州- 青年南路"
+}
+{ 
+    "_id" : ObjectId("5921b49cab62b40dc4f38ada"), 
+    "tel" : "13400071931", 
+    "name" : "红枫资本投资管理有限公司", 
+    "address" : "泰州- 全市均可办理"
+}
+{ 
+    "_id" : ObjectId("5921b49dab62b40dc4f38adb"), 
+    "tel" : "13400073267", 
+    "name" : "红枫资本投资管理有限公司", 
+    "address" : "泰州- 全市均可办理"
+}
+{ 
+    "_id" : ObjectId("5921b49eab62b40dc4f38adc"), 
+    "tel" : "18651820265", 
+    "name" : "扬州市企融商务管理有限公司", 
+    "address" : "泰州- 珠江路88号"
+}
+{ 
+    "_id" : ObjectId("5921b542ab62b40dc4f38add"), 
+    "tel" : "18221539627", 
+    "name" : "上海中财融资担保有限公司", 
+    "address" : "泰州- 全市均可办"
+}
+{ 
+    "_id" : ObjectId("5921b56cab62b40dc4f38ade"), 
+    "tel" : "15778062526", 
+    "name" : "浙川县农汇食品销售有限公司", 
+    "address" : "泰州- 中银贷款公司"
+}
+{ 
+    "_id" : ObjectId("5921b56dab62b40dc4f38adf"), 
+    "tel" : "15215702811", 
+    "name" : "安徽中安巨融融资担保股份有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b573ab62b40dc4f38ae0"), 
+    "tel" : "18380284898", 
+    "name" : "济南中财广角担保有限公司", 
+    "address" : "泰州- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("5921b585ab62b40dc4f38ae1"), 
+    "tel" : "15928989537", 
+    "name" : "南昌中财担保有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b5a5ab62b40dc4f38ae2"), 
+    "tel" : "15254105688", 
+    "name" : "浙川县农汇食品销售有限公司", 
+    "address" : "泰州- 青年北路"
+}
+{ 
+    "_id" : ObjectId("5921b5c6ab62b40dc4f38ae3"), 
+    "tel" : "15705977657", 
+    "name" : "浙川县农汇食品销售有限公司", 
+    "address" : "泰州- 人民西路"
+}
+{ 
+    "_id" : ObjectId("5921b5d0ab62b40dc4f38ae4"), 
+    "tel" : "15730407577", 
+    "name" : "福建中才担保有限公司", 
+    "address" : "泰州- 泰州海陵"
+}
+{ 
+    "_id" : ObjectId("5921b61aab62b40dc4f38ae5"), 
+    "tel" : "18217080010", 
+    "name" : "福建中财担保有限公司", 
+    "address" : "泰州- 海陵海陵"
+}
+{ 
+    "_id" : ObjectId("5921b6e6ab62b40dc4f38ae6"), 
+    "tel" : "13923875808", 
+    "name" : "广东国龙贵金属经营有限公司", 
+    "address" : "泰州- 泰州市海陵"
+}
+{ 
+    "_id" : ObjectId("5921b6f1ab62b40dc4f38ae7"), 
+    "tel" : "15753169560", 
+    "name" : "黑龙江省水利四处工程有限责任公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b6f2ab62b40dc4f38ae8"), 
+    "tel" : "15053193629", 
+    "name" : "重庆建工第七建筑工程有限责任公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921b72aab62b40dc4f38ae9"), 
+    "tel" : "18321533978", 
+    "name" : "鸣泰投资管理（上海）有限公司", 
+    "address" : "泰州- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("5921b72bab62b40dc4f38aea"), 
+    "tel" : "18313906711", 
+    "name" : "河南国贸投资担保有限公司", 
+    "address" : "泰州- 财政局旁"
+}
+{ 
+    "_id" : ObjectId("5921b72eab62b40dc4f38aeb"), 
+    "tel" : "18888675226", 
+    "name" : "重庆中财担保有限公司", 
+    "address" : "泰州- 本市及周边"
+}
+{ 
+    "_id" : ObjectId("5921b7ccab62b40dc4f38aec"), 
+    "tel" : "13713920755", 
+    "name" : "深圳融通华商金融服务有限公司", 
+    "address" : "泰州- 深圳市南山区前海深港合作区综合办公楼A栋201室"
+}
+{ 
+    "_id" : ObjectId("5921b8fbab62b40dc4f38aed"), 
+    "tel" : "18392593797", 
+    "name" : "五原县九郡小额贷款有限公司", 
+    "address" : "泰州- 财政局旁"
+}
+{ 
+    "_id" : ObjectId("5921b967ab62b40dc4f38aee"), 
+    "tel" : "18353101288", 
+    "name" : "浙川县农汇食品销售有限公司", 
+    "address" : "泰州- 青年南路"
+}
+{ 
+    "_id" : ObjectId("5921b96aab62b40dc4f38aef"), 
+    "tel" : "18362053839", 
+    "name" : "浙川县农汇食品销售有限公司", 
+    "address" : "泰州- 青年北路"
+}
+{ 
+    "_id" : ObjectId("5921b977ab62b40dc4f38af0"), 
+    "tel" : "18313780728", 
+    "name" : "北京中金汇投资担保有限公司", 
+    "address" : "泰州- 国税局旁"
+}
+{ 
+    "_id" : ObjectId("5921ba6dab62b40dc4f38af1"), 
+    "tel" : "15165187370", 
+    "name" : "陕西金丰泽担保有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921ba74ab62b40dc4f38af2"), 
+    "tel" : "15052800051", 
+    "name" : "信和汇金信息咨询北京有限公司泰州分公司", 
+    "address" : "泰州- 万达广场写字楼8楼"
+}
+{ 
+    "_id" : ObjectId("5921ba7fab62b40dc4f38af3"), 
+    "tel" : "15906708095", 
+    "name" : "苏州金石投资管理股份有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bab0ab62b40dc4f38af4"), 
+    "tel" : "17090454478", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 汽车站旁"
+}
+{ 
+    "_id" : ObjectId("5921bab1ab62b40dc4f38af5"), 
+    "tel" : "17090454461", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 汽车站旁"
+}
+{ 
+    "_id" : ObjectId("5921bab2ab62b40dc4f38af6"), 
+    "tel" : "17090452448", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 汽车站旁"
+}
+{ 
+    "_id" : ObjectId("5921bac4ab62b40dc4f38af7"), 
+    "tel" : "18201724788", 
+    "name" : "成都轩鼎投资担保有限公司", 
+    "address" : "泰州- 全市服务"
+}
+{ 
+    "_id" : ObjectId("5921bb43ab62b40dc4f38af8"), 
+    "tel" : "18537111424", 
+    "name" : "中投诺恩投资咨询有限公司", 
+    "address" : "泰州- 全市均可办理"
+}
+{ 
+    "_id" : ObjectId("5921bb7eab62b40dc4f38af9"), 
+    "tel" : "15990906675", 
+    "name" : "河南国贸投资担保有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bb7fab62b40dc4f38afa"), 
+    "tel" : "13807659387", 
+    "name" : "国贸投资担保有限公司", 
+    "address" : "泰州- 贷款热线:13807659387"
+}
+{ 
+    "_id" : ObjectId("5921bb7fab62b40dc4f38afb"), 
+    "tel" : "13067788091", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bb9bab62b40dc4f38afc"), 
+    "tel" : "15366108335", 
+    "name" : "南京润海投资咨询有限公司", 
+    "address" : "泰州- 中山南路同坤大厦"
+}
+{ 
+    "_id" : ObjectId("5921bbabab62b40dc4f38afd"), 
+    "tel" : "15069059606", 
+    "name" : "北京振华投资有限公司", 
+    "address" : "泰州- 158号"
+}
+{ 
+    "_id" : ObjectId("5921bbaeab62b40dc4f38afe"), 
+    "tel" : "15966339687", 
+    "name" : "山东金凯利投资担保有限公司", 
+    "address" : "泰州- 1010"
+}
+{ 
+    "_id" : ObjectId("5921bbafab62b40dc4f38aff"), 
+    "tel" : "15106955975", 
+    "name" : "济南中财广角担保有限公司", 
+    "address" : "泰州- 全市服务"
+}
+{ 
+    "_id" : ObjectId("5921bbb0ab62b40dc4f38b00"), 
+    "tel" : "18551634563", 
+    "name" : "中海信达担保有限公司", 
+    "address" : "泰州- 数据园路1号数据大厦"
+}
+{ 
+    "_id" : ObjectId("5921bbb9ab62b40dc4f38b01"), 
+    "tel" : "17082178879", 
+    "name" : "福建中财担保有限公司", 
+    "address" : "泰州- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("5921bbbbab62b40dc4f38b02"), 
+    "tel" : "17077100957", 
+    "name" : "铁汇投资(深圳)有限公司", 
+    "address" : "泰州- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("5921bbc5ab62b40dc4f38b03"), 
+    "tel" : "15900950782", 
+    "name" : "北京中投创富投资有限公司", 
+    "address" : "泰州- 1005"
+}
+{ 
+    "_id" : ObjectId("5921bbc9ab62b40dc4f38b04"), 
+    "tel" : "17078250812", 
+    "name" : "深圳市恒信通小额贷款有限公司", 
+    "address" : "泰州- 泰州海陵"
+}
+{ 
+    "_id" : ObjectId("5921bbcbab62b40dc4f38b05"), 
+    "tel" : "15900952869", 
+    "name" : "河南金铂投资担保有限公司", 
+    "address" : "泰州- 1608"
+}
+{ 
+    "_id" : ObjectId("5921bbcfab62b40dc4f38b06"), 
+    "tel" : "13816459123", 
+    "name" : "江苏嘉实投资担保有限公司", 
+    "address" : "泰州- 建工大厦"
+}
+{ 
+    "_id" : ObjectId("5921bbdeab62b40dc4f38b07"), 
+    "tel" : "13335690989", 
+    "name" : "江苏嘉实投资担保有限公司", 
+    "address" : "泰州- 海陵东路"
+}
+{ 
+    "_id" : ObjectId("5921bbedab62b40dc4f38b08"), 
+    "tel" : "15921917693", 
+    "name" : "安阳荣丰投资担保有限公司", 
+    "address" : "泰州- 农业大厦"
+}
+{ 
+    "_id" : ObjectId("5921bbeeab62b40dc4f38b09"), 
+    "tel" : "18721225996", 
+    "name" : "平顶山市新华区中小企业投资担保有限公司", 
+    "address" : "泰州- 东河佳园"
+}
+{ 
+    "_id" : ObjectId("5921bbefab62b40dc4f38b0a"), 
+    "tel" : "15601591197", 
+    "name" : "华融通宝投资担保有限责任公司", 
+    "address" : "泰州- 迎春东路129号水务大厦"
+}
+{ 
+    "_id" : ObjectId("5921bbf0ab62b40dc4f38b0b"), 
+    "tel" : "18721217696", 
+    "name" : "成都高新锦泓小额贷款有限责任公司", 
+    "address" : "泰州- 香江花园"
+}
+{ 
+    "_id" : ObjectId("5921bc07ab62b40dc4f38b0c"), 
+    "tel" : "13671985889", 
+    "name" : "上海中财融资担保有限公司", 
+    "address" : "泰州- 13671985889"
+}
+{ 
+    "_id" : ObjectId("5921bc08ab62b40dc4f38b0d"), 
+    "tel" : "13876694560", 
+    "name" : "河南小康明华投资担保有限公司", 
+    "address" : "泰州- 13876694560"
+}
+{ 
+    "_id" : ObjectId("5921bc09ab62b40dc4f38b0e"), 
+    "tel" : "13840576532", 
+    "name" : "上海中财融资担保有限公司", 
+    "address" : "泰州- 13840576532"
+}
+{ 
+    "_id" : ObjectId("5921bc0bab62b40dc4f38b0f"), 
+    "tel" : "18388118658", 
+    "name" : "河北广丰担保有限公司", 
+    "address" : "泰州- 18388118658"
+}
+{ 
+    "_id" : ObjectId("5921bc0cab62b40dc4f38b10"), 
+    "tel" : "15168268266", 
+    "name" : "遵义市兴源投资担保有限公司", 
+    "address" : "泰州- 15168268266"
+}
+{ 
+    "_id" : ObjectId("5921bc0dab62b40dc4f38b11"), 
+    "tel" : "13933192296", 
+    "name" : "遵义市兴源投资担保有限公司", 
+    "address" : "泰州- 请联系13933192296"
+}
+{ 
+    "_id" : ObjectId("5921bc0eab62b40dc4f38b12"), 
+    "tel" : "13929558248", 
+    "name" : "深圳市汇融担保有限公司", 
+    "address" : "泰州- 13929558248"
+}
+{ 
+    "_id" : ObjectId("5921bc10ab62b40dc4f38b13"), 
+    "tel" : "18801238912", 
+    "name" : "北京金成锦华融资担保有限公司", 
+    "address" : "泰州- 18801238912"
+}
+{ 
+    "_id" : ObjectId("5921bc11ab62b40dc4f38b14"), 
+    "tel" : "15726182158", 
+    "name" : "遵义市兴源投资担保有限公司", 
+    "address" : "泰州- 15726182158"
+}
+{ 
+    "_id" : ObjectId("5921bc12ab62b40dc4f38b15"), 
+    "tel" : "15945154009", 
+    "name" : "北京富安小额贷款有限公司", 
+    "address" : "泰州- 电话  15945154009"
+}
+{ 
+    "_id" : ObjectId("5921bc13ab62b40dc4f38b16"), 
+    "tel" : "15056083296", 
+    "name" : "北京金成锦华融资担保有限公司", 
+    "address" : "泰州- 15056083296"
+}
+{ 
+    "_id" : ObjectId("5921bc18ab62b40dc4f38b17"), 
+    "tel" : "18565552447", 
+    "name" : "上海嘉定祥融小额贷款有限公司", 
+    "address" : "泰州- 地税局旁"
+}
+{ 
+    "_id" : ObjectId("5921bc1aab62b40dc4f38b18"), 
+    "tel" : "18835117478", 
+    "name" : "哈尔滨盛世嘉吉融资担保有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bc1cab62b40dc4f38b19"), 
+    "tel" : "17099028442", 
+    "name" : "河南国贸投资担保有限公司", 
+    "address" : "泰州- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("5921bc1dab62b40dc4f38b1a"), 
+    "tel" : "13923785128", 
+    "name" : "佛山禅城中盈盛达小额贷款有限公司", 
+    "address" : "泰州- 请联系 13923785128"
+}
+{ 
+    "_id" : ObjectId("5921bc1fab62b40dc4f38b1b"), 
+    "tel" : "18735367315", 
+    "name" : "河南国贸投资担保有限公司", 
+    "address" : "泰州- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("5921bc21ab62b40dc4f38b1c"), 
+    "tel" : "13646676588", 
+    "name" : "哈尔滨盛世嘉吉融资担保有限公司", 
+    "address" : "泰州- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("5921bc3eab62b40dc4f38b1d"), 
+    "tel" : "18288665955", 
+    "name" : "莆田市金鹰融资担保有限公司", 
+    "address" : "泰州- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("5921bc41ab62b40dc4f38b1e"), 
+    "tel" : "18457050950", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 电话： 18457050950"
+}
+{ 
+    "_id" : ObjectId("5921bc66ab62b40dc4f38b1f"), 
+    "tel" : "13189183030", 
+    "name" : "无锡市科发投资担保有限公司", 
+    "address" : "泰州- 88-8号"
+}
+{ 
+    "_id" : ObjectId("5921bc73ab62b40dc4f38b20"), 
+    "tel" : "17098311695", 
+    "name" : "北京市易贷金融投资管理有限公司", 
+    "address" : "泰州- 市财政局4楼"
+}
+{ 
+    "_id" : ObjectId("5921bc77ab62b40dc4f38b21"), 
+    "tel" : "15778013768", 
+    "name" : "淅川县农汇食品销售有限公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921bc7fab62b40dc4f38b22"), 
+    "tel" : "15035530477", 
+    "name" : "河南嘉信投资担保有限公司", 
+    "address" : "泰州- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("5921bc80ab62b40dc4f38b23"), 
+    "tel" : "13261991292", 
+    "name" : "辽宁中财融资担保有限公司", 
+    "address" : "泰州- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("5921bc82ab62b40dc4f38b24"), 
+    "tel" : "13771164862", 
+    "name" : "杭州悦阔投资管理有限公司", 
+    "address" : "泰州- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("5921bc83ab62b40dc4f38b25"), 
+    "tel" : "18575357469", 
+    "name" : "辽宁中财融资担保有限公司", 
+    "address" : "泰州- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("5921bc84ab62b40dc4f38b26"), 
+    "tel" : "17889922562", 
+    "name" : "杭州悦阔投资管理有限公司", 
+    "address" : "泰州- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("5921bc86ab62b40dc4f38b27"), 
+    "tel" : "15848253549", 
+    "name" : "上海中财融资担保有限公司", 
+    "address" : "泰州- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("5921bc87ab62b40dc4f38b28"), 
+    "tel" : "18789015571", 
+    "name" : "北京中金汇投资担保有限公司", 
+    "address" : "泰州- 请联系18789015571"
+}
+{ 
+    "_id" : ObjectId("5921bc88ab62b40dc4f38b29"), 
+    "tel" : "18434594708", 
+    "name" : "河南恒大投资担保有限公司", 
+    "address" : "泰州- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("5921bc89ab62b40dc4f38b2a"), 
+    "tel" : "15198165205", 
+    "name" : "重庆中财担保有限公司", 
+    "address" : "泰州- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("5921bc8bab62b40dc4f38b2b"), 
+    "tel" : "15733229409", 
+    "name" : "北京富安小额贷款有限公司", 
+    "address" : "泰州- 联系电话15733229409"
+}
+{ 
+    "_id" : ObjectId("5921bc8dab62b40dc4f38b2c"), 
+    "tel" : "13125320215", 
+    "name" : "深圳市银慧小额信贷有限公司", 
+    "address" : "泰州- 13125320215"
+}
+{ 
+    "_id" : ObjectId("5921bc8eab62b40dc4f38b2d"), 
+    "tel" : "18770039458", 
+    "name" : "南昌中财担保有限公司", 
+    "address" : "泰州- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("5921bc8fab62b40dc4f38b2e"), 
+    "tel" : "18896591806", 
+    "name" : "遵义市兴源投资担保有限公司", 
+    "address" : "泰州- 18896591806"
+}
+{ 
+    "_id" : ObjectId("5921bc92ab62b40dc4f38b2f"), 
+    "tel" : "15828188771", 
+    "name" : "开封市嘉鸿投资管理有限公司", 
+    "address" : "泰州- 来电 咨询"
+}
+{ 
+    "_id" : ObjectId("5921bc92ab62b40dc4f38b30"), 
+    "tel" : "18275860108", 
+    "name" : "莆田市金鹰融资担保有限公司", 
+    "address" : "泰州- 市政府前面请电话联系"
+}
+{ 
+    "_id" : ObjectId("5921bc93ab62b40dc4f38b31"), 
+    "tel" : "17093113441", 
+    "name" : "深圳市龙泰投资发展有限公司", 
+    "address" : "泰州- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("5921bc94ab62b40dc4f38b32"), 
+    "tel" : "15564104491", 
+    "name" : "宁波京浙盛投资管理有限公司", 
+    "address" : "泰州- 市政府前面请电话联系"
+}
+{ 
+    "_id" : ObjectId("5921bc95ab62b40dc4f38b33"), 
+    "tel" : "17092742693", 
+    "name" : "深圳市龙泰投资发展有限公司", 
+    "address" : "泰州- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("5921bc97ab62b40dc4f38b34"), 
+    "tel" : "15202611668", 
+    "name" : "深圳市阿春家投资管理有限公司", 
+    "address" : "泰州- 市政府前面请电话联系"
+}
+{ 
+    "_id" : ObjectId("5921bc98ab62b40dc4f38b35"), 
+    "tel" : "17095757416", 
+    "name" : "深圳市阿春家投资管理有限公司", 
+    "address" : "泰州- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("5921bc9cab62b40dc4f38b36"), 
+    "tel" : "17092912861", 
+    "name" : "深圳市阿春家投资管理有限公司", 
+    "address" : "泰州- 市政府前面请电话联系"
+}
+{ 
+    "_id" : ObjectId("5921bc9dab62b40dc4f38b37"), 
+    "tel" : "13127548988", 
+    "name" : "深圳市阿春家投资管理有限公司", 
+    "address" : "泰州- 市政府前面请电话联系"
+}
+{ 
+    "_id" : ObjectId("5921bc9fab62b40dc4f38b38"), 
+    "tel" : "17095963539", 
+    "name" : "辽宁中财融资担保有限公司", 
+    "address" : "泰州- 请电话联系...黄经理"
+}
+{ 
+    "_id" : ObjectId("5921bca1ab62b40dc4f38b39"), 
+    "tel" : "15982271052", 
+    "name" : "深圳市后来者投资有限公司", 
+    "address" : "泰州- 市政府前面"
+}
+{ 
+    "_id" : ObjectId("5921bca2ab62b40dc4f38b3a"), 
+    "tel" : "15929324575", 
+    "name" : "深圳市阿春家投资管理有限公司", 
+    "address" : "泰州- 来电 咨询"
+}
+{ 
+    "_id" : ObjectId("5921bca4ab62b40dc4f38b3b"), 
+    "tel" : "15501178696", 
+    "name" : "上海中财融资担保有限公司", 
+    "address" : "泰州- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("5921bca6ab62b40dc4f38b3c"), 
+    "tel" : "17093000925", 
+    "name" : "太平洋小额贷款有限公司", 
+    "address" : "泰州- 市财政局旁"
+}
+{ 
+    "_id" : ObjectId("5921bca6ab62b40dc4f38b3d"), 
+    "tel" : "18789770322", 
+    "name" : "太平洋小额贷款有限公司", 
+    "address" : "泰州- 市财政局旁"
+}
+{ 
+    "_id" : ObjectId("5921bca8ab62b40dc4f38b3e"), 
+    "tel" : "15510217228", 
+    "name" : "太平洋小额贷款有限公司", 
+    "address" : "泰州- 市财政局旁"
+}
+{ 
+    "_id" : ObjectId("5921bca9ab62b40dc4f38b3f"), 
+    "tel" : "17093792878", 
+    "name" : "金鼎信贷金融投资有限公司", 
+    "address" : "泰州- 市财政局旁"
+}
+{ 
+    "_id" : ObjectId("5921bcabab62b40dc4f38b40"), 
+    "tel" : "17098319018", 
+    "name" : "金鼎信贷金融投资有限公司", 
+    "address" : "泰州- 市财政局旁"
+}
+{ 
+    "_id" : ObjectId("5921bcacab62b40dc4f38b41"), 
+    "tel" : "15799024609", 
+    "name" : "深圳市后来者投资有限公司", 
+    "address" : "泰州- 人民东路"
+}
+{ 
+    "_id" : ObjectId("5921bcadab62b40dc4f38b42"), 
+    "tel" : "13042111066", 
+    "name" : "金鼎信贷投资有限公司", 
+    "address" : "泰州- 市人民政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bcaeab62b40dc4f38b43"), 
+    "tel" : "13262741588", 
+    "name" : "金鼎信贷投资有限公司", 
+    "address" : "泰州- 市人民政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bcb0ab62b40dc4f38b44"), 
+    "tel" : "13229952006", 
+    "name" : "金鼎信贷投资有限公司", 
+    "address" : "泰州- 金鼎信贷投资有限公司"
+}
+{ 
+    "_id" : ObjectId("5921bcb1ab62b40dc4f38b45"), 
+    "tel" : "15559668280", 
+    "name" : "太平洋小额贷款有限公司", 
+    "address" : "泰州- 市财政局旁"
+}
+{ 
+    "_id" : ObjectId("5921bcb2ab62b40dc4f38b46"), 
+    "tel" : "15530441669", 
+    "name" : "太平洋小额贷款有限公司", 
+    "address" : "泰州- 市财政局旁"
+}
+{ 
+    "_id" : ObjectId("5921bcb4ab62b40dc4f38b47"), 
+    "tel" : "15512272615", 
+    "name" : "金鼎信贷投资有限公司", 
+    "address" : "泰州- 市财政局"
+}
+{ 
+    "_id" : ObjectId("5921bcb7ab62b40dc4f38b48"), 
+    "tel" : "15626491680", 
+    "name" : "河南智合投资担保有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bcb8ab62b40dc4f38b49"), 
+    "tel" : "15626491681", 
+    "name" : "辽宁闽隆融资担保有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bcbcab62b40dc4f38b4a"), 
+    "tel" : "17858898189", 
+    "name" : "顺丰无抵押贷款有限公司", 
+    "address" : "泰州- 区政府102号"
+}
+{ 
+    "_id" : ObjectId("5921bcbfab62b40dc4f38b4b"), 
+    "tel" : "13093451659", 
+    "name" : "重庆中财担保有限公司", 
+    "address" : "泰州- 中银大厦18号"
+}
+{ 
+    "_id" : ObjectId("5921bcc0ab62b40dc4f38b4c"), 
+    "tel" : "13240156310", 
+    "name" : "宁波京浙盛投资管理有限公司", 
+    "address" : "泰州- 建设路188-6"
+}
+{ 
+    "_id" : ObjectId("5921bcc1ab62b40dc4f38b4d"), 
+    "tel" : "13145653036", 
+    "name" : "深圳市阿春家投资管理有限公司", 
+    "address" : "泰州- 八一路688号"
+}
+{ 
+    "_id" : ObjectId("5921bcc7ab62b40dc4f38b4e"), 
+    "tel" : "13281463243", 
+    "name" : "合肥中财担保有限公司", 
+    "address" : "泰州- 东风西路180-2"
+}
+{ 
+    "_id" : ObjectId("5921bcceab62b40dc4f38b4f"), 
+    "tel" : "18362961074", 
+    "name" : "江苏环都投资有限公司", 
+    "address" : "泰州- 青年北路219号金茂大厦"
+}
+{ 
+    "_id" : ObjectId("5921bce4ab62b40dc4f38b50"), 
+    "tel" : "15778300279", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921bce5ab62b40dc4f38b51"), 
+    "tel" : "15753171928", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 地税局旁"
+}
+{ 
+    "_id" : ObjectId("5921bd0eab62b40dc4f38b52"), 
+    "tel" : "18302860867", 
+    "name" : "中信投资担保有限公司", 
+    "address" : "泰州- 联系人:谭经理"
+}
+{ 
+    "_id" : ObjectId("5921bd10ab62b40dc4f38b53"), 
+    "tel" : "13237083910", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 电话:13237083910"
+}
+{ 
+    "_id" : ObjectId("5921bd11ab62b40dc4f38b54"), 
+    "tel" : "13076036595", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 电话：13076036595"
+}
+{ 
+    "_id" : ObjectId("5921bd12ab62b40dc4f38b55"), 
+    "tel" : "18655505226", 
+    "name" : "中信投资担保有限公司", 
+    "address" : "泰州- 贵宾电话：18655505226"
+}
+{ 
+    "_id" : ObjectId("5921bd12ab62b40dc4f38b56"), 
+    "tel" : "13059706829", 
+    "name" : "平安小额贷款有限公司", 
+    "address" : "泰州- 贷款咨询：刘经理"
+}
+{ 
+    "_id" : ObjectId("5921bd14ab62b40dc4f38b57"), 
+    "tel" : "15600793169", 
+    "name" : "国贸投资担保有限公司", 
+    "address" : "泰州- 贷款热线:15600793169"
+}
+{ 
+    "_id" : ObjectId("5921bd16ab62b40dc4f38b58"), 
+    "tel" : "15678127760", 
+    "name" : "河南国贸投资担保有限公司", 
+    "address" : "泰州- 贷款咨询;15678127760"
+}
+{ 
+    "_id" : ObjectId("5921bd18ab62b40dc4f38b59"), 
+    "tel" : "13059707069", 
+    "name" : "富安小额贷款有限公司", 
+    "address" : "泰州- 电话：13059707069"
+}
+{ 
+    "_id" : ObjectId("5921bd19ab62b40dc4f38b5a"), 
+    "tel" : "15281056857", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 联系人:王经理"
+}
+{ 
+    "_id" : ObjectId("5921bd27ab62b40dc4f38b5b"), 
+    "tel" : "13268358475", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 本市中心"
+}
+{ 
+    "_id" : ObjectId("5921bd29ab62b40dc4f38b5c"), 
+    "tel" : "18301826298", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 本市中心"
+}
+{ 
+    "_id" : ObjectId("5921bd2cab62b40dc4f38b5d"), 
+    "tel" : "18321359208", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 本市中心"
+}
+{ 
+    "_id" : ObjectId("5921bd31ab62b40dc4f38b5e"), 
+    "tel" : "18251951711", 
+    "name" : "南京市玄武区小吉投资管理咨询中心", 
+    "address" : "泰州- 海陵路3号"
+}
+{ 
+    "_id" : ObjectId("5921bd34ab62b40dc4f38b5f"), 
+    "tel" : "18761841148", 
+    "name" : "南京祝夏投资管理有限公司", 
+    "address" : "泰州- 水乡东路136号"
+}
+{ 
+    "_id" : ObjectId("5921bd36ab62b40dc4f38b60"), 
+    "tel" : "13601659983", 
+    "name" : "兰州市西固区康顺小额贷款有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bd3dab62b40dc4f38b61"), 
+    "tel" : "18520677726", 
+    "name" : "济南中财广角担保有限公司", 
+    "address" : "泰州- 建设局旁"
+}
+{ 
+    "_id" : ObjectId("5921bd3fab62b40dc4f38b62"), 
+    "tel" : "15720626814", 
+    "name" : "南京祝夏投资管理有限公司", 
+    "address" : "泰州- 泰兴周边"
+}
+{ 
+    "_id" : ObjectId("5921bd55ab62b40dc4f38b63"), 
+    "tel" : "13971672355", 
+    "name" : "天津平安易贷金融投资有限公司", 
+    "address" : "泰州- 审计局旁"
+}
+{ 
+    "_id" : ObjectId("5921bd5cab62b40dc4f38b64"), 
+    "tel" : "13276637951", 
+    "name" : "江苏嘉实投资担保有限公司", 
+    "address" : "泰州- 凤凰东路66号农业大厦"
+}
+{ 
+    "_id" : ObjectId("5921bd69ab62b40dc4f38b65"), 
+    "tel" : "18888375376", 
+    "name" : "济南中财广角担保有限公司", 
+    "address" : "泰州- 公路局旁"
+}
+{ 
+    "_id" : ObjectId("5921bd6cab62b40dc4f38b66"), 
+    "tel" : "18392507911", 
+    "name" : "淅川县农汇食品销售有限司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bd71ab62b40dc4f38b67"), 
+    "tel" : "13092222322", 
+    "name" : "泰州市扬名电子商务有限公司", 
+    "address" : "泰州- 经济开发区电子商务产业园"
+}
+{ 
+    "_id" : ObjectId("5921bd73ab62b40dc4f38b68"), 
+    "tel" : "13805150756", 
+    "name" : "南京宜星宝置业顾问有限公司", 
+    "address" : "泰州- 东方南路33号"
+}
+{ 
+    "_id" : ObjectId("5921bd75ab62b40dc4f38b69"), 
+    "tel" : "15921796898", 
+    "name" : "天津平安易贷金融投资有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bda7ab62b40dc4f38b6a"), 
+    "tel" : "18262628949", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "泰州- 火车站旁"
+}
+{ 
+    "_id" : ObjectId("5921bda9ab62b40dc4f38b6b"), 
+    "tel" : "18717386718", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bdaeab62b40dc4f38b6c"), 
+    "tel" : "13593268790", 
+    "name" : "兰州市西固区康顺小额贷款有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bdb5ab62b40dc4f38b6d"), 
+    "tel" : "18625176585", 
+    "name" : "百耀投资担保有限公司", 
+    "address" : "泰州- 城中街道迎春西路69号邮政大楼"
+}
+{ 
+    "_id" : ObjectId("5921bdb6ab62b40dc4f38b6e"), 
+    "tel" : "13182983310", 
+    "name" : "友谊国际投资咨询有限公司", 
+    "address" : "泰州- 青年南路"
+}
+{ 
+    "_id" : ObjectId("5921bdc1ab62b40dc4f38b6f"), 
+    "tel" : "15201438986", 
+    "name" : "兰州市西固区康顺小额贷款有限公司", 
+    "address" : "泰州- 国税局旁"
+}
+{ 
+    "_id" : ObjectId("5921bdc5ab62b40dc4f38b70"), 
+    "tel" : "15230169185", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "泰州- 市人民政府附近"
+}
+{ 
+    "_id" : ObjectId("5921bdc6ab62b40dc4f38b71"), 
+    "tel" : "17092575131", 
+    "name" : "江苏富强投资管理有限公司", 
+    "address" : "泰州- 亚方大厦"
+}
+{ 
+    "_id" : ObjectId("5921bdc7ab62b40dc4f38b72"), 
+    "tel" : "17092575131", 
+    "name" : "江苏富强投资管理有限公司", 
+    "address" : "泰州- 亚方大厦"
+}
+{ 
+    "_id" : ObjectId("5921bdc8ab62b40dc4f38b73"), 
+    "tel" : "18710559134", 
+    "name" : "六安市金正泰抵押贷款代理有限公司", 
+    "address" : "泰州- 1276"
+}
+{ 
+    "_id" : ObjectId("5921bdccab62b40dc4f38b74"), 
+    "tel" : "18217508178", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bdceab62b40dc4f38b75"), 
+    "tel" : "13115010030", 
+    "name" : "上海市融联信贷投资有限公司", 
+    "address" : "泰州- 市政府后院811号"
+}
+{ 
+    "_id" : ObjectId("5921bdcfab62b40dc4f38b76"), 
+    "tel" : "17082767679", 
+    "name" : "上海市利源小额贷款股份有限公司", 
+    "address" : "泰州- 市政府后院811号"
+}
+{ 
+    "_id" : ObjectId("5921bdd0ab62b40dc4f38b77"), 
+    "tel" : "13115012230", 
+    "name" : "上海市鼎盛信贷投资有限公司", 
+    "address" : "泰州- 市财政局后院301号"
+}
+{ 
+    "_id" : ObjectId("5921bdd3ab62b40dc4f38b78"), 
+    "tel" : "18620867049", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921bdd4ab62b40dc4f38b79"), 
+    "tel" : "13128289661", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("5921bddeab62b40dc4f38b7a"), 
+    "tel" : "18660085662", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bde0ab62b40dc4f38b7b"), 
+    "tel" : "13211742583", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 国税局旁"
+}
+{ 
+    "_id" : ObjectId("5921bde1ab62b40dc4f38b7c"), 
+    "tel" : "18729022546", 
+    "name" : "太平洋信贷金融投资有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bde2ab62b40dc4f38b7d"), 
+    "tel" : "18625172601", 
+    "name" : "中世华德投资担保有限公司", 
+    "address" : "泰州- 海陵南路泰州尚品国际大厦"
+}
+{ 
+    "_id" : ObjectId("5921bde5ab62b40dc4f38b7e"), 
+    "tel" : "15895801066", 
+    "name" : "南京尊悦置业顾问有限公司", 
+    "address" : "泰州- 海陵路3号"
+}
+{ 
+    "_id" : ObjectId("5921bde7ab62b40dc4f38b7f"), 
+    "tel" : "17816859163", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bdebab62b40dc4f38b80"), 
+    "tel" : "15501733125", 
+    "name" : "上海鲁阜投资管理有限公司", 
+    "address" : "泰州- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("5921bdecab62b40dc4f38b81"), 
+    "tel" : "18620767974", 
+    "name" : "上海鲁阜投资管理有限公司", 
+    "address" : "泰州- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("5921bdeeab62b40dc4f38b82"), 
+    "tel" : "18617384245", 
+    "name" : "上海鲁阜投资管理有限公司", 
+    "address" : "泰州- 市政府旁边"
+}
+{ 
+    "_id" : ObjectId("5921bdeeab62b40dc4f38b83"), 
+    "tel" : "18665593062", 
+    "name" : "安徽亿诚融资理财信息服务有限公司", 
+    "address" : "泰州- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("5921bdf0ab62b40dc4f38b84"), 
+    "tel" : "18878645423", 
+    "name" : "上海鲁阜投资管理有限公司", 
+    "address" : "泰州- 财政局附近"
+}
+{ 
+    "_id" : ObjectId("5921bdf0ab62b40dc4f38b85"), 
+    "tel" : "18676844769", 
+    "name" : "铜陵苏信投资管理有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bdf3ab62b40dc4f38b86"), 
+    "tel" : "18575357460", 
+    "name" : "上海嘉定祥融小额贷款有限公司", 
+    "address" : "泰州- 国土局旁"
+}
+{ 
+    "_id" : ObjectId("5921bdf5ab62b40dc4f38b87"), 
+    "tel" : "13129331870", 
+    "name" : "汇丰金融投资投资公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bdf7ab62b40dc4f38b88"), 
+    "tel" : "18652753162", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 国土局旁"
+}
+{ 
+    "_id" : ObjectId("5921bdf8ab62b40dc4f38b89"), 
+    "tel" : "13247397982", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 税务局旁"
+}
+{ 
+    "_id" : ObjectId("5921bdf9ab62b40dc4f38b8a"), 
+    "tel" : "13262794300", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 海陵周边"
+}
+{ 
+    "_id" : ObjectId("5921bdfdab62b40dc4f38b8b"), 
+    "tel" : "13162531787", 
+    "name" : "天津平安易贷金融投资有限公司", 
+    "address" : "泰州- 财政局旁"
+}
+{ 
+    "_id" : ObjectId("5921be01ab62b40dc4f38b8c"), 
+    "tel" : "15911006712", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 市税务局旁边"
+}
+{ 
+    "_id" : ObjectId("5921be02ab62b40dc4f38b8d"), 
+    "tel" : "15910558772", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 市税务局旁边"
+}
+{ 
+    "_id" : ObjectId("5921be03ab62b40dc4f38b8e"), 
+    "tel" : "18320088199", 
+    "name" : "兰州市西固区康顺小额贷款有限公司", 
+    "address" : "泰州- 财政局对面"
+}
+{ 
+    "_id" : ObjectId("5921be05ab62b40dc4f38b8f"), 
+    "tel" : "15766089738", 
+    "name" : "兰州市西固区康顺小额贷款有限公司", 
+    "address" : "泰州- 财政局对面"
+}
+{ 
+    "_id" : ObjectId("5921be06ab62b40dc4f38b90"), 
+    "tel" : "18320087868", 
+    "name" : "兰州市西固区康顺小额贷款有限公司", 
+    "address" : "泰州- 财政局旁"
+}
+{ 
+    "_id" : ObjectId("5921be07ab62b40dc4f38b91"), 
+    "tel" : "15811589469", 
+    "name" : "淅川县农汇食品销售有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921be32ab62b40dc4f38b92"), 
+    "tel" : "18210657818", 
+    "name" : "兰州市西固区康顺小额贷款有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921be34ab62b40dc4f38b93"), 
+    "tel" : "15252495702", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("5921be36ab62b40dc4f38b94"), 
+    "tel" : "15000923910", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 鸿达大楼A座"
+}
+{ 
+    "_id" : ObjectId("5921be38ab62b40dc4f38b95"), 
+    "tel" : "13042112588", 
+    "name" : "金鼎信贷投资有限公司", 
+    "address" : "泰州- 市财政局旁"
+}
+{ 
+    "_id" : ObjectId("5921be41ab62b40dc4f38b96"), 
+    "tel" : "18802072143", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921be42ab62b40dc4f38b97"), 
+    "tel" : "18482281025", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公", 
+    "address" : "泰州- 民主东路1号"
+}
+{ 
+    "_id" : ObjectId("5921be47ab62b40dc4f38b98"), 
+    "tel" : "15626490703", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 市---内"
+}
+{ 
+    "_id" : ObjectId("5921be4aab62b40dc4f38b99"), 
+    "tel" : "13138691721", 
+    "name" : "汇丰金融投资投资公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921be5bab62b40dc4f38b9a"), 
+    "tel" : "18300706545", 
+    "name" : "汇丰金融贷款投资公司", 
+    "address" : "泰州- 汇丰大厦A座602—606"
+}
+{ 
+    "_id" : ObjectId("5921be5dab62b40dc4f38b9b"), 
+    "tel" : "13585837718", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921be66ab62b40dc4f38b9c"), 
+    "tel" : "13189724832", 
+    "name" : "安徽中安巨融融资担保股份有限公司", 
+    "address" : "泰州- 人民北路100号"
+}
+{ 
+    "_id" : ObjectId("5921be6aab62b40dc4f38b9d"), 
+    "tel" : "13639021923", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 建设中路"
+}
+{ 
+    "_id" : ObjectId("5921be6eab62b40dc4f38b9e"), 
+    "tel" : "18214599386", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921be76ab62b40dc4f38b9f"), 
+    "tel" : "13250765962", 
+    "name" : "武汉宝丰泰投资咨询有限公司", 
+    "address" : "泰州- 地税局附近"
+}
+{ 
+    "_id" : ObjectId("5921be79ab62b40dc4f38ba0"), 
+    "tel" : "13113021285", 
+    "name" : "武汉隆昌泰投资咨询有限公司", 
+    "address" : "泰州- 地税局附近"
+}
+{ 
+    "_id" : ObjectId("5921be7cab62b40dc4f38ba1"), 
+    "tel" : "15921182718", 
+    "name" : "远大小额投资担保公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921be7dab62b40dc4f38ba2"), 
+    "tel" : "15800606568", 
+    "name" : "平安易贷金融投资有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921be7eab62b40dc4f38ba3"), 
+    "tel" : "18302861479", 
+    "name" : "兰州市西固区康顺小额贷款有限公司", 
+    "address" : "泰州- 农业银行旁边"
+}
+{ 
+    "_id" : ObjectId("5921be83ab62b40dc4f38ba4"), 
+    "tel" : "13266374758", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921be84ab62b40dc4f38ba5"), 
+    "tel" : "15625090052", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 建设中路"
+}
+{ 
+    "_id" : ObjectId("5921be89ab62b40dc4f38ba6"), 
+    "tel" : "13244712295", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921be8dab62b40dc4f38ba7"), 
+    "tel" : "18792485430", 
+    "name" : "安徽中安巨融融资担保股份有限公司", 
+    "address" : "泰州- 长征路2号"
+}
+{ 
+    "_id" : ObjectId("5921be91ab62b40dc4f38ba8"), 
+    "tel" : "15221862018", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921be92ab62b40dc4f38ba9"), 
+    "tel" : "13106869112", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921be94ab62b40dc4f38baa"), 
+    "tel" : "15026735080", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "泰州- 人民医院旁"
+}
+{ 
+    "_id" : ObjectId("5921be96ab62b40dc4f38bab"), 
+    "tel" : "15914323112", 
+    "name" : "太平洋信贷金融投资有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921be9aab62b40dc4f38bac"), 
+    "tel" : "13162636628", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "泰州- 市政府附近"
+}
+{ 
+    "_id" : ObjectId("5921be9dab62b40dc4f38bad"), 
+    "tel" : "13143434729", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921be9fab62b40dc4f38bae"), 
+    "tel" : "13106885829", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921bea2ab62b40dc4f38baf"), 
+    "tel" : "15625534158", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921bea3ab62b40dc4f38bb0"), 
+    "tel" : "15269178085", 
+    "name" : "平安小额投资有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bea4ab62b40dc4f38bb1"), 
+    "tel" : "18457050792", 
+    "name" : "六安市金正泰抵押贷款代理有限公司", 
+    "address" : "泰州- 财政局附近"
+}
+{ 
+    "_id" : ObjectId("5921bea5ab62b40dc4f38bb2"), 
+    "tel" : "15105704543", 
+    "name" : "南昌中财担保有限公司", 
+    "address" : "泰州- 186号"
+}
+{ 
+    "_id" : ObjectId("5921bea8ab62b40dc4f38bb3"), 
+    "tel" : "13249895471", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921beaaab62b40dc4f38bb4"), 
+    "tel" : "13260646129", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921beadab62b40dc4f38bb5"), 
+    "tel" : "15521061965", 
+    "name" : "福建中财担保有限公司", 
+    "address" : "泰州- 泰州--海陵"
+}
+{ 
+    "_id" : ObjectId("5921beaeab62b40dc4f38bb6"), 
+    "tel" : "13930198116", 
+    "name" : "天津中财小额贷款公司", 
+    "address" : "泰州- 电话：13930198116"
+}
+{ 
+    "_id" : ObjectId("5921beafab62b40dc4f38bb7"), 
+    "tel" : "18457050731", 
+    "name" : "河南国贸投资担保有限公司", 
+    "address" : "泰州- 电话：18457050731"
+}
+{ 
+    "_id" : ObjectId("5921beb1ab62b40dc4f38bb8"), 
+    "tel" : "13249432079", 
+    "name" : "天津中财小额贷款有限公司", 
+    "address" : "泰州- 青年北路科技大厦804室"
+}
+{ 
+    "_id" : ObjectId("5921beb4ab62b40dc4f38bb9"), 
+    "tel" : "15911009250", 
+    "name" : "淅川县农汇食品销售有限公司", 
+    "address" : "泰州- 市政府旁"
+}
+{ 
+    "_id" : ObjectId("5921bebfab62b40dc4f38bba"), 
+    "tel" : "18268120321", 
+    "name" : "兰州市西固区康顺小额贷款有限责任公司", 
+    "address" : "泰州- 金鼎大楼B座"
+}
+{ 
+    "_id" : ObjectId("5921befdab62b40dc4f38bbb"), 
+    "tel" : "15651165796", 
+    "name" : "姜堰区帮德财务管理信息咨询服务部", 
+    "address" : "泰州- 城东派出所斜对面紫金园"
+}
+{ 
+    "_id" : ObjectId("5921bf2aab62b40dc4f38bbc"), 
+    "tel" : "18829537322", 
+    "name" : "上海浦东新区银泰小额贷款有限公司", 
+    "address" : "泰州- 人民路65"
+}
+{ 
+    "_id" : ObjectId("5921c000ab62b40dc4f38bbd"), 
+    "tel" : "13262986529", 
+    "name" : "上海长宁国智小额贷款股份有限公司", 
+    "address" : "泰州- 中山南路199号"
+}
